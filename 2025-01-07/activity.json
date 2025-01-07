@@ -2,9 +2,9 @@
   "date": "2025-01-07",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 24,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 73,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 8,
       "files": {
         "/Users/admin/Library/Application Support/Code/User/settings.json": [
           {
@@ -48,6 +48,78 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-01-07T19:03:50.754Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-07T19:04:13.457Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-07T19:05:56.167Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-07T19:06:05.132Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/(checkout)/_checkout/checkout-assinatura/index.tsx": [
+          {
+            "timestamp": "2025-01-07T19:03:39.416Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/(checkout)/_checkout/checkout-assinatura/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
