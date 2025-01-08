@@ -2,9 +2,9 @@
   "date": "2025-01-08",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 148,
+      "totalLinesAdded": 236,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 11,
+      "totalActiveTime": 12,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/index.tsx": [
           {
@@ -144,6 +144,36 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/useInterval.tsx",
             "fileType": ".tsx",
             "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-08T20:07:54.420Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/useInterval.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/store/banner-carousel.tsx": [
+          {
+            "timestamp": "2025-01-08T20:08:48.995Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/store/banner-carousel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 78,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {

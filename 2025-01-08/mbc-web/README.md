@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 148                                          |
+| **Lines Added** (➕)   | 236                                          |
 | **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 147                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Net Change** (↕)    | 235                |
+| **Active Time** (⌚)   | 12 minutes |
 
 
 ## Modified Files
 - **index.tsx** (+4, -0)
 - **index.css** (+118, -0)
 - **_backoffice.tsx** (+8, -1)
-- **useInterval.tsx** (+18, -0)
+- **useInterval.tsx** (+28, -0)
+- **banner-carousel.tsx** (+78, -0)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 31
+".tsx" : 119
 ".css" : 118
 ```
 
@@ -33,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "16h" : 8
-"17h" : 2
+"17h" : 4
 ```
 
 
-> **Last Updated:** 08/01/2025, 17:04:22
+> **Last Updated:** 08/01/2025, 17:09:22
