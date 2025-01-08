@@ -2,7 +2,7 @@
   "date": "2025-01-08",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1387,
+      "totalLinesAdded": 1390,
       "totalLinesRemoved": 27,
       "totalActiveTime": 60,
       "files": {
@@ -633,6 +633,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-08T20:59:21.514Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
