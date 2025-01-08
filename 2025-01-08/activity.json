@@ -2,9 +2,9 @@
   "date": "2025-01-08",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 621,
-      "totalLinesRemoved": 22,
-      "totalActiveTime": 55,
+      "totalLinesAdded": 1387,
+      "totalLinesRemoved": 27,
+      "totalActiveTime": 60,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/index.tsx": [
           {
@@ -480,6 +480,48 @@
             },
             "duration": 3,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-08T20:50:17.291Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-08T20:50:38.335Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-08T20:50:43.998Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/store/header.tsx": [
@@ -568,6 +610,22 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/auth/login.tsx",
             "fileType": ".tsx",
             "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/sidebar.tsx": [
+          {
+            "timestamp": "2025-01-08T20:51:32.982Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 761,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
