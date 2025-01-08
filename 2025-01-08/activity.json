@@ -2,9 +2,9 @@
   "date": "2025-01-08",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1664,
+      "totalLinesAdded": 1747,
       "totalLinesRemoved": 168,
-      "totalActiveTime": 107,
+      "totalActiveTime": 110,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/index.tsx": [
           {
@@ -1125,6 +1125,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-08T22:10:01.399Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/NavMain.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ]
