@@ -2,9 +2,9 @@
   "date": "2025-01-08",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1483,
-      "totalLinesRemoved": 28,
-      "totalActiveTime": 70,
+      "totalLinesAdded": 1571,
+      "totalLinesRemoved": 45,
+      "totalActiveTime": 73,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/index.tsx": [
           {
@@ -605,6 +605,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-08T21:25:18.737Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-08T21:26:02.195Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
