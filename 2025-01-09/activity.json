@@ -1,0 +1,64 @@
+{
+  "date": "2025-01-09",
+  "projects": {
+    "mbc-web": {
+      "totalLinesAdded": 43,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice.tsx": [
+          {
+            "timestamp": "2025-01-09T10:22:15.146Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/user-menu.tsx": [
+          {
+            "timestamp": "2025-01-09T10:24:48.059Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/user-menu.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 3
+      },
+      "changeFrequency": {
+        "7": 3
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice.tsx",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/user-menu.tsx"
+      ],
+      "averageChangeSize": 21.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
