@@ -2,9 +2,9 @@
   "date": "2025-01-09",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 566,
+      "totalLinesAdded": 609,
       "totalLinesRemoved": 22,
-      "totalActiveTime": 107,
+      "totalActiveTime": 108,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice.tsx": [
           {
@@ -998,6 +998,34 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudUtils.tsx",
             "fileType": ".tsx",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-09T20:44:49.763Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudUtils.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-09T20:45:17.536Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudUtils.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 31,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
