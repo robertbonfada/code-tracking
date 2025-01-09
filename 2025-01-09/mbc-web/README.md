@@ -4,15 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 46                                          |
+| **Lines Added** (➕)   | 82                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 46                |
-| **Active Time** (⌚)   | 6 minutes |
+| **Net Change** (↕)    | 82                |
+| **Active Time** (⌚)   | 7 minutes |
 
 
 ## Modified Files
 - **_backoffice.tsx** (+6, -0)
 - **user-menu.tsx** (+40, -0)
+- **AppSidebar.tsx** (+5, -0)
+- **__root.tsx** (+31, -0)
 
 ## Visualizations
 
@@ -21,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 46
+".tsx" : 82
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"07h" : 3
+"07h" : 5
 ```
 
 
-> **Last Updated:** 09/01/2025, 07:30:49
+> **Last Updated:** 09/01/2025, 07:45:49
