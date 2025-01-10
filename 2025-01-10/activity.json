@@ -2,9 +2,9 @@
   "date": "2025-01-10",
   "projects": {
     "primeiro-site": {
-      "totalLinesAdded": 88,
+      "totalLinesAdded": 107,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 51,
+      "totalActiveTime": 62,
       "files": {
         "/Users/admin/tutoriais/primeiro-site/index.html": [
           {
@@ -110,6 +110,62 @@
             "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
             "fileType": ".html",
             "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-10T14:24:06.382Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-10T14:25:52.574Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
+            "fileType": ".html",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-10T14:25:58.858Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-10T14:26:14.353Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "primeiro-site",
             "content": {
@@ -629,6 +685,48 @@
           },
           {
             "timestamp": "2025-01-10T14:19:07.100Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-10T14:22:11.132Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/styles.css",
+            "fileType": ".css",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-10T14:22:50.182Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/styles.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-10T14:26:52.735Z",
             "fileName": "/Users/admin/tutoriais/primeiro-site/styles.css",
             "fileType": ".css",
             "linesAdded": 1,
