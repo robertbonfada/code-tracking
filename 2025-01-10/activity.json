@@ -1,0 +1,139 @@
+{
+  "date": "2025-01-10",
+  "projects": {
+    "primeiro-site": {
+      "totalLinesAdded": 23,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 8,
+      "files": {
+        "/Users/admin/tutoriais/primeiro-site/index.html": [
+          {
+            "timestamp": "2025-01-10T13:32:16.372Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-10T13:33:49.628Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
+            "fileType": ".html",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-10T13:35:40.196Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
+            "fileType": ".html",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-10T13:36:18.986Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/admin/tutoriais/primeiro-site/index.css": [
+          {
+            "timestamp": "2025-01-10T13:35:54.113Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/index.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/admin/tutoriais/primeiro-site/styles.css": [
+          {
+            "timestamp": "2025-01-10T13:36:06.296Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-10T13:36:27.454Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/styles.css",
+            "fileType": ".css",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 5,
+        "css": 3
+      },
+      "changeFrequency": {
+        "10": 8
+      },
+      "topFiles": [
+        "/Users/admin/tutoriais/primeiro-site/index.html",
+        "/Users/admin/tutoriais/primeiro-site/styles.css",
+        "/Users/admin/tutoriais/primeiro-site/index.css"
+      ],
+      "averageChangeSize": 3.2857142857142856
+    }
+  },
+  "totalActiveTime": 8,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "html",
+    "css"
+  ]
+}
