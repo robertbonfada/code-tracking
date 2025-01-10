@@ -3,8 +3,8 @@
   "projects": {
     "primeiro-site": {
       "totalLinesAdded": 107,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 62,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 63,
       "files": {
         "/Users/admin/tutoriais/primeiro-site/index.html": [
           {
@@ -731,6 +731,20 @@
             "fileType": ".css",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "primeiro-site",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-10T14:27:32.692Z",
+            "fileName": "/Users/admin/tutoriais/primeiro-site/styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "primeiro-site",
             "content": {
               "added": [],
