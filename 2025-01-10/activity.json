@@ -770,9 +770,9 @@
       "averageChangeSize": 3.2857142857142856
     },
     "mbc-web": {
-      "totalLinesAdded": 81,
+      "totalLinesAdded": 84,
       "totalLinesRemoved": 119,
-      "totalActiveTime": 28,
+      "totalActiveTime": 29,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudUtils.tsx": [
           {
@@ -1036,6 +1036,20 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
             "fileType": ".tsx",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-10T20:21:13.238Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
