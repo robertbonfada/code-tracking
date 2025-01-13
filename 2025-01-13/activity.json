@@ -2,9 +2,9 @@
   "date": "2025-01-13",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 1404,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 36,
+      "totalLinesAdded": 1410,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 41,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/xls.js": [
           {
@@ -311,6 +311,34 @@
             "fileType": ".js",
             "linesAdded": 0,
             "linesRemoved": 8,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-13T20:32:24.268Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/pdf.js",
+            "fileType": ".js",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-13T20:33:28.339Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/pdf.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "termonied-web",
             "content": {
               "added": [],
