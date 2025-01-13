@@ -2,7 +2,7 @@
   "date": "2025-01-13",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 1161,
+      "totalLinesAdded": 1354,
       "totalLinesRemoved": 0,
       "totalActiveTime": 18,
       "files": {
@@ -162,6 +162,22 @@
             },
             "duration": 2,
             "language": "jsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/pdf.js": [
+          {
+            "timestamp": "2025-01-13T12:04:20.747Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/pdf.js",
+            "fileType": ".js",
+            "linesAdded": 193,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ]
       },
