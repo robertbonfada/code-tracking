@@ -2,9 +2,9 @@
   "date": "2025-01-13",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 1361,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 1404,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 36,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/xls.js": [
           {
@@ -162,6 +162,20 @@
             },
             "duration": 2,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-01-13T20:27:45.122Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/reportTermometria/page.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
           }
         ],
         "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/pdf.js": [
@@ -261,6 +275,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-13T20:26:43.715Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/pdf.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-13T20:28:33.012Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/pdf.js",
+            "fileType": ".js",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-13T20:29:34.788Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/pdf.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "js"
           }
         ]
