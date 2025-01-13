@@ -1,0 +1,47 @@
+{
+  "date": "2025-01-13",
+  "projects": {
+    "termonied-web": {
+      "totalLinesAdded": 235,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/xls.js": [
+          {
+            "timestamp": "2025-01-13T11:33:47.306Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/xls.js",
+            "fileType": ".js",
+            "linesAdded": 235,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/export/xls.js"
+      ],
+      "averageChangeSize": 235
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "js"
+  ]
+}
