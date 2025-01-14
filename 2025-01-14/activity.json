@@ -2,9 +2,9 @@
   "date": "2025-01-14",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1659,
-      "totalLinesRemoved": 24,
-      "totalActiveTime": 61,
+      "totalLinesAdded": 1669,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 62,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/.gitignore": [
           {
@@ -647,6 +647,34 @@
             "fileType": ".tsx",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-14T21:27:41.899Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-14T21:27:45.009Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "mbc-web",
             "content": {
               "added": [],
