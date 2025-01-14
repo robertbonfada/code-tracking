@@ -4,15 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 95                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 94                |
-| **Active Time** (⌚)   | 1 minute |
+| **Lines Added** (➕)   | 846                                          |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 841                |
+| **Active Time** (⌚)   | 11 minutes |
 
 
 ## Modified Files
 - **.gitignore** (+26, -1)
 - **package.json** (+69, -0)
+- **AppSidebar.tsx** (+80, -3)
+- **CrudUtils.tsx** (+265, -0)
+- **index.tsx** (+406, -1)
 
 ## Visualizations
 
@@ -23,6 +26,7 @@ pie showData
 title Lines changed by file type
 "unknown" : 27
 ".json" : 69
+".tsx" : 755
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"13h" : 3
+"13h" : 10
 ```
 
 
-> **Last Updated:** 14/01/2025, 13:43:17
+> **Last Updated:** 14/01/2025, 13:48:17
