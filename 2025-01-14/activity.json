@@ -3,8 +3,8 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 1595,
-      "totalLinesRemoved": 18,
-      "totalActiveTime": 51,
+      "totalLinesRemoved": 19,
+      "totalActiveTime": 55,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/.gitignore": [
           {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-01-14T17:13:34.920Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "unknown"
           }
         ],
