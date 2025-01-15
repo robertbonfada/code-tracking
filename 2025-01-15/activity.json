@@ -2,7 +2,7 @@
   "date": "2025-01-15",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 6,
+      "totalLinesAdded": 8,
       "totalLinesRemoved": 2,
       "totalActiveTime": 7,
       "files": {
@@ -105,6 +105,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-15T12:00:14.263Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
