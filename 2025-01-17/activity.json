@@ -2,9 +2,9 @@
   "date": "2025-01-17",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 2026,
+      "totalLinesAdded": 2063,
       "totalLinesRemoved": 103,
-      "totalActiveTime": 108,
+      "totalActiveTime": 113,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx": [
           {
@@ -1202,6 +1202,48 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/utils/Validator.ts",
             "fileType": ".ts",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-17T19:06:35.341Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/utils/Validator.ts",
+            "fileType": ".ts",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-17T19:08:08.739Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/utils/Validator.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-17T19:08:19.043Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/utils/Validator.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
