@@ -2,9 +2,9 @@
   "date": "2025-01-17",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 222,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 819,
+      "totalLinesRemoved": 21,
+      "totalActiveTime": 29,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/StatusBar.tsx": [
           {
@@ -222,6 +222,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T21:12:37.795Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/Tabs/Tabs.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/Tabs/List.tsx": [
@@ -252,6 +266,142 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/Tabs/Trigger.tsx": [
+          {
+            "timestamp": "2025-01-17T21:12:15.247Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/Tabs/Trigger.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T21:12:23.827Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/Tabs/Trigger.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudRecordForm.tsx": [
+          {
+            "timestamp": "2025-01-17T21:12:48.621Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudRecordForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx": [
+          {
+            "timestamp": "2025-01-17T21:13:13.070Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 427,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T21:13:47.867Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/StatusBar.module.css": [
+          {
+            "timestamp": "2025-01-17T21:14:50.373Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/StatusBar.module.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-17T21:14:50.671Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/StatusBar.module.css",
+            "fileType": ".css",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js": [
+          {
+            "timestamp": "2025-01-17T21:15:20.216Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-01-17T21:15:28.610Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
