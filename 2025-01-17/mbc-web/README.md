@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 4550                                          |
-| **Lines Removed** (➖) | 524                                        |
-| **Net Change** (↕)    | 4026                |
-| **Active Time** (⌚)   | 209 minutes |
+| **Lines Added** (➕)   | 4147                                          |
+| **Lines Removed** (➖) | 523                                        |
+| **Net Change** (↕)    | 3624                |
+| **Active Time** (⌚)   | 210 minutes |
 
 
 ## Modified Files
 - **index.tsx** (+56, -61)
 - **index.tsx** (+2, -2)
-- **types.ts** (+183, -2)
+- **types.ts** (+2, -2)
 - **tailwind.config.js** (+101, -8)
 - **index.css** (+4, -4)
 - **usuarios.tsx** (+98, -0)
@@ -22,7 +22,7 @@
 - **config.ts** (+12, -0)
 - **_config.ts** (+12, -0)
 - **-config.ts** (+170, -15)
-- **CrudRecordForm.tsx** (+1809, -21)
+- **CrudRecordForm.tsx** (+1812, -19)
 - **Sideover.tsx** (+44, -2)
 - **settings.json** (+7, -0)
 - **Validator.ts** (+197, -0)
@@ -32,9 +32,10 @@
 - **Input.tsx** (+141, -2)
 - **Input.module.css** (+16, -0)
 - **RenderViewField.tsx** (+173, -82)
-- **RequestError.ts** (+30, -0)
-- **CrudUtils.tsx** (+289, -0)
-- **ConfirmationTitile.tsx** (+26, -2)
+- **ConfirmationTitile.module.css** (+20, -0)
+- **ErrorIndicator.tsx** (+19, -1)
+- **LocalLoading.tsx** (+12, -2)
+- **LocalLoading.module.css** (+69, -0)
 
 ## Visualizations
 
@@ -43,10 +44,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 4304
-".ts" : 621
+".tsx" : 4022
+".ts" : 410
 ".js" : 109
-".css" : 33
+".css" : 122
 ".json" : 7
 ```
 
@@ -61,9 +62,9 @@ title Coding activity by hour (count of changes)
 "14h" : 1
 "15h" : 8
 "16h" : 22
-"17h" : 57
-"18h" : 7
+"17h" : 51
+"18h" : 15
 ```
 
 
-> **Last Updated:** 17/01/2025, 18:02:04
+> **Last Updated:** 17/01/2025, 18:07:04

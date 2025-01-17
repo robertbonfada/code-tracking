@@ -2238,6 +2238,232 @@
       "averageChangeSize": 5.7727272727272725
     },
     "NRE-mbc-frontend": {
+      "totalLinesAdded": 654,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/RenderInputField.tsx": [
+          {
+            "timestamp": "2025-01-17T19:57:09.248Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 555,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica-sdk/src/utils/RequestError.ts": [
+          {
+            "timestamp": "2025-01-17T20:57:58.879Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica-sdk/src/utils/RequestError.ts",
+            "fileType": ".ts",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@platform/components/LocalLoading/LocalLoading.module.css": [
+          {
+            "timestamp": "2025-01-17T21:06:19.348Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@platform/components/LocalLoading/LocalLoading.module.css",
+            "fileType": ".css",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/RenderInputField.tsx"
+      ],
+      "averageChangeSize": 555
+    }
+  },
+  "totalActiveTime": 18,
+  "totalProjects": 1,
+  "totalFiles": 5,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts",
+    "js",
+    "css"
+  ]
+}x",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T21:03:09.768Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/ErrorIndicator.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T21:04:34.421Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/ErrorIndicator.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T21:04:38.976Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/ErrorIndicator.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/LocalLoading.tsx": [
+          {
+            "timestamp": "2025-01-17T21:05:16.711Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/LocalLoading.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T21:05:17.175Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/LocalLoading.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T21:05:20.468Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/LocalLoading.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/LocalLoading.module.css": [
+          {
+            "timestamp": "2025-01-17T21:06:23.824Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/LocalLoading.module.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-17T21:06:24.288Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/LocalLoading.module.css",
+            "fileType": ".css",
+            "linesAdded": 68,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 11,
+        "ts": 5,
+        "js": 5,
+        "css": 5
+      },
+      "changeFrequency": {
+        "7": 26
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/index.tsx",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/types.ts",
+        "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/index.css"
+      ],
+      "averageChangeSize": 5.7727272727272725
+    },
+    "NRE-mbc-frontend": {
       "totalLinesAdded": 585,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
