@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2746                                          |
-| **Lines Removed** (➖) | 284                                        |
-| **Net Change** (↕)    | 2462                |
-| **Active Time** (⌚)   | 141 minutes |
+| **Lines Removed** (➖) | 394                                        |
+| **Net Change** (↕)    | 2352                |
+| **Active Time** (⌚)   | 144 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,7 @@
 - **Sideover.tsx** (+44, -2)
 - **settings.json** (+7, -0)
 - **Validator.ts** (+197, -0)
-- **RenderInputField.tsx** (+564, -180)
+- **RenderInputField.tsx** (+564, -290)
 
 ## Visualizations
 
@@ -35,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2589
+".tsx" : 2699
 ".ts" : 410
 ".js" : 16
 ".css" : 8
@@ -53,8 +53,8 @@ title Coding activity by hour (count of changes)
 "14h" : 1
 "15h" : 8
 "16h" : 22
-"17h" : 3
+"17h" : 5
 ```
 
 
-> **Last Updated:** 17/01/2025, 17:05:18
+> **Last Updated:** 17/01/2025, 17:10:18
