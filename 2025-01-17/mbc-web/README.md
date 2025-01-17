@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1980                                          |
-| **Lines Removed** (➖) | 99                                        |
-| **Net Change** (↕)    | 1881                |
-| **Active Time** (⌚)   | 94 minutes |
+| **Lines Added** (➕)   | 1993                                          |
+| **Lines Removed** (➖) | 103                                        |
+| **Net Change** (↕)    | 1890                |
+| **Active Time** (⌚)   | 103 minutes |
 
 
 ## Modified Files
@@ -22,9 +22,10 @@
 - **config.ts** (+12, -0)
 - **_config.ts** (+12, -0)
 - **-config.ts** (+170, -15)
-- **CrudRecordForm.tsx** (+1353, -5)
+- **CrudRecordForm.tsx** (+1356, -9)
 - **Sideover.tsx** (+44, -2)
 - **settings.json** (+7, -0)
+- **Validator.ts** (+10, -0)
 
 ## Visualizations
 
@@ -33,8 +34,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1835
-".ts" : 213
+".tsx" : 1842
+".ts" : 223
 ".js" : 16
 ".css" : 8
 ".json" : 7
@@ -49,7 +50,8 @@ title Coding activity by hour (count of changes)
 "08h" : 15
 "11h" : 7
 "14h" : 1
+"15h" : 6
 ```
 
 
-> **Last Updated:** 17/01/2025, 15:00:18
+> **Last Updated:** 17/01/2025, 15:05:18
