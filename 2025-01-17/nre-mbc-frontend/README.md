@@ -4,16 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 654                                          |
+| **Lines Added** (➕)   | 468                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 654                |
+| **Net Change** (↕)    | 468                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
-- **RenderInputField.tsx** (+555, -0)
-- **RequestError.ts** (+30, -0)
-- **LocalLoading.module.css** (+69, -0)
+- **Crud.tsx** (+468, -0)
 
 ## Visualizations
 
@@ -22,9 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 555
-".ts" : 30
-".css" : 69
+".tsx" : 468
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,10 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 1
-"17h" : 1
 "18h" : 1
 ```
 
 
-> **Last Updated:** 17/01/2025, 18:07:04
+> **Last Updated:** 17/01/2025, 18:52:04
