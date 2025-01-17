@@ -2238,7 +2238,7 @@
       "averageChangeSize": 5.7727272727272725
     },
     "NRE-mbc-frontend": {
-      "totalLinesAdded": 555,
+      "totalLinesAdded": 585,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -2256,6 +2256,22 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica-sdk/src/utils/RequestError.ts": [
+          {
+            "timestamp": "2025-01-17T20:57:58.879Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica-sdk/src/utils/RequestError.ts",
+            "fileType": ".ts",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
