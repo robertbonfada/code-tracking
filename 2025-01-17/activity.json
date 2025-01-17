@@ -2,7 +2,7 @@
   "date": "2025-01-17",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1073,
+      "totalLinesAdded": 1522,
       "totalLinesRemoved": 98,
       "totalActiveTime": 91,
       "files": {
@@ -861,6 +861,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-17T14:09:57.252Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudRecordForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 449,
+            "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
               "added": [],
