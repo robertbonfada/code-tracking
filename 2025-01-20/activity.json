@@ -633,6 +633,39 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/leads/-config.ts"
       ],
       "averageChangeSize": 19.142857142857142
+    },
+    "NRE-mbc-frontend": {
+      "totalLinesAdded": 555,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/RenderInputField.tsx": [
+          {
+            "timestamp": "2025-01-20T20:07:01.282Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 555,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/RenderInputField.tsx"
+      ],
+      "averageChangeSize": 555
     }
   },
   "totalActiveTime": 6,
