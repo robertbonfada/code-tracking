@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 962                                          |
-| **Lines Removed** (➖) | 183                                        |
-| **Net Change** (↕)    | 779                |
-| **Active Time** (⌚)   | 64 minutes |
+| **Lines Added** (➕)   | 1082                                          |
+| **Lines Removed** (➖) | 194                                        |
+| **Net Change** (↕)    | 888                |
+| **Active Time** (⌚)   | 77 minutes |
 
 
 ## Modified Files
@@ -18,12 +18,16 @@
 - **package.json** (+73, -0)
 - **Validator.ts** (+197, -0)
 - **tailwind.config.js** (+47, -47)
-- **index.tsx** (+117, -108)
+- **index.tsx** (+117, -113)
 - **RenderViewField.tsx** (+0, -3)
 - **index.tsx** (+1, -0)
 - **CrudFilter.tsx** (+105, -6)
 - **RenderInputField.tsx** (+1, -2)
 - **SideOver.tsx** (+7, -14)
+- **CrudUtils.tsx** (+1, -1)
+- **Badge** (+33, -0)
+- **Badge.tsx** (+34, -5)
+- **Badge.module.css** (+52, -0)
 
 ## Visualizations
 
@@ -32,10 +36,12 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 504
+".tsx" : 550
 ".ts" : 474
 ".json" : 73
 ".js" : 94
+"unknown" : 33
+".css" : 52
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,8 +51,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "10h" : 19
 "16h" : 19
-"17h" : 10
+"17h" : 21
 ```
 
 
-> **Last Updated:** 20/01/2025, 17:25:03
+> **Last Updated:** 20/01/2025, 17:30:03
