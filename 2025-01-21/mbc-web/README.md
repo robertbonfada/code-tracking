@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 428                                          |
-| **Lines Removed** (➖) | 18                                        |
-| **Net Change** (↕)    | 410                |
-| **Active Time** (⌚)   | 61 minutes |
+| **Lines Added** (➕)   | 432                                          |
+| **Lines Removed** (➖) | 19                                        |
+| **Net Change** (↕)    | 413                |
+| **Active Time** (⌚)   | 70 minutes |
 
 
 ## Modified Files
@@ -19,11 +19,12 @@
 - **AppSidebar.tsx** (+2, -0)
 - **package.json** (+0, -1)
 - **index.tsx** (+3, -0)
-- **-config.ts** (+79, -0)
-- **RenderViewField.tsx** (+18, -2)
+- **-config.ts** (+80, -0)
+- **RenderViewField.tsx** (+19, -2)
 - **RenderInputField.tsx** (+12, -0)
-- **TableField.tsx** (+210, -6)
+- **TableField.tsx** (+211, -7)
 - **IdHelper.ts** (+9, -0)
+- **CrudRecordForm.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -32,9 +33,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 357
+".tsx" : 361
 ".json" : 1
-".ts" : 88
+".ts" : 89
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +45,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "06h" : 13
 "07h" : 29
-"08h" : 4
+"08h" : 9
 ```
 
 
-> **Last Updated:** 21/01/2025, 08:03:39
+> **Last Updated:** 21/01/2025, 08:08:39
