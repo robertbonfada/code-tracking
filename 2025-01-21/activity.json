@@ -2,9 +2,9 @@
   "date": "2025-01-21",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 150,
+      "totalLinesAdded": 397,
       "totalLinesRemoved": 10,
-      "totalActiveTime": 30,
+      "totalActiveTime": 39,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/main.tsx": [
           {
@@ -65,6 +65,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-21T10:10:41.840Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/leads/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "tsx"
           }
         ],
@@ -316,6 +330,82 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-21T10:08:38.007Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/leads/-config.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderViewField.tsx": [
+          {
+            "timestamp": "2025-01-21T10:11:57.064Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderViewField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx": [
+          {
+            "timestamp": "2025-01-21T10:12:32.014Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/TableField.tsx": [
+          {
+            "timestamp": "2025-01-21T10:13:00.254Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/TableField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-21T10:13:00.840Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/TableField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 207,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
@@ -331,6 +421,39 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/leads/index.tsx"
       ],
       "averageChangeSize": 9.5
+    },
+    "NRE-mbc-frontend": {
+      "totalLinesAdded": 208,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/FormV2/TableField.tsx": [
+          {
+            "timestamp": "2025-01-21T10:12:56.712Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/FormV2/TableField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 208,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/FormV2/TableField.tsx"
+      ],
+      "averageChangeSize": 208
     }
   },
   "totalActiveTime": 3,
