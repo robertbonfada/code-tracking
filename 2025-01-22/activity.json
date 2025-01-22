@@ -2,9 +2,9 @@
   "date": "2025-01-22",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 462,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 463,
+      "totalLinesRemoved": 101,
+      "totalActiveTime": 28,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudRecordForm.tsx": [
           {
@@ -129,6 +129,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 11,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-22T10:09:20.387Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
               "added": [],
@@ -299,6 +313,34 @@
             "fileType": ".ts",
             "linesAdded": 20,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-22T10:08:33.044Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/-config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 70,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-22T10:08:49.393Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/-config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 18,
             "projectName": "mbc-web",
             "content": {
               "added": [],
