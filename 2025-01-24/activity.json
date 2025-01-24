@@ -65,6 +65,39 @@
         "/Users/admin/Downloads/medium-unlocker/background.js"
       ],
       "averageChangeSize": 69
+    },
+    "termonied-web": {
+      "totalLinesAdded": 43,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/suporte/page.tsx": [
+          {
+            "timestamp": "2025-01-24T14:15:04.102Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/suporte/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/suporte/page.tsx"
+      ],
+      "averageChangeSize": 43
     }
   },
   "totalActiveTime": 2,
