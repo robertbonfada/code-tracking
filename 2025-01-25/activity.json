@@ -2,9 +2,9 @@
   "date": "2025-01-25",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 887,
+      "totalLinesAdded": 1207,
       "totalLinesRemoved": 113,
-      "totalActiveTime": 40,
+      "totalActiveTime": 46,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/middleware.ts": [
           {
@@ -307,6 +307,54 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/ModalConfirm/index.jsx": [
+          {
+            "timestamp": "2025-01-25T15:13:07.768Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/ModalConfirm/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/ModalLogin/index.tsx": [
+          {
+            "timestamp": "2025-01-25T15:13:12.713Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/ModalLogin/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 138,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/UsersList/index.jsx": [
+          {
+            "timestamp": "2025-01-25T15:17:06.539Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/UsersList/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 113,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "jsx"
           }
         ]
