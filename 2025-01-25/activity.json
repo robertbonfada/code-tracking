@@ -2,9 +2,9 @@
   "date": "2025-01-25",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 1477,
+      "totalLinesAdded": 2110,
       "totalLinesRemoved": 118,
-      "totalActiveTime": 57,
+      "totalActiveTime": 59,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/middleware.ts": [
           {
@@ -474,6 +474,52 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudRecordForm.tsx": [
+          {
+            "timestamp": "2025-01-25T21:40:59.805Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudRecordForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 436,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/Validator.ts": [
+          {
+            "timestamp": "2025-01-25T21:41:22.371Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/Validator.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-25T21:41:22.703Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/utils/Validator.ts",
+            "fileType": ".ts",
+            "linesAdded": 196,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
