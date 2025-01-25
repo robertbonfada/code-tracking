@@ -2,7 +2,7 @@
   "date": "2025-01-25",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 414,
+      "totalLinesAdded": 416,
       "totalLinesRemoved": 8,
       "totalActiveTime": 25,
       "files": {
@@ -175,6 +175,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-25T14:46:27.981Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/select-plant/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
