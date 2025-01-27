@@ -369,9 +369,9 @@
       "averageChangeSize": 40
     },
     "mbc-web": {
-      "totalLinesAdded": 4771,
+      "totalLinesAdded": 4776,
       "totalLinesRemoved": 246,
-      "totalActiveTime": 127,
+      "totalActiveTime": 132,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.tsx": [
           {
@@ -1718,6 +1718,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:59:29.380Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ]
