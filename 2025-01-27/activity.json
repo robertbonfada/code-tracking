@@ -2,9 +2,9 @@
   "date": "2025-01-27",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 1718,
-      "totalLinesRemoved": 110,
-      "totalActiveTime": 113,
+      "totalLinesAdded": 2017,
+      "totalLinesRemoved": 111,
+      "totalActiveTime": 120,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/types.ts": [
           {
@@ -882,6 +882,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T20:22:47.488Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 298,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/index.tsx": [
@@ -1001,6 +1015,34 @@
           },
           {
             "timestamp": "2025-01-27T20:18:33.806Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudRecordForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T20:25:52.994Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudRecordForm.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T20:25:59.730Z",
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudRecordForm.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
