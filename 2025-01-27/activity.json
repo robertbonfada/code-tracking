@@ -2298,6 +2298,39 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/-config.ts"
       ],
       "averageChangeSize": 465.5
+    },
+    "NRE-mbc-frontend": {
+      "totalLinesAdded": 650,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@modules/loja/produtos/config.ts": [
+          {
+            "timestamp": "2025-01-27T20:04:12.181Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@modules/loja/produtos/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 650,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@modules/loja/produtos/config.ts"
+      ],
+      "averageChangeSize": 650
     }
   },
   "totalActiveTime": 5,
