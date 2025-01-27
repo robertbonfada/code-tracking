@@ -2,9 +2,9 @@
   "date": "2025-01-27",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 200,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 312,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 13,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/types.ts": [
           {
@@ -80,6 +80,120 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-27T10:14:31.439Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/admin/usuarios/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-27T10:15:49.958Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/admin/usuarios/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-27T10:15:56.242Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/admin/usuarios/config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudFilter.tsx": [
+          {
+            "timestamp": "2025-01-27T10:16:47.957Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T10:16:51.987Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T10:16:54.784Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T10:17:29.537Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T10:17:54.423Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
