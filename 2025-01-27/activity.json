@@ -369,9 +369,9 @@
       "averageChangeSize": 40
     },
     "mbc-web": {
-      "totalLinesAdded": 3332,
-      "totalLinesRemoved": 53,
-      "totalActiveTime": 74,
+      "totalLinesAdded": 3373,
+      "totalLinesRemoved": 54,
+      "totalActiveTime": 82,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.tsx": [
           {
@@ -1169,6 +1169,106 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudDeleteModal.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:18:16.593Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudDeleteModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:18:28.537Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudDeleteModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:19:18.693Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudDeleteModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:19:23.154Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudDeleteModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:21:07.311Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudDeleteModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/SideOver.tsx": [
+          {
+            "timestamp": "2025-01-27T12:21:51.472Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/SideOver.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:22:01.344Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/SideOver.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
