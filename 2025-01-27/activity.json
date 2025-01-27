@@ -369,9 +369,9 @@
       "averageChangeSize": 40
     },
     "mbc-web": {
-      "totalLinesAdded": 4468,
-      "totalLinesRemoved": 205,
-      "totalActiveTime": 116,
+      "totalLinesAdded": 4771,
+      "totalLinesRemoved": 243,
+      "totalActiveTime": 125,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.tsx": [
           {
@@ -1503,6 +1503,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:48:11.318Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/-config.tsx": [
@@ -1603,6 +1617,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:50:34.495Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 36,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx": [
@@ -1612,6 +1640,64 @@
             "fileType": ".tsx",
             "linesAdded": 79,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx": [
+          {
+            "timestamp": "2025-01-27T12:52:20.216Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 288,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:52:21.903Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:52:35.022Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T12:52:40.491Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "mbc-web",
             "content": {
               "added": [],
