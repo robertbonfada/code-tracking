@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3386                                          |
+| **Lines Added** (➕)   | 4446                                          |
 | **Lines Removed** (➖) | 54                                        |
-| **Net Change** (↕)    | 3332                |
-| **Active Time** (⌚)   | 89 minutes |
+| **Net Change** (↕)    | 4392                |
+| **Active Time** (⌚)   | 98 minutes |
 
 
 ## Modified Files
-- **index.tsx** (+108, -0)
+- **index.tsx** (+111, -0)
 - **-config.ts** (+829, -0)
 - **-config.tsx** (+875, -8)
 - **CrudUtils.tsx** (+313, -1)
@@ -23,6 +23,9 @@
 - **index.tsx** (+463, -5)
 - **CrudDeleteModal.tsx** (+188, -37)
 - **SideOver.tsx** (+48, -0)
+- **index.tsx** (+111, -0)
+- **-config.tsx** (+867, -0)
+- **AppSidebar.tsx** (+79, -0)
 
 ## Visualizations
 
@@ -31,7 +34,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 2343
+".tsx" : 3403
 ".ts" : 1026
 ".css" : 71
 ```
@@ -42,8 +45,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 40
-"09h" : 27
+"09h" : 36
 ```
 
 
-> **Last Updated:** 27/01/2025, 09:27:52
+> **Last Updated:** 27/01/2025, 09:37:52
