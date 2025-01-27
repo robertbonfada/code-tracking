@@ -3,7 +3,7 @@
   "projects": {
     "termonied-web": {
       "totalLinesAdded": 3123,
-      "totalLinesRemoved": 111,
+      "totalLinesRemoved": 125,
       "totalActiveTime": 170,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/types.ts": [
@@ -1323,6 +1323,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T21:06:23.201Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/form/Autocomplete.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
