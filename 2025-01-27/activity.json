@@ -2696,9 +2696,9 @@
       "averageChangeSize": 465.5
     },
     "NRE-mbc-frontend": {
-      "totalLinesAdded": 816,
+      "totalLinesAdded": 1580,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@modules/loja/produtos/config.ts": [
           {
@@ -2730,6 +2730,38 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/RenderInputField.tsx": [
+          {
+            "timestamp": "2025-01-27T20:37:28.727Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 555,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/types.ts": [
+          {
+            "timestamp": "2025-01-27T20:37:35.869Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 209,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
