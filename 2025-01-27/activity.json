@@ -2,9 +2,9 @@
   "date": "2025-01-27",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 3123,
-      "totalLinesRemoved": 125,
-      "totalActiveTime": 170,
+      "totalLinesAdded": 3328,
+      "totalLinesRemoved": 301,
+      "totalActiveTime": 178,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/types.ts": [
           {
@@ -1338,6 +1338,34 @@
             },
             "duration": 0,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T21:11:19.314Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/form/Autocomplete.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 176,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T21:11:20.120Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/form/Autocomplete.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 169,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/TermoNied/termonied-web/components/form/AutoComplete.module.css": [
@@ -1427,6 +1455,36 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/SideOver.tsx": [
+          {
+            "timestamp": "2025-01-27T21:07:05.468Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/SideOver.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T21:07:10.745Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/SideOver.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
