@@ -2,9 +2,9 @@
   "date": "2025-01-27",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 1486,
-      "totalLinesRemoved": 94,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 1490,
+      "totalLinesRemoved": 99,
+      "totalActiveTime": 81,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/types.ts": [
           {
@@ -627,6 +627,34 @@
               "removed": []
             },
             "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T19:52:11.059Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-27T19:53:08.495Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
