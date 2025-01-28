@@ -3,8 +3,8 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 1150,
-      "totalLinesRemoved": 381,
-      "totalActiveTime": 28,
+      "totalLinesRemoved": 396,
+      "totalActiveTime": 31,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx": [
           {
@@ -259,6 +259,62 @@
             "fileType": ".ts",
             "linesAdded": 81,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-28T23:52:13.406Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/editor/use-create-editor.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-28T23:52:31.626Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/editor/use-create-editor.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-28T23:52:43.898Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/editor/use-create-editor.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-28T23:52:52.638Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/editor/use-create-editor.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "mbc-web",
             "content": {
               "added": [],
