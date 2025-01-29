@@ -65,9 +65,9 @@
       "averageChangeSize": 56
     },
     "mbc-web": {
-      "totalLinesAdded": 209,
+      "totalLinesAdded": 911,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 7,
+      "totalActiveTime": 8,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/fixed-toolbar-button.tsx": [
           {
@@ -165,6 +165,38 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/fixed-toolbar-buttons.tsx",
             "fileType": ".tsx",
             "linesAdded": 187,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/-config.tsx": [
+          {
+            "timestamp": "2025-01-29T11:19:39.880Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 700,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx": [
+          {
+            "timestamp": "2025-01-29T11:19:52.579Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
