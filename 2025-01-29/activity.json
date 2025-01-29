@@ -2,9 +2,9 @@
   "date": "2025-01-29",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 56,
+      "totalLinesAdded": 64,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/api/user/index.ts": [
           {
@@ -20,6 +20,36 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/.eslintrc.json": [
+          {
+            "timestamp": "2025-01-29T10:01:53.786Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/.eslintrc.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-29T10:01:57.813Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/.eslintrc.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
