@@ -63,6 +63,39 @@
         "/Users/admin/Development/Clients/TermoNied/termonied-web/api/user/index.ts"
       ],
       "averageChangeSize": 56
+    },
+    "mbc-web": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/fixed-toolbar-button.tsx": [
+          {
+            "timestamp": "2025-01-29T10:29:47.088Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/fixed-toolbar-button.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/fixed-toolbar-button.tsx"
+      ],
+      "averageChangeSize": 1
     }
   },
   "totalActiveTime": 0,
