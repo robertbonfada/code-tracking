@@ -65,9 +65,9 @@
       "averageChangeSize": 56
     },
     "mbc-web": {
-      "totalLinesAdded": 1260,
+      "totalLinesAdded": 1698,
       "totalLinesRemoved": 7,
-      "totalActiveTime": 23,
+      "totalActiveTime": 31,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/fixed-toolbar-button.tsx": [
           {
@@ -235,6 +235,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-29T11:29:13.317Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/color-dropdown-menu.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/color-picker.tsx": [
@@ -292,6 +306,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-29T11:27:59.510Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/color-picker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ],
@@ -411,6 +439,36 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/color-constants.ts": [
+          {
+            "timestamp": "2025-01-29T11:28:51.747Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/color-constants.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-01-29T11:28:52.115Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/color-constants.ts",
+            "fileType": ".ts",
+            "linesAdded": 435,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
