@@ -3,8 +3,8 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 1990,
-      "totalLinesRemoved": 117,
-      "totalActiveTime": 61,
+      "totalLinesRemoved": 164,
+      "totalActiveTime": 63,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/fixed-toolbar-buttons.tsx": [
           {
@@ -691,6 +691,34 @@
             "fileType": ".tsx",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-30T20:18:34.894Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/TabsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 38,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-30T20:18:59.208Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/TabsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 9,
             "projectName": "mbc-web",
             "content": {
               "added": [],
