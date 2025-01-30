@@ -3,8 +3,8 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 2151,
-      "totalLinesRemoved": 165,
-      "totalActiveTime": 85,
+      "totalLinesRemoved": 166,
+      "totalActiveTime": 86,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/fixed-toolbar-buttons.tsx": [
           {
@@ -463,6 +463,20 @@
             "fileType": ".tsx",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-30T20:38:16.051Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "mbc-web",
             "content": {
               "added": [],
