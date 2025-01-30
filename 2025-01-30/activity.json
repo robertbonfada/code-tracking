@@ -2,7 +2,7 @@
   "date": "2025-01-30",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1990,
+      "totalLinesAdded": 1993,
       "totalLinesRemoved": 164,
       "totalActiveTime": 63,
       "files": {
@@ -725,6 +725,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-30T20:26:21.650Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/TabsField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
