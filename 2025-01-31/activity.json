@@ -2,9 +2,9 @@
   "date": "2025-01-31",
   "projects": {
     "audiobooks-web": {
-      "totalLinesAdded": 1662,
+      "totalLinesAdded": 1713,
       "totalLinesRemoved": 9,
-      "totalActiveTime": 22,
+      "totalActiveTime": 28,
       "files": {
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/types.d.ts": [
           {
@@ -260,6 +260,52 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-31T14:58:05.769Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/slider-volume.module.css": [
+          {
+            "timestamp": "2025-01-31T14:57:10.154Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/slider-volume.module.css",
+            "fileType": ".css",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/slider-duration.module.css": [
+          {
+            "timestamp": "2025-01-31T14:59:24.529Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/slider-duration.module.css",
+            "fileType": ".css",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
           }
         ]
       },
