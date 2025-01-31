@@ -2,7 +2,7 @@
   "date": "2025-01-31",
   "projects": {
     "audiobooks-web": {
-      "totalLinesAdded": 1784,
+      "totalLinesAdded": 1785,
       "totalLinesRemoved": 30,
       "totalActiveTime": 56,
       "files": {
@@ -576,6 +576,22 @@
             },
             "duration": 1,
             "language": "css"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/components/DurationSlider.tsx": [
+          {
+            "timestamp": "2025-01-31T15:55:02.491Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/components/DurationSlider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
