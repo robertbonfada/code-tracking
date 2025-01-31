@@ -2,9 +2,9 @@
   "date": "2025-01-31",
   "projects": {
     "audiobooks-web": {
-      "totalLinesAdded": 1083,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 14,
+      "totalLinesAdded": 1217,
+      "totalLinesRemoved": 7,
+      "totalActiveTime": 20,
       "files": {
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/types.d.ts": [
           {
@@ -144,6 +144,64 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-01-31T14:37:12.749Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/contents/ContentCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/index.css": [
+          {
+            "timestamp": "2025-01-31T14:36:33.699Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/index.css",
+            "fileType": ".css",
+            "linesAdded": 127,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T14:37:10.652Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/index.css",
+            "fileType": ".css",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T14:38:13.777Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/index.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
           }
         ]
       },
