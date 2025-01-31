@@ -1,0 +1,100 @@
+{
+  "date": "2025-01-31",
+  "projects": {
+    "audiobooks-web": {
+      "totalLinesAdded": 631,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/types.d.ts": [
+          {
+            "timestamp": "2025-01-31T14:15:28.051Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/types.d.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/context/PlayerContext.tsx": [
+          {
+            "timestamp": "2025-01-31T14:15:31.038Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/context/PlayerContext.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 214,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/contents/AudioList.tsx": [
+          {
+            "timestamp": "2025-01-31T14:17:53.898Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/contents/AudioList.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 237,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/livro/$livro.tsx": [
+          {
+            "timestamp": "2025-01-31T14:19:54.033Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/livro/$livro.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 179,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0,
+        "tsx": 7
+      },
+      "changeFrequency": {
+        "11": 7
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/types.d.ts",
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/context/PlayerContext.tsx",
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/contents/AudioList.tsx",
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/livro/$livro.tsx"
+      ],
+      "averageChangeSize": 157.75
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "tsx",
+    "ts"
+  ]
+}
