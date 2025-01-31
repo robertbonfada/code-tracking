@@ -3,8 +3,8 @@
   "projects": {
     "audiobooks-web": {
       "totalLinesAdded": 1734,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 34,
+      "totalLinesRemoved": 28,
+      "totalActiveTime": 37,
       "files": {
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/types.d.ts": [
           {
@@ -333,6 +333,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-01-31T15:06:28.885Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/slider-duration.module.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 19,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "css"
           }
         ]
