@@ -1480,6 +1480,53 @@
         "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/types.ts"
       ],
       "averageChangeSize": 209
+    },
+    "termonied-web": {
+      "totalLinesAdded": 156,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(auth)/login/page.tsx": [
+          {
+            "timestamp": "2025-02-03T13:34:33.097Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(auth)/login/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 154,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-03T13:35:47.966Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(auth)/login/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(auth)/login/page.tsx"
+      ],
+      "averageChangeSize": 78
     }
   },
   "totalActiveTime": 1,
