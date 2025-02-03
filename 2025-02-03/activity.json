@@ -1263,7 +1263,7 @@
       "averageChangeSize": 123
     },
     "NRE-mbc-frontend": {
-      "totalLinesAdded": 209,
+      "totalLinesAdded": 221,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -1281,6 +1281,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/FormV2/ImageField.module.css": [
+          {
+            "timestamp": "2025-02-03T12:48:19.921Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/FormV2/ImageField.module.css",
+            "fileType": ".css",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
           }
         ]
       },
