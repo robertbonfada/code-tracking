@@ -1482,9 +1482,9 @@
       "averageChangeSize": 209
     },
     "termonied-web": {
-      "totalLinesAdded": 498,
+      "totalLinesAdded": 507,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 15,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(auth)/login/page.tsx": [
           {
@@ -1536,6 +1536,48 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/user-select-plant/page.tsx",
             "fileType": ".tsx",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-03T13:43:43.979Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/user-select-plant/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-03T13:46:04.070Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/user-select-plant/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-03T13:46:19.706Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/user-select-plant/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "termonied-web",
             "content": {
