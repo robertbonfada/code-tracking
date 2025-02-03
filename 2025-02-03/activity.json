@@ -2,9 +2,9 @@
   "date": "2025-02-03",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1647,
-      "totalLinesRemoved": 50,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 1817,
+      "totalLinesRemoved": 58,
+      "totalActiveTime": 60,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/TabsField.tsx": [
           {
@@ -576,6 +576,92 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js": [
+          {
+            "timestamp": "2025-02-03T11:51:59.542Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 164,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-03T11:52:11.617Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-03T11:54:06.583Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-03T11:54:33.176Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-03T11:54:37.421Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-02-03T11:54:37.901Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/tailwind.config.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
