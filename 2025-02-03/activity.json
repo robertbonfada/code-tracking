@@ -133,6 +133,39 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/global/TabsField.tsx"
       ],
       "averageChangeSize": 123
+    },
+    "NRE-mbc-frontend": {
+      "totalLinesAdded": 209,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/types.ts": [
+          {
+            "timestamp": "2025-02-03T10:51:31.906Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 209,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/types.ts"
+      ],
+      "averageChangeSize": 209
     }
   },
   "totalActiveTime": 1,
