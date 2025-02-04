@@ -2,7 +2,7 @@
   "date": "2025-02-04",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 80,
+      "totalLinesAdded": 84,
       "totalLinesRemoved": 33,
       "totalActiveTime": 6,
       "files": {
@@ -121,6 +121,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-04T18:50:19.544Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
