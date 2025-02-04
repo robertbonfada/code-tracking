@@ -2,9 +2,9 @@
   "date": "2025-02-04",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 161,
-      "totalLinesRemoved": 36,
-      "totalActiveTime": 42,
+      "totalLinesAdded": 163,
+      "totalLinesRemoved": 37,
+      "totalActiveTime": 44,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/-config.tsx": [
           {
@@ -415,6 +415,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-04T19:28:12.208Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-04T19:29:38.636Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
