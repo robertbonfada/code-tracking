@@ -989,6 +989,57 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx"
       ],
       "averageChangeSize": 37.5
+    },
+    "termonied-web": {
+      "totalLinesAdded": 333,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/EditUser/index.jsx": [
+          {
+            "timestamp": "2025-02-05T20:11:55.862Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/EditUser/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/ui/select.tsx": [
+          {
+            "timestamp": "2025-02-05T20:12:24.012Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/ui/select.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 161,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "jsx": 0,
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "17": 1
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/EditUser/index.jsx",
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/ui/select.tsx"
+      ],
+      "averageChangeSize": 166.5
     }
   },
   "totalActiveTime": 1,
