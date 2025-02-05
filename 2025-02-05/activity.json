@@ -1,0 +1,61 @@
+{
+  "date": "2025-02-05",
+  "projects": {
+    "mbc-web": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 75,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx": [
+          {
+            "timestamp": "2025-02-05T10:07:25.712Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 57,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-05T10:08:15.020Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 18,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "7": 1
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx"
+      ],
+      "averageChangeSize": 37.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
