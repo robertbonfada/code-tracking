@@ -2,9 +2,9 @@
   "date": "2025-02-05",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 889,
-      "totalLinesRemoved": 98,
-      "totalActiveTime": 74,
+      "totalLinesAdded": 971,
+      "totalLinesRemoved": 100,
+      "totalActiveTime": 83,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx": [
           {
@@ -714,6 +714,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-05T11:19:49.321Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/planos/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudRecordForm.tsx": [
@@ -772,6 +786,96 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx": [
+          {
+            "timestamp": "2025-02-05T11:20:27.467Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-05T11:20:31.092Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/Select.tsx": [
+          {
+            "timestamp": "2025-02-05T11:22:19.351Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/Select.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-05T11:22:22.917Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/Select.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-05T11:22:26.357Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/Select.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/Select.module.css": [
+          {
+            "timestamp": "2025-02-05T11:23:56.554Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/Select.module.css",
+            "fileType": ".css",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
           }
         ]
       },
