@@ -3,8 +3,8 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 7,
-      "totalLinesRemoved": 75,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 78,
+      "totalActiveTime": 11,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx": [
           {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-05T10:16:09.114Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ImageField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "tsx"
           }
         ]
