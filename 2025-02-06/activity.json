@@ -2,7 +2,7 @@
   "date": "2025-02-06",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 388,
+      "totalLinesAdded": 390,
       "totalLinesRemoved": 5,
       "totalActiveTime": 4,
       "files": {
@@ -77,6 +77,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-06T11:26:56.951Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
