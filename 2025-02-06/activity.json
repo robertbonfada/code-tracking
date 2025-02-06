@@ -2,7 +2,7 @@
   "date": "2025-02-06",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 804,
+      "totalLinesAdded": 807,
       "totalLinesRemoved": 6,
       "totalActiveTime": 10,
       "files": {
@@ -115,6 +115,20 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-06T20:23:24.244Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/MultiSelect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
               "added": [],
