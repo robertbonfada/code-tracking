@@ -2,9 +2,9 @@
   "date": "2025-02-06",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 838,
+      "totalLinesAdded": 850,
       "totalLinesRemoved": 42,
-      "totalActiveTime": 60,
+      "totalActiveTime": 62,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/MultiSelect.tsx ": [
           {
@@ -429,6 +429,34 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-06T21:06:50.606Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/MultiSelect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-06T21:08:36.535Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/MultiSelect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
