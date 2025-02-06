@@ -3,7 +3,7 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 770,
-      "totalLinesRemoved": 5,
+      "totalLinesRemoved": 6,
       "totalActiveTime": 7,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/MultiSelect.tsx ": [
@@ -107,6 +107,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-06T20:13:23.758Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/MultiSelect.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
