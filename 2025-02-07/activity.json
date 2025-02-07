@@ -2,9 +2,9 @@
   "date": "2025-02-07",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1720,
+      "totalLinesAdded": 1928,
       "totalLinesRemoved": 64,
-      "totalActiveTime": 104,
+      "totalActiveTime": 115,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/MultiSelect.tsx": [
           {
@@ -598,6 +598,48 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-07T19:53:16.308Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/planos/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-07T19:54:20.550Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/planos/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-07T19:57:59.183Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/planos/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudRecordForm.tsx": [
@@ -956,6 +998,20 @@
             },
             "duration": 5,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-07T19:54:57.034Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/form/ActionMenu.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx": [
@@ -1054,6 +1110,22 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/planos/index.tsx",
             "fileType": ".tsx",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/button.tsx": [
+          {
+            "timestamp": "2025-02-07T19:55:07.030Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/button.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 62,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
