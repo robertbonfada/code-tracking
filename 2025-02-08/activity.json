@@ -138,6 +138,53 @@
         "/Users/admin/go/src/test-rountines/main.go"
       ],
       "averageChangeSize": 115
+    },
+    "termonied-web": {
+      "totalLinesAdded": 58,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/api/user/index.ts": [
+          {
+            "timestamp": "2025-02-08T20:22:54.188Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/api/user/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-08T20:23:36.949Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/api/user/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1
+      },
+      "changeFrequency": {
+        "17": 1
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/api/user/index.ts"
+      ],
+      "averageChangeSize": 29
     }
   },
   "totalActiveTime": 7,
