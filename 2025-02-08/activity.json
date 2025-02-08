@@ -2,7 +2,7 @@
   "date": "2025-02-08",
   "projects": {
     "test-rountines": {
-      "totalLinesAdded": 103,
+      "totalLinesAdded": 183,
       "totalLinesRemoved": 242,
       "totalActiveTime": 7,
       "files": {
@@ -49,6 +49,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/go/src/test-rountines/main/stress_test.go": [
+          {
+            "timestamp": "2025-02-08T03:11:05.439Z",
+            "fileName": "/Users/admin/go/src/test-rountines/main/stress_test.go",
+            "fileType": ".go",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "go"
           }
         ]
