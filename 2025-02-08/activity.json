@@ -140,9 +140,9 @@
       "averageChangeSize": 115
     },
     "termonied-web": {
-      "totalLinesAdded": 113,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 285,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 10,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/api/user/index.ts": [
           {
@@ -229,6 +229,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "jsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/RegisterUser/index.jsx": [
+          {
+            "timestamp": "2025-02-08T20:41:33.855Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/RegisterUser/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 171,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-08T20:41:44.227Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/RegisterUser/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-08T20:41:47.773Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/components/RegisterUser/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "jsx"
           }
         ]
