@@ -141,7 +141,7 @@
     },
     "termonied-web": {
       "totalLinesAdded": 113,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 2,
       "totalActiveTime": 5,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/api/user/index.ts": [
@@ -215,6 +215,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-08T20:39:18.147Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/(dashboard)/usuarios/page.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "jsx"
           }
         ]
