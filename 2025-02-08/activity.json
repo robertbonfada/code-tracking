@@ -1,0 +1,78 @@
+{
+  "date": "2025-02-08",
+  "projects": {
+    "test-rountines": {
+      "totalLinesAdded": 103,
+      "totalLinesRemoved": 242,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/admin/go/src/test-rountines/stress_test.go": [
+          {
+            "timestamp": "2025-02-08T03:02:43.813Z",
+            "fileName": "/Users/admin/go/src/test-rountines/stress_test.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 79,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-02-08T03:03:14.221Z",
+            "fileName": "/Users/admin/go/src/test-rountines/stress_test.go",
+            "fileType": ".go",
+            "linesAdded": 103,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/go/src/test-rountines/main.go": [
+          {
+            "timestamp": "2025-02-08T03:02:48.071Z",
+            "fileName": "/Users/admin/go/src/test-rountines/main.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 163,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 7
+      },
+      "changeFrequency": {
+        "0": 7
+      },
+      "topFiles": [
+        "/Users/admin/go/src/test-rountines/stress_test.go",
+        "/Users/admin/go/src/test-rountines/main.go"
+      ],
+      "averageChangeSize": 115
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "go"
+  ]
+}
