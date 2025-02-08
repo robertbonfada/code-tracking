@@ -1254,9 +1254,9 @@
       "averageChangeSize": 2.25
     },
     "test-rountines": {
-      "totalLinesAdded": 202,
+      "totalLinesAdded": 207,
       "totalLinesRemoved": 8,
-      "totalActiveTime": 9,
+      "totalActiveTime": 11,
       "files": {
         "/Users/admin/go/src/test-rountines/main.go": [
           {
@@ -1327,6 +1327,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-02-08T02:50:10.661Z",
+            "fileName": "/Users/admin/go/src/test-rountines/main.go",
+            "fileType": ".go",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "go"
           }
         ],
