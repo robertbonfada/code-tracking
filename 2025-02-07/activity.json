@@ -1252,6 +1252,141 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderInputField.tsx"
       ],
       "averageChangeSize": 2.25
+    },
+    "test-rountines": {
+      "totalLinesAdded": 202,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 9,
+      "files": {
+        "/Users/admin/go/src/test-rountines/main.go": [
+          {
+            "timestamp": "2025-02-08T02:43:43.004Z",
+            "fileName": "/Users/admin/go/src/test-rountines/main.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-02-08T02:44:30.980Z",
+            "fileName": "/Users/admin/go/src/test-rountines/main.go",
+            "fileType": ".go",
+            "linesAdded": 136,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-02-08T02:44:42.777Z",
+            "fileName": "/Users/admin/go/src/test-rountines/main.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-02-08T02:44:52.185Z",
+            "fileName": "/Users/admin/go/src/test-rountines/main.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-02-08T02:47:35.497Z",
+            "fileName": "/Users/admin/go/src/test-rountines/main.go",
+            "fileType": ".go",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/go/src/test-rountines/go.mod": [
+          {
+            "timestamp": "2025-02-08T02:47:20.091Z",
+            "fileName": "/Users/admin/go/src/test-rountines/go.mod",
+            "fileType": ".mod",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "mod"
+          },
+          {
+            "timestamp": "2025-02-08T02:47:37.149Z",
+            "fileName": "/Users/admin/go/src/test-rountines/go.mod",
+            "fileType": ".mod",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mod"
+          },
+          {
+            "timestamp": "2025-02-08T02:48:23.659Z",
+            "fileName": "/Users/admin/go/src/test-rountines/go.mod",
+            "fileType": ".mod",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "test-rountines",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mod"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 4,
+        "mod": 5
+      },
+      "changeFrequency": {
+        "23": 9
+      },
+      "topFiles": [
+        "/Users/admin/go/src/test-rountines/main.go",
+        "/Users/admin/go/src/test-rountines/go.mod"
+      ],
+      "averageChangeSize": 26.25
     }
   },
   "totalActiveTime": 3,
