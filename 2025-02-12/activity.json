@@ -47,6 +47,39 @@
         "/Users/admin/httpd_config.conf"
       ],
       "averageChangeSize": 195.5
+    },
+    "mbc-web": {
+      "totalLinesAdded": 31,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/__root.tsx": [
+          {
+            "timestamp": "2025-02-12T23:52:35.752Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/__root.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "20": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/__root.tsx"
+      ],
+      "averageChangeSize": 31
     }
   },
   "totalActiveTime": 1,
