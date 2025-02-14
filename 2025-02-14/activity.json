@@ -121,6 +121,67 @@
         "/Users/admin/Development/Clients/Hericles/checkout_original/index.php"
       ],
       "averageChangeSize": 3319.6666666666665
+    },
+    "checkout": {
+      "totalLinesAdded": 1250,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/admin/Development/Clients/Hericles/checkout/index.php": [
+          {
+            "timestamp": "2025-02-14T17:13:12.989Z",
+            "fileName": "/Users/admin/Development/Clients/Hericles/checkout/index.php",
+            "fileType": ".php",
+            "linesAdded": 1247,
+            "linesRemoved": 0,
+            "projectName": "checkout",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-02-14T17:14:18.565Z",
+            "fileName": "/Users/admin/Development/Clients/Hericles/checkout/index.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "checkout",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-02-14T17:14:27.795Z",
+            "fileName": "/Users/admin/Development/Clients/Hericles/checkout/index.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "checkout",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 3
+      },
+      "changeFrequency": {
+        "14": 3
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/Hericles/checkout/index.php"
+      ],
+      "averageChangeSize": 417.6666666666667
     }
   },
   "totalActiveTime": 3,
