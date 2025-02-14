@@ -254,6 +254,39 @@
         "/Users/admin/Development/Clients/Hericles/checkout/index.php"
       ],
       "averageChangeSize": 417.6666666666667
+    },
+    "mbc-web": {
+      "totalLinesAdded": 122,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx": [
+          {
+            "timestamp": "2025-02-14T19:48:16.032Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx"
+      ],
+      "averageChangeSize": 122
     }
   },
   "totalActiveTime": 3,
