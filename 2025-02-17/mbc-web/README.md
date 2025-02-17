@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1895                                          |
-| **Lines Removed** (➖) | 58                                        |
-| **Net Change** (↕)    | 1837                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Lines Added** (➕)   | 1924                                          |
+| **Lines Removed** (➖) | 68                                        |
+| **Net Change** (↕)    | 1856                |
+| **Active Time** (⌚)   | 61 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **index.tsx** (+114, -0)
 - **-config.tsx** (+613, -1)
 - **RenderInputField.tsx** (+380, -0)
-- **useUsuarios.ts** (+35, -10)
+- **useUsuarios.ts** (+64, -20)
 - **MultiSelect.tsx** (+376, -0)
 - **Checkbox.tsx** (+30, -0)
 
@@ -30,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 438
+".ts" : 477
 "unknown" : 1
 ".tsx" : 1514
 ```
@@ -42,8 +42,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 22
 "09h" : 5
-"10h" : 18
+"10h" : 21
 ```
 
 
-> **Last Updated:** 17/02/2025, 10:19:12
+> **Last Updated:** 17/02/2025, 10:24:12
