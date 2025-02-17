@@ -1055,6 +1055,39 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/ht"
       ],
       "averageChangeSize": 4.857142857142857
+    },
+    "NRE-mbc-frontend": {
+      "totalLinesAdded": 122,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica-sdk/src/auth/UsuariosAPI.ts": [
+          {
+            "timestamp": "2025-02-17T20:44:19.351Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica-sdk/src/auth/UsuariosAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica-sdk/src/auth/UsuariosAPI.ts"
+      ],
+      "averageChangeSize": 122
     }
   },
   "totalActiveTime": 7,
