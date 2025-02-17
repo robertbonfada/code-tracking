@@ -1,0 +1,142 @@
+{
+  "date": "2025-02-17",
+  "projects": {
+    "mbc-web": {
+      "totalLinesAdded": 34,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts": [
+          {
+            "timestamp": "2025-02-17T11:10:27.839Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/ht": [
+          {
+            "timestamp": "2025-02-17T11:10:59.729Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/ht",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts": [
+          {
+            "timestamp": "2025-02-17T11:11:10.466Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T11:11:42.356Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T11:13:01.451Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/utils.ts": [
+          {
+            "timestamp": "2025-02-17T11:12:43.804Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T11:12:55.183Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 6,
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "8": 7
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/utils.ts",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/ht"
+      ],
+      "averageChangeSize": 4.857142857142857
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 4,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "ts",
+    "unknown"
+  ]
+}
