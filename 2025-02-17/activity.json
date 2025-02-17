@@ -2,9 +2,9 @@
   "date": "2025-02-17",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 216,
-      "totalLinesRemoved": 19,
-      "totalActiveTime": 19,
+      "totalLinesAdded": 217,
+      "totalLinesRemoved": 36,
+      "totalActiveTime": 24,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts": [
           {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T11:29:36.541Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
@@ -213,6 +227,34 @@
             "fileType": ".ts",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T11:30:43.622Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T11:30:51.294Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "mbc-web",
             "content": {
               "added": [],
