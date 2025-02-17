@@ -2,9 +2,9 @@
   "date": "2025-02-17",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 2530,
-      "totalLinesRemoved": 116,
-      "totalActiveTime": 122,
+      "totalLinesAdded": 2541,
+      "totalLinesRemoved": 200,
+      "totalActiveTime": 130,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts": [
           {
@@ -1208,6 +1208,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-17T21:43:06.916Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/login.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/common/useLocalStorageState.ts": [
@@ -1335,6 +1349,76 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T21:39:26.892Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/AuthenticationAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T21:40:13.174Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/AuthenticationAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T21:40:33.507Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/AuthenticationAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 73,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T21:40:38.533Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/AuthenticationAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T21:40:43.285Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/AuthenticationAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
               "added": [],
