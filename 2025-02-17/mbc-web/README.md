@@ -4,27 +4,27 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2541                                          |
-| **Lines Removed** (➖) | 200                                        |
+| **Lines Added** (➕)   | 2543                                          |
+| **Lines Removed** (➖) | 202                                        |
 | **Net Change** (↕)    | 2341                |
-| **Active Time** (⌚)   | 130 minutes |
+| **Active Time** (⌚)   | 137 minutes |
 
 
 ## Modified Files
 - **AbstractApiClient.ts** (+168, -23)
 - **ht** (+1, -0)
-- **httpClient.ts** (+53, -13)
+- **httpClient.ts** (+55, -13)
 - **utils.ts** (+3, -0)
 - **UsuariosAPI.ts** (+123, -12)
 - **index.tsx** (+114, -0)
 - **-config.tsx** (+613, -1)
 - **RenderInputField.tsx** (+380, -0)
-- **useUsuarios.ts** (+89, -59)
+- **useUsuarios.ts** (+89, -60)
 - **MultiSelect.tsx** (+376, -0)
 - **Checkbox.tsx** (+30, -0)
 - **index.tsx** (+14, -4)
 - **ServerAPI.ts** (+141, -0)
-- **login.tsx** (+75, -1)
+- **login.tsx** (+75, -2)
 - **useLocalStorageState.ts** (+201, -0)
 - **useFreshRef.ts** (+28, -0)
 - **useIsomorphicEffect.ts** (+13, -0)
@@ -37,9 +37,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 1132
+".ts" : 1135
 "unknown" : 1
-".tsx" : 1608
+".tsx" : 1609
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -52,8 +52,8 @@ title Coding activity by hour (count of changes)
 "10h" : 21
 "15h" : 15
 "17h" : 9
-"18h" : 27
+"18h" : 30
 ```
 
 
-> **Last Updated:** 17/02/2025, 18:44:12
+> **Last Updated:** 17/02/2025, 18:49:12
