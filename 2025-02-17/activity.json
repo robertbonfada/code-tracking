@@ -2,9 +2,9 @@
   "date": "2025-02-17",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 347,
+      "totalLinesAdded": 1074,
       "totalLinesRemoved": 36,
-      "totalActiveTime": 25,
+      "totalActiveTime": 33,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts": [
           {
@@ -336,6 +336,38 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/index.tsx": [
+          {
+            "timestamp": "2025-02-17T12:16:16.803Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 114,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/-config.tsx": [
+          {
+            "timestamp": "2025-02-17T12:18:44.014Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/produtos/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 613,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ]
       },
