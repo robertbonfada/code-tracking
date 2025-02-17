@@ -2,9 +2,9 @@
   "date": "2025-02-17",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1955,
+      "totalLinesAdded": 1956,
       "totalLinesRemoved": 111,
-      "totalActiveTime": 78,
+      "totalActiveTime": 80,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts": [
           {
@@ -391,6 +391,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T20:30:40.501Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/UsuariosAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ],
