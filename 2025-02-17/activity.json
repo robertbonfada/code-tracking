@@ -3,8 +3,8 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 1928,
-      "totalLinesRemoved": 72,
-      "totalActiveTime": 62,
+      "totalLinesRemoved": 79,
+      "totalActiveTime": 63,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts": [
           {
@@ -687,6 +687,34 @@
             "fileType": ".ts",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T18:16:40.355Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/usuarios/useUsuarios.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-17T18:16:49.249Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/usuarios/useUsuarios.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "mbc-web",
             "content": {
               "added": [],
