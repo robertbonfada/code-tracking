@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26461                                          |
-| **Lines Removed** (➖) | 430                                        |
-| **Net Change** (↕)    | 26031                |
-| **Active Time** (⌚)   | 343 minutes |
+| **Lines Added** (➕)   | 26536                                          |
+| **Lines Removed** (➖) | 502                                        |
+| **Net Change** (↕)    | 26034                |
+| **Active Time** (⌚)   | 346 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **RequestApiError.ts** (+32, -0)
 - **utils.ts** (+2, -0)
 - **CrudDeleteModal.tsx** (+153, -8)
-- **package.json** (+151, -4)
+- **package.json** (+155, -4)
 - **index.tsx** (+70, -20)
 - **LeadsAPI.ts** (+120, -64)
 - **useLeads.ts** (+17, -0)
@@ -111,27 +111,29 @@
 - **MultiCheckbox.tsx** (+41, -2)
 - **ImageField.tsx** (+244, -1)
 - **index.tsx** (+458, -0)
-- **index.lazy.tsx** (+67, -6)
+- **index.lazy.tsx** (+67, -9)
 - **index.tsx** (+0, -3)
 - **index.tsx** (+104, -3)
-- **index.lazy.tsx** (+75, -5)
+- **index.lazy.tsx** (+75, -7)
 - **index.tsx** (+111, -3)
-- **index.lazy.tsx** (+126, -1)
-- **index.lazy.tsx** (+104, -1)
-- **index.lazy.tsx** (+125, -2)
+- **index.lazy.tsx** (+126, -2)
+- **index.lazy.tsx** (+104, -3)
+- **index.lazy.tsx** (+125, -4)
 - **login.lazy.tsx** (+95, -0)
 - **index.lazy.tsx** (+10, -0)
 - **settings.json** (+25, -0)
 - **login.lazy.tsx** (+46, -0)
 - **cadastro.lazy.tsx** (+53, -0)
-- **vite.config.ts** (+97, -18)
+- **vite.config.ts** (+97, -66)
 - **-config.tsx** (+342, -0)
-- **index.lazy.tsx** (+73, -12)
+- **index.lazy.tsx** (+73, -15)
 - **SkeletonLoader.tsx** (+26, -3)
-- **use-create-editor.ts** (+258, -11)
-- **RenderInputField.tsx** (+6, -0)
+- **use-create-editor.ts** (+268, -11)
+- **RenderInputField.tsx** (+6, -6)
 - **dialog.tsx** (+120, -0)
 - **package-lock.json** (+15101, -0)
+- **tsconfig.app.tsbuildinfo** (+1, -0)
+- **Select.tsx** (+60, -5)
 
 ## Visualizations
 
@@ -140,9 +142,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 10723
-".ts" : 887
-".json" : 15281
+".tsx" : 10807
+".ts" : 945
+".json" : 15285
+".tsbuildinfo" : 1
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -156,8 +159,8 @@ title Coding activity by hour (count of changes)
 "13h" : 24
 "15h" : 23
 "16h" : 31
-"17h" : 12
+"17h" : 25
 ```
 
 
-> **Last Updated:** 18/02/2025, 17:36:59
+> **Last Updated:** 18/02/2025, 17:46:59
