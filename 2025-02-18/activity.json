@@ -2899,7 +2899,7 @@
       "averageChangeSize": 3
     },
     "NRE-mbc-frontend": {
-      "totalLinesAdded": 196,
+      "totalLinesAdded": 372,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -2917,6 +2917,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/CrudDeleteModal.tsx": [
+          {
+            "timestamp": "2025-02-18T15:52:11.884Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/src/@app/components/Crud/CrudDeleteModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 176,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
           }
         ]
       },
