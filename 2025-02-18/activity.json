@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1713,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 29,
+      "totalLinesAdded": 1790,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 39,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx": [
           {
@@ -226,6 +226,152 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/api/useDeleteCrudMutation.ts": [
+          {
+            "timestamp": "2025-02-18T10:18:36.679Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/api/useDeleteCrudMutation.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T10:19:13.851Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/api/useDeleteCrudMutation.ts",
+            "fileType": ".ts",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T10:20:24.226Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/api/useDeleteCrudMutation.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T10:20:52.782Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/api/useDeleteCrudMutation.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T10:21:09.911Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/api/useDeleteCrudMutation.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T10:21:15.031Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/api/useDeleteCrudMutation.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/RequestApiError.ts": [
+          {
+            "timestamp": "2025-02-18T10:22:14.884Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/RequestApiError.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T10:22:40.071Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/RequestApiError.ts",
+            "fileType": ".ts",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T10:22:47.643Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/RequestApiError.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/utils.ts": [
+          {
+            "timestamp": "2025-02-18T10:22:49.147Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },

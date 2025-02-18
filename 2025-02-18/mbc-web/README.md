@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1713                                          |
-| **Lines Removed** (➖) | 2                                        |
-| **Net Change** (↕)    | 1711                |
-| **Active Time** (⌚)   | 29 minutes |
+| **Lines Added** (➕)   | 1790                                          |
+| **Lines Removed** (➖) | 14                                        |
+| **Net Change** (↕)    | 1776                |
+| **Active Time** (⌚)   | 39 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,9 @@
 - **-config.tsx** (+191, -0)
 - **UsuariosAPI.ts** (+0, -1)
 - **CrudRecordForm.tsx** (+468, -1)
+- **useDeleteCrudMutation.ts** (+43, -12)
+- **RequestApiError.ts** (+32, -0)
+- **utils.ts** (+2, -0)
 
 ## Visualizations
 
@@ -26,7 +29,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 1534
-".ts" : 181
+".ts" : 270
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "06h" : 9
-"07h" : 6
+"07h" : 16
 ```
 
 
-> **Last Updated:** 18/02/2025, 07:18:03
+> **Last Updated:** 18/02/2025, 07:23:03
