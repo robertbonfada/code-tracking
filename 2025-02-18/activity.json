@@ -2,7 +2,7 @@
   "date": "2025-02-18",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 1943,
+      "totalLinesAdded": 2087,
       "totalLinesRemoved": 14,
       "totalActiveTime": 42,
       "files": {
@@ -416,6 +416,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/package.json": [
+          {
+            "timestamp": "2025-02-18T10:37:23.785Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
