@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 11179                                          |
-| **Lines Removed** (➖) | 410                                        |
-| **Net Change** (↕)    | 10769                |
-| **Active Time** (⌚)   | 319 minutes |
+| **Lines Removed** (➖) | 418                                        |
+| **Net Change** (↕)    | 10761                |
+| **Active Time** (⌚)   | 321 minutes |
 
 
 ## Modified Files
@@ -71,7 +71,7 @@
 - **kbd-leaf.tsx** (+23, -3)
 - **link-element.tsx** (+33, -3)
 - **link-floating-toolbar.tsx** (+163, -3)
-- **media-embed-element.tsx** (+136, -3)
+- **media-embed-element.tsx** (+136, -4)
 - **media-popover.tsx** (+98, -0)
 - **mention-input-element.tsx** (+143, -1)
 - **paragraph-element.tsx** (+23, -3)
@@ -128,7 +128,7 @@
 - **-config.tsx** (+342, -0)
 - **index.lazy.tsx** (+67, -6)
 - **SkeletonLoader.tsx** (+26, -3)
-- **use-create-editor.ts** (+258, -4)
+- **use-create-editor.ts** (+258, -11)
 
 ## Visualizations
 
@@ -137,8 +137,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 10584
-".ts" : 828
+".tsx" : 10585
+".ts" : 835
 ".json" : 177
 ```
 
@@ -152,8 +152,8 @@ title Coding activity by hour (count of changes)
 "12h" : 156
 "13h" : 24
 "15h" : 23
-"16h" : 27
+"16h" : 30
 ```
 
 
-> **Last Updated:** 18/02/2025, 16:41:59
+> **Last Updated:** 18/02/2025, 16:51:59

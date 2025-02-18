@@ -3,8 +3,8 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 11179,
-      "totalLinesRemoved": 410,
-      "totalActiveTime": 319,
+      "totalLinesRemoved": 418,
+      "totalActiveTime": 321,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx": [
           {
@@ -2015,6 +2015,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T19:49:00.293Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/media-embed-element.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
@@ -4027,6 +4041,34 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T19:49:49.114Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/editor/use-create-editor.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T19:49:57.808Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/editor/use-create-editor.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "mbc-web",
             "content": {
               "added": [],
