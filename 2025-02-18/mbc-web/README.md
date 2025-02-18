@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 26536                                          |
-| **Lines Removed** (➖) | 502                                        |
+| **Lines Added** (➕)   | 26588                                          |
+| **Lines Removed** (➖) | 554                                        |
 | **Net Change** (↕)    | 26034                |
-| **Active Time** (⌚)   | 346 minutes |
+| **Active Time** (⌚)   | 366 minutes |
 
 
 ## Modified Files
@@ -15,9 +15,9 @@
 - **-config.ts** (+180, -0)
 - **-config.tsx** (+867, -0)
 - **-config.tsx** (+191, -0)
-- **UsuariosAPI.ts** (+0, -1)
+- **UsuariosAPI.ts** (+8, -9)
 - **CrudRecordForm.tsx** (+468, -1)
-- **useDeleteCrudMutation.ts** (+43, -12)
+- **useDeleteCrudMutation.ts** (+51, -20)
 - **RequestApiError.ts** (+32, -0)
 - **utils.ts** (+2, -0)
 - **CrudDeleteModal.tsx** (+153, -8)
@@ -28,7 +28,7 @@
 - **-config.tsx** (+196, -0)
 - **login.tsx** (+0, -3)
 - **__root.tsx** (+31, -1)
-- **useAuthentication.ts** (+0, -3)
+- **useAuthentication.ts** (+13, -16)
 - **-config.tsx** (+0, -6)
 - **tooltip.tsx** (+94, -1)
 - **inline-combobox.tsx** (+395, -1)
@@ -106,7 +106,7 @@
 - **editor-static.tsx** (+56, -1)
 - **column-group-element-static.tsx** (+19, -0)
 - **column-element-static.tsx** (+32, -0)
-- **AuthenticationAPI.ts** (+0, -2)
+- **AuthenticationAPI.ts** (+9, -11)
 - **ActionMenu.tsx** (+37, -0)
 - **MultiCheckbox.tsx** (+41, -2)
 - **ImageField.tsx** (+244, -1)
@@ -134,6 +134,9 @@
 - **package-lock.json** (+15101, -0)
 - **tsconfig.app.tsbuildinfo** (+1, -0)
 - **Select.tsx** (+60, -5)
+- **AbstractApiClient.ts** (+4, -4)
+- **ServerAPI.ts** (+4, -4)
+- **useUsuarios.ts** (+6, -6)
 
 ## Visualizations
 
@@ -143,7 +146,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 10807
-".ts" : 945
+".ts" : 1049
 ".json" : 15285
 ".tsbuildinfo" : 1
 ```
@@ -159,8 +162,8 @@ title Coding activity by hour (count of changes)
 "13h" : 24
 "15h" : 23
 "16h" : 31
-"17h" : 25
+"17h" : 40
 ```
 
 
-> **Last Updated:** 18/02/2025, 17:46:59
+> **Last Updated:** 18/02/2025, 17:51:59
