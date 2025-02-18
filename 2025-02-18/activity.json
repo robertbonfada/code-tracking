@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 10430,
+      "totalLinesAdded": 10444,
       "totalLinesRemoved": 373,
-      "totalActiveTime": 243,
+      "totalActiveTime": 247,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx": [
           {
@@ -3311,6 +3311,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T16:12:03.959Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ]
