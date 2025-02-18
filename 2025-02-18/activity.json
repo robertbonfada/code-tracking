@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 11185,
-      "totalLinesRemoved": 418,
-      "totalActiveTime": 325,
+      "totalLinesAdded": 11232,
+      "totalLinesRemoved": 419,
+      "totalActiveTime": 328,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx": [
           {
@@ -515,6 +515,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-18T20:14:20.131Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "json"
           }
         ],
@@ -3703,6 +3717,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T20:12:59.167Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T20:15:11.966Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 39,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],

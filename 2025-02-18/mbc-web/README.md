@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11185                                          |
-| **Lines Removed** (➖) | 418                                        |
-| **Net Change** (↕)    | 10767                |
-| **Active Time** (⌚)   | 325 minutes |
+| **Lines Added** (➕)   | 11232                                          |
+| **Lines Removed** (➖) | 419                                        |
+| **Net Change** (↕)    | 10813                |
+| **Active Time** (⌚)   | 328 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,7 @@
 - **RequestApiError.ts** (+32, -0)
 - **utils.ts** (+2, -0)
 - **CrudDeleteModal.tsx** (+153, -8)
-- **package.json** (+151, -1)
+- **package.json** (+151, -2)
 - **index.tsx** (+70, -20)
 - **LeadsAPI.ts** (+120, -64)
 - **useLeads.ts** (+17, -0)
@@ -124,7 +124,7 @@
 - **settings.json** (+25, -0)
 - **login.lazy.tsx** (+46, -0)
 - **cadastro.lazy.tsx** (+53, -0)
-- **vite.config.ts** (+48, -15)
+- **vite.config.ts** (+95, -15)
 - **-config.tsx** (+342, -0)
 - **index.lazy.tsx** (+67, -6)
 - **SkeletonLoader.tsx** (+26, -3)
@@ -139,8 +139,8 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 10591
-".ts" : 835
-".json" : 177
+".ts" : 882
+".json" : 178
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -154,7 +154,8 @@ title Coding activity by hour (count of changes)
 "13h" : 24
 "15h" : 23
 "16h" : 31
+"17h" : 3
 ```
 
 
-> **Last Updated:** 18/02/2025, 16:56:59
+> **Last Updated:** 18/02/2025, 17:16:59
