@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 8131,
-      "totalLinesRemoved": 339,
-      "totalActiveTime": 177,
+      "totalLinesAdded": 8710,
+      "totalLinesRemoved": 354,
+      "totalActiveTime": 210,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx": [
           {
@@ -2398,6 +2398,492 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-block-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:22:01.559Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-block-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:22:01.820Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-block-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-leaf-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:22:04.448Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:22:05.560Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-syntax-leaf-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:22:08.132Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-syntax-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-line-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:22:15.032Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-line-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:22:15.365Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/code-line-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/color-picker.tsx": [
+          {
+            "timestamp": "2025-02-18T15:23:00.808Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/color-picker.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/toggle-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:23:34.280Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/toggle-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:23:34.470Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/toggle-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/table-row-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:23:40.417Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/table-row-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:23:40.603Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/table-row-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/paragraph-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:23:57.387Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/paragraph-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/image-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:02.535Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/image-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:24:02.720Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/image-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/hr-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:07.111Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/hr-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:24:07.311Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/hr-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/kbd-leaf-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:12.364Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/kbd-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:24:12.570Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/kbd-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/link-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:15.950Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/link-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:24:16.187Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/link-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/highlight-leaf-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:29.339Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/highlight-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:24:29.620Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/highlight-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/comment-leaf-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:35.734Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/comment-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:24:36.221Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/comment-leaf-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/date-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:40.844Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/date-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:24:41.047Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/date-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/editor-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:44.472Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/editor-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T15:24:45.252Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/editor-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/column-group-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:53.416Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/column-group-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/column-element-static.tsx": [
+          {
+            "timestamp": "2025-02-18T15:24:56.941Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/plate-ui/column-element-static.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/AuthenticationAPI.ts": [
+          {
+            "timestamp": "2025-02-18T15:26:25.654Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/AuthenticationAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
           }
         ]
       },
