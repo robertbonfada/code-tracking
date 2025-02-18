@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 11354                                          |
-| **Lines Removed** (➖) | 424                                        |
-| **Net Change** (↕)    | 10930                |
-| **Active Time** (⌚)   | 341 minutes |
+| **Lines Added** (➕)   | 26461                                          |
+| **Lines Removed** (➖) | 430                                        |
+| **Net Change** (↕)    | 26031                |
+| **Active Time** (⌚)   | 343 minutes |
 
 
 ## Modified Files
@@ -126,11 +126,12 @@
 - **cadastro.lazy.tsx** (+53, -0)
 - **vite.config.ts** (+97, -18)
 - **-config.tsx** (+342, -0)
-- **index.lazy.tsx** (+67, -6)
+- **index.lazy.tsx** (+73, -12)
 - **SkeletonLoader.tsx** (+26, -3)
 - **use-create-editor.ts** (+258, -11)
 - **RenderInputField.tsx** (+6, -0)
 - **dialog.tsx** (+120, -0)
+- **package-lock.json** (+15101, -0)
 
 ## Visualizations
 
@@ -139,9 +140,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 10711
+".tsx" : 10723
 ".ts" : 887
-".json" : 180
+".json" : 15281
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -155,8 +156,8 @@ title Coding activity by hour (count of changes)
 "13h" : 24
 "15h" : 23
 "16h" : 31
-"17h" : 9
+"17h" : 12
 ```
 
 
-> **Last Updated:** 18/02/2025, 17:26:59
+> **Last Updated:** 18/02/2025, 17:36:59

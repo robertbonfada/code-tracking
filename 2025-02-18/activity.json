@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 11354,
-      "totalLinesRemoved": 424,
-      "totalActiveTime": 341,
+      "totalLinesAdded": 26461,
+      "totalLinesRemoved": 430,
+      "totalActiveTime": 343,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx": [
           {
@@ -3932,6 +3932,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T20:32:39.950Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/boxes/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-18T20:32:58.566Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/boxes/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/SkeletonLoader.tsx": [
@@ -4220,6 +4248,22 @@
             },
             "duration": 4,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/package-lock.json": [
+          {
+            "timestamp": "2025-02-18T20:33:22.666Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 15101,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
