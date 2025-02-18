@@ -2,9 +2,9 @@
   "date": "2025-02-18",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 10898,
+      "totalLinesAdded": 10908,
       "totalLinesRemoved": 405,
-      "totalActiveTime": 297,
+      "totalActiveTime": 304,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/usuarios/index.tsx": [
           {
@@ -3592,6 +3592,34 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T19:17:20.466Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-18T19:21:54.005Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/boxes/-config.tsx": [
@@ -3865,7 +3893,7 @@
       "averageChangeSize": 3
     },
     "NRE-mbc-frontend": {
-      "totalLinesAdded": 372,
+      "totalLinesAdded": 441,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -3899,6 +3927,22 @@
             },
             "duration": 0,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/vite.config.ts": [
+          {
+            "timestamp": "2025-02-18T19:17:48.925Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
