@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 532                                          |
-| **Lines Removed** (➖) | 26                                        |
-| **Net Change** (↕)    | 506                |
-| **Active Time** (⌚)   | 30 minutes |
+| **Lines Added** (➕)   | 537                                          |
+| **Lines Removed** (➖) | 27                                        |
+| **Net Change** (↕)    | 510                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -16,11 +16,12 @@
 - **CrudUtils.tsx** (+320, -0)
 - **index.lazy.tsx** (+3, -0)
 - **httpClient.ts** (+4, -1)
-- **index.lazy.tsx** (+9, -5)
-- **ServerAPI.ts** (+4, -0)
+- **index.lazy.tsx** (+9, -6)
+- **ServerAPI.ts** (+6, -0)
 - **types.ts** (+187, -0)
 - **index.tsx** (+2, -0)
 - **useUsuarios.ts** (+2, -0)
+- **UsuariosAPI.ts** (+3, -0)
 
 ## Visualizations
 
@@ -29,8 +30,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 360
-".ts" : 198
+".tsx" : 361
+".ts" : 203
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -41,8 +42,8 @@ title Coding activity by hour (count of changes)
 "07h" : 2
 "08h" : 4
 "17h" : 4
-"18h" : 12
+"18h" : 16
 ```
 
 
-> **Last Updated:** 19/02/2025, 18:42:23
+> **Last Updated:** 19/02/2025, 18:47:23
