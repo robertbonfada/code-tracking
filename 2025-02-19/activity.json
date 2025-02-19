@@ -2,7 +2,7 @@
   "date": "2025-02-19",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 321,
+      "totalLinesAdded": 324,
       "totalLinesRemoved": 20,
       "totalActiveTime": 4,
       "files": {
@@ -93,6 +93,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/boxes/index.lazy.tsx": [
+          {
+            "timestamp": "2025-02-19T20:20:51.890Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/boxes/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
