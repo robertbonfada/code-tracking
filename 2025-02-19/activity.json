@@ -2,9 +2,9 @@
   "date": "2025-02-19",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 528,
+      "totalLinesAdded": 531,
       "totalLinesRemoved": 26,
-      "totalActiveTime": 27,
+      "totalActiveTime": 29,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/leads/index.lazy.tsx": [
           {
@@ -271,6 +271,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx": [
+          {
+            "timestamp": "2025-02-19T21:36:16.906Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-19T21:36:46.533Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/usuarios/useUsuarios.ts": [
+          {
+            "timestamp": "2025-02-19T21:37:23.011Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/usuarios/useUsuarios.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
