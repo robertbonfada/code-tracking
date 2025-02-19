@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-19",
+  "projects": {
+    "mbc-web": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/leads/index.lazy.tsx": [
+          {
+            "timestamp": "2025-02-19T10:35:34.916Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/leads/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/leads/index.lazy.tsx"
+      ],
+      "averageChangeSize": 20
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
