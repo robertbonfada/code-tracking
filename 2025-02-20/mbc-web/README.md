@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 5103                                          |
-| **Lines Removed** (➖) | 202                                        |
-| **Net Change** (↕)    | 4901                |
-| **Active Time** (⌚)   | 103 minutes |
+| **Lines Added** (➕)   | 5113                                          |
+| **Lines Removed** (➖) | 223                                        |
+| **Net Change** (↕)    | 4890                |
+| **Active Time** (⌚)   | 112 minutes |
 
 
 ## Modified Files
@@ -15,17 +15,17 @@
 - **axiosConfig.ts** (+65, -36)
 - **package.json** (+148, -1)
 - **useUsuarios.ts** (+29, -2)
-- **index.lazy.tsx** (+52, -0)
+- **index.lazy.tsx** (+55, -6)
 - **ServerAPI.ts** (+149, -6)
 - **AbstractApiClient.ts** (+146, -1)
-- **index.lazy.tsx** (+68, -7)
+- **index.lazy.tsx** (+75, -14)
 - **RenderInputField.tsx** (+386, -0)
 - **RenderViewField.tsx** (+146, -0)
 - **index.lazy.tsx** (+61, -0)
 - **-config.tsx** (+191, -3)
 - **index.lazy.tsx** (+103, -0)
 - **index.tsx** (+460, -0)
-- **index.lazy.tsx** (+129, -73)
+- **index.lazy.tsx** (+129, -81)
 - **index.lazy.tsx** (+125, -0)
 - **CrudRecordForm.tsx** (+470, -0)
 - **login.lazy.tsx** (+130, -18)
@@ -50,7 +50,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 1865
 ".json" : 149
-".tsx" : 3289
+".tsx" : 3320
 ".tsbuildinfo" : 2
 ```
 
@@ -63,8 +63,8 @@ title Coding activity by hour (count of changes)
 "11h" : 16
 "12h" : 39
 "15h" : 13
-"16h" : 8
+"16h" : 15
 ```
 
 
-> **Last Updated:** 20/02/2025, 16:34:21
+> **Last Updated:** 20/02/2025, 16:39:21
