@@ -4,21 +4,21 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2771                                          |
-| **Lines Removed** (➖) | 43                                        |
-| **Net Change** (↕)    | 2728                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Lines Added** (➕)   | 3171                                          |
+| **Lines Removed** (➖) | 63                                        |
+| **Net Change** (↕)    | 3108                |
+| **Active Time** (⌚)   | 45 minutes |
 
 
 ## Modified Files
-- **httpClient.ts** (+50, -4)
+- **httpClient.ts** (+50, -8)
 - **axiosConfig.ts** (+65, -36)
-- **package.json** (+148, -0)
-- **useUsuarios.ts** (+29, -0)
+- **package.json** (+148, -1)
+- **useUsuarios.ts** (+29, -2)
 - **index.lazy.tsx** (+52, -0)
-- **ServerAPI.ts** (+149, -0)
+- **ServerAPI.ts** (+149, -6)
 - **AbstractApiClient.ts** (+145, -0)
-- **index.lazy.tsx** (+68, -0)
+- **index.lazy.tsx** (+68, -7)
 - **RenderInputField.tsx** (+386, -0)
 - **RenderViewField.tsx** (+146, -0)
 - **index.lazy.tsx** (+61, -0)
@@ -28,6 +28,10 @@
 - **index.lazy.tsx** (+123, -0)
 - **index.lazy.tsx** (+125, -0)
 - **CrudRecordForm.tsx** (+470, -0)
+- **login.lazy.tsx** (+101, -0)
+- **UsuariosAPI.ts** (+110, -0)
+- **types.ts** (+187, -0)
+- **tsconfig.app.tsbuildinfo** (+2, -0)
 
 ## Visualizations
 
@@ -36,9 +40,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 478
-".json" : 148
-".tsx" : 2188
+".ts" : 787
+".json" : 149
+".tsx" : 2296
+".tsbuildinfo" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,7 +53,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 12
 "11h" : 16
+"12h" : 14
 ```
 
 
-> **Last Updated:** 20/02/2025, 12:00:30
+> **Last Updated:** 20/02/2025, 12:05:30
