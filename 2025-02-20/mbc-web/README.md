@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 3357                                          |
-| **Lines Removed** (➖) | 123                                        |
-| **Net Change** (↕)    | 3234                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Lines Removed** (➖) | 197                                        |
+| **Net Change** (↕)    | 3160                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
@@ -25,7 +25,7 @@
 - **-config.tsx** (+191, -3)
 - **index.lazy.tsx** (+103, -0)
 - **index.tsx** (+460, -0)
-- **index.lazy.tsx** (+123, -0)
+- **index.lazy.tsx** (+123, -68)
 - **index.lazy.tsx** (+125, -0)
 - **CrudRecordForm.tsx** (+470, -0)
 - **login.lazy.tsx** (+130, -18)
@@ -34,7 +34,7 @@
 - **tsconfig.app.tsbuildinfo** (+2, -0)
 - **useAuthentication.ts** (+24, -7)
 - **useLeads.ts** (+17, -0)
-- **ClientesAPI.ts** (+56, -22)
+- **ClientesAPI.ts** (+56, -28)
 - **LeadsAPI.ts** (+56, -6)
 
 ## Visualizations
@@ -44,9 +44,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 986
+".ts" : 992
 ".json" : 149
-".tsx" : 2343
+".tsx" : 2411
 ".tsbuildinfo" : 2
 ```
 
@@ -58,8 +58,8 @@ title Coding activity by hour (count of changes)
 "09h" : 12
 "11h" : 16
 "12h" : 39
-"15h" : 8
+"15h" : 10
 ```
 
 
-> **Last Updated:** 20/02/2025, 15:39:20
+> **Last Updated:** 20/02/2025, 15:49:20

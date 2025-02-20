@@ -3,8 +3,8 @@
   "projects": {
     "mbc-web": {
       "totalLinesAdded": 3357,
-      "totalLinesRemoved": 123,
-      "totalActiveTime": 87,
+      "totalLinesRemoved": 197,
+      "totalActiveTime": 88,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts": [
           {
@@ -461,6 +461,20 @@
             "fileType": ".tsx",
             "linesAdded": 123,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-20T18:46:04.480Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 68,
             "projectName": "mbc-web",
             "content": {
               "added": [],
@@ -1073,6 +1087,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T18:45:26.215Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/cms/ClientesAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
