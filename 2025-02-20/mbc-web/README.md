@@ -4,15 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 115                                          |
+| **Lines Added** (➕)   | 344                                          |
 | **Lines Removed** (➖) | 38                                        |
-| **Net Change** (↕)    | 77                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Net Change** (↕)    | 306                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **httpClient.ts** (+50, -2)
 - **axiosConfig.ts** (+65, -36)
+- **package.json** (+148, -0)
+- **useUsuarios.ts** (+29, -0)
+- **index.lazy.tsx** (+52, -0)
 
 ## Visualizations
 
@@ -21,7 +24,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 153
+".ts" : 182
+".json" : 148
+".tsx" : 52
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +34,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"09h" : 9
+"09h" : 12
 ```
 
 
-> **Last Updated:** 20/02/2025, 09:08:47
+> **Last Updated:** 20/02/2025, 09:13:47
