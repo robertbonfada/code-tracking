@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 3171,
-      "totalLinesRemoved": 63,
-      "totalActiveTime": 45,
+      "totalLinesAdded": 3199,
+      "totalLinesRemoved": 65,
+      "totalActiveTime": 54,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts": [
           {
@@ -277,6 +277,34 @@
             "fileType": ".ts",
             "linesAdded": 145,
             "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T15:10:08.337Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T15:10:17.255Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/AbstractApiClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "mbc-web",
             "content": {
               "added": [],
@@ -586,6 +614,62 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-20T15:05:33.035Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/login.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-20T15:06:16.979Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/login.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-20T15:06:47.851Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/login.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-20T15:07:51.995Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/login.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/UsuariosAPI.ts": [
@@ -634,6 +718,22 @@
             },
             "duration": 1,
             "language": "tsbuildinfo"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/authentication/useAuthentication.ts": [
+          {
+            "timestamp": "2025-02-20T15:08:23.202Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/authentication/useAuthentication.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
