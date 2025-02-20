@@ -2,7 +2,7 @@
   "date": "2025-02-20",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 3228,
+      "totalLinesAdded": 3245,
       "totalLinesRemoved": 89,
       "totalActiveTime": 77,
       "files": {
@@ -999,6 +999,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/leads/useLeads.ts": [
+          {
+            "timestamp": "2025-02-20T18:33:56.341Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/leads/useLeads.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
