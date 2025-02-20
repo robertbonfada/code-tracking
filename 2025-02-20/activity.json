@@ -2,9 +2,9 @@
   "date": "2025-02-20",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 5085,
-      "totalLinesRemoved": 197,
-      "totalActiveTime": 93,
+      "totalLinesAdded": 5103,
+      "totalLinesRemoved": 202,
+      "totalActiveTime": 103,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts": [
           {
@@ -488,6 +488,34 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.lazy.tsx",
             "fileType": ".tsx",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-20T19:31:28.928Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-20T19:33:22.241Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
@@ -1222,6 +1250,50 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/common/useSearchParams.ts": [
+          {
+            "timestamp": "2025-02-20T19:32:35.582Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/common/useSearchParams.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T19:33:01.999Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/common/useSearchParams.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T19:33:05.479Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/common/useSearchParams.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
