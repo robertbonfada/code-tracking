@@ -1,0 +1,162 @@
+{
+  "date": "2025-02-20",
+  "projects": {
+    "mbc-web": {
+      "totalLinesAdded": 115,
+      "totalLinesRemoved": 38,
+      "totalActiveTime": 10,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts": [
+          {
+            "timestamp": "2025-02-20T12:05:06.800Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T12:05:07.266Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T12:05:13.506Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T12:07:32.278Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/axiosConfig.ts": [
+          {
+            "timestamp": "2025-02-20T12:07:16.596Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T12:07:17.621Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 62,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T12:07:24.955Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T12:08:02.038Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 34,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-20T12:08:26.102Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 10
+      },
+      "changeFrequency": {
+        "9": 10
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/auth/axiosConfig.ts",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/httpClient.ts"
+      ],
+      "averageChangeSize": 17
+    }
+  },
+  "totalActiveTime": 10,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
