@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "termonied_testador": {
-      "totalLinesAdded": 296,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 24,
+      "totalLinesAdded": 302,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 25,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
           {
@@ -263,6 +263,34 @@
             "fileType": ".tsx",
             "linesAdded": 38,
             "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-21T10:22:31.526Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-21T10:22:35.067Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "termonied_testador",
             "content": {
               "added": [],
