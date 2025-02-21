@@ -2,9 +2,9 @@
   "date": "2025-02-21",
   "projects": {
     "termonied_testador": {
-      "totalLinesAdded": 329,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 37,
+      "totalLinesAdded": 334,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 43,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
           {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-02-21T10:35:56.757Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "go"
           }
         ],
@@ -236,6 +250,20 @@
             },
             "duration": 1,
             "language": "go"
+          },
+          {
+            "timestamp": "2025-02-21T10:32:00.076Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/estacao/estacao.go",
+            "fileType": ".go",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
           }
         ],
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go": [
@@ -409,6 +437,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-21T10:33:59.687Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
