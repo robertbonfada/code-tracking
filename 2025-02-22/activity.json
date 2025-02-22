@@ -1,0 +1,81 @@
+{
+  "date": "2025-02-22",
+  "projects": {
+    "termonied-web": {
+      "totalLinesAdded": 707,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/select-plant/page.tsx": [
+          {
+            "timestamp": "2025-02-22T13:48:57.301Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/select-plant/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 313,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/user-select-plant/page.tsx": [
+          {
+            "timestamp": "2025-02-22T13:49:08.455Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/user-select-plant/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 351,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/suporte/page.tsx": [
+          {
+            "timestamp": "2025-02-22T13:49:20.660Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/suporte/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/select-plant/page.tsx",
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/user-select-plant/page.tsx",
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/suporte/page.tsx"
+      ],
+      "averageChangeSize": 235.66666666666666
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
