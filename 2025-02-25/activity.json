@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 994,
+      "totalLinesAdded": 1943,
       "totalLinesRemoved": 224,
-      "totalActiveTime": 44,
+      "totalActiveTime": 46,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/cms/ProdutosAPI.ts": [
           {
@@ -377,6 +377,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-25T17:55:24.232Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/assinantes/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/-config.tsx": [
+          {
+            "timestamp": "2025-02-25T17:54:49.561Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 867,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.lazy.tsx": [
+          {
+            "timestamp": "2025-02-25T17:55:21.821Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
