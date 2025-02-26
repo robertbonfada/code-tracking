@@ -35,9 +35,9 @@
       "averageChangeSize": 9
     },
     "area-formacao-web": {
-      "totalLinesAdded": 72,
+      "totalLinesAdded": 120,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 8,
+      "totalActiveTime": 14,
       "files": {
         "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json": [
           {
@@ -141,6 +141,112 @@
             },
             "duration": 2,
             "language": "html"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/postcss.config.mjs": [
+          {
+            "timestamp": "2025-02-26T23:33:52.776Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/postcss.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "mjs"
+          },
+          {
+            "timestamp": "2025-02-26T23:33:53.813Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/postcss.config.mjs",
+            "fileType": ".mjs",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "mjs"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/src/index.css": [
+          {
+            "timestamp": "2025-02-26T23:34:50.013Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/index.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/src/main.tsx": [
+          {
+            "timestamp": "2025-02-26T23:35:00.428Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-26T23:35:23.950Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/src/routes/index.tsx": [
+          {
+            "timestamp": "2025-02-26T23:35:37.013Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/routes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-26T23:36:15.178Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/routes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
