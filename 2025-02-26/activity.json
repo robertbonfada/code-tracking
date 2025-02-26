@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-26",
+  "projects": {
+    "mbc-web": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 9,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/cms/ClientesAPI.ts": [
+          {
+            "timestamp": "2025-02-26T12:32:43.098Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/api/cms/ClientesAPI.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/api/cms/ClientesAPI.ts"
+      ],
+      "averageChangeSize": 9
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
