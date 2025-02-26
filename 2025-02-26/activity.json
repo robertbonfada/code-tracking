@@ -35,9 +35,9 @@
       "averageChangeSize": 9
     },
     "area-formacao-web": {
-      "totalLinesAdded": 191,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 210,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 38,
       "files": {
         "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json": [
           {
@@ -200,6 +200,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-26T23:51:51.659Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/index.css",
+            "fileType": ".css",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "css"
           }
         ],
@@ -390,6 +404,34 @@
           },
           {
             "timestamp": "2025-02-26T23:41:23.012Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/routes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-26T23:54:37.989Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/routes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-26T23:54:54.778Z",
             "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/routes/index.tsx",
             "fileType": ".tsx",
             "linesAdded": 0,
