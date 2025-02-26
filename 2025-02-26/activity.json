@@ -35,9 +35,9 @@
       "averageChangeSize": 9
     },
     "area-formacao-web": {
-      "totalLinesAdded": 139,
+      "totalLinesAdded": 191,
       "totalLinesRemoved": 4,
-      "totalActiveTime": 25,
+      "totalActiveTime": 32,
       "files": {
         "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json": [
           {
@@ -66,6 +66,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-26T23:47:06.660Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
@@ -387,6 +401,96 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/tsconfig.json": [
+          {
+            "timestamp": "2025-02-26T23:47:35.830Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-26T23:47:37.003Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/src/lib/utils.ts": [
+          {
+            "timestamp": "2025-02-26T23:49:23.704Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/lib/utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-26T23:49:24.063Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/lib/utils.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/components.json": [
+          {
+            "timestamp": "2025-02-26T23:50:08.181Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/components.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-26T23:50:09.149Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/components.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
