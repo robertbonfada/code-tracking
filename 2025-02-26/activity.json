@@ -33,6 +33,53 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/api/cms/ClientesAPI.ts"
       ],
       "averageChangeSize": 9
+    },
+    "area-formacao-web": {
+      "totalLinesAdded": 27,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json": [
+          {
+            "timestamp": "2025-02-26T21:24:43.517Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-26T21:24:50.124Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json"
+      ],
+      "averageChangeSize": 13.5
     }
   },
   "totalActiveTime": 0,
