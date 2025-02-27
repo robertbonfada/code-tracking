@@ -435,9 +435,9 @@
       "averageChangeSize": 2.5
     },
     "audiobooks-web": {
-      "totalLinesAdded": 873,
-      "totalLinesRemoved": 126,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 883,
+      "totalLinesRemoved": 132,
+      "totalActiveTime": 87,
       "files": {
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/ui/input.tsx": [
           {
@@ -1400,6 +1400,62 @@
           },
           {
             "timestamp": "2025-02-27T18:52:00.411Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-27T18:55:56.630Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-27T18:56:58.272Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-27T18:57:42.754Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-27T18:58:13.213Z",
             "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/vite.config.ts",
             "fileType": ".ts",
             "linesAdded": 1,
