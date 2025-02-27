@@ -435,9 +435,9 @@
       "averageChangeSize": 2.5
     },
     "audiobooks-web": {
-      "totalLinesAdded": 989,
-      "totalLinesRemoved": 204,
-      "totalActiveTime": 99,
+      "totalLinesAdded": 1258,
+      "totalLinesRemoved": 205,
+      "totalActiveTime": 101,
       "files": {
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/ui/input.tsx": [
           {
@@ -1641,6 +1641,52 @@
             },
             "duration": 1,
             "language": "txt"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/contents/ContentCard.tsx": [
+          {
+            "timestamp": "2025-02-27T19:22:39.319Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/contents/ContentCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 186,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-27T19:22:44.688Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/contents/ContentCard.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/bookdescription/CreateAccount.tsx": [
+          {
+            "timestamp": "2025-02-27T19:23:04.199Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/bookdescription/CreateAccount.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
