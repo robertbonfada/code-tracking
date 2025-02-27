@@ -1,0 +1,61 @@
+{
+  "date": "2025-02-27",
+  "projects": {
+    "area-formacao-web": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/.storybook/main.ts": [
+          {
+            "timestamp": "2025-02-27T10:17:36.959Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/.storybook/main.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-27T10:17:56.341Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/.storybook/main.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1
+      },
+      "changeFrequency": {
+        "7": 1
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/area-formacao-web/.storybook/main.ts"
+      ],
+      "averageChangeSize": 2.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
