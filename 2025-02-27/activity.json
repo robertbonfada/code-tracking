@@ -2,9 +2,9 @@
   "date": "2025-02-27",
   "projects": {
     "area-formacao-web": {
-      "totalLinesAdded": 137,
-      "totalLinesRemoved": 37,
-      "totalActiveTime": 38,
+      "totalLinesAdded": 139,
+      "totalLinesRemoved": 94,
+      "totalActiveTime": 39,
       "files": {
         "/Users/admin/Development/Clients/MBC/area-formacao-web/.storybook/main.ts": [
           {
@@ -391,6 +391,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-27T16:59:29.495Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/routes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 57,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-27T16:59:34.920Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/src/routes/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
