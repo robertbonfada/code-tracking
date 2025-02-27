@@ -35,7 +35,7 @@
       "averageChangeSize": 9
     },
     "area-formacao-web": {
-      "totalLinesAdded": 304,
+      "totalLinesAdded": 327,
       "totalLinesRemoved": 5,
       "totalActiveTime": 46,
       "files": {
@@ -73,6 +73,20 @@
             "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json",
             "fileType": ".json",
             "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-27T00:53:19.478Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/package.json",
+            "fileType": ".json",
+            "linesAdded": 14,
             "linesRemoved": 0,
             "projectName": "area-formacao-web",
             "content": {
@@ -604,6 +618,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-02-27T00:53:19.486Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/area-formacao-web/.storybook/main.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "area-formacao-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
