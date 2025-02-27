@@ -1383,6 +1383,39 @@
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/home/MainContent.tsx"
       ],
       "averageChangeSize": 52.333333333333336
+    },
+    "NRE-mbc-frontend": {
+      "totalLinesAdded": 69,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/vite.config.ts": [
+          {
+            "timestamp": "2025-02-27T18:32:28.649Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "NRE-mbc-frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/NRE-mbc-frontend/biblioteca-catalogica/vite.config.ts"
+      ],
+      "averageChangeSize": 69
     }
   },
   "totalActiveTime": 1,
