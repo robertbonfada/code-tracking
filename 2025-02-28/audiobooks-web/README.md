@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1780                                          |
+| **Lines Added** (➕)   | 1871                                          |
 | **Lines Removed** (➖) | 7                                        |
-| **Net Change** (↕)    | 1773                |
-| **Active Time** (⌚)   | 34 minutes |
+| **Net Change** (↕)    | 1864                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,9 @@
 - **slug.ts** (+12, -0)
 - **index.tsx** (+688, -0)
 - **Playlist.tsx** (+7, -0)
+- **PlaylistPanel.tsx** (+89, -0)
+- **Player.tsx** (+1, -0)
+- **PlayerControls.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -30,7 +33,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 9
-".tsx" : 1766
+".tsx" : 1857
 ".ts" : 12
 ```
 
@@ -40,8 +43,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 16
-"18h" : 12
+"18h" : 16
 ```
 
 
-> **Last Updated:** 28/02/2025, 18:11:26
+> **Last Updated:** 28/02/2025, 18:16:26
