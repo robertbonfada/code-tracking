@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 443                                          |
+| **Lines Added** (➕)   | 1033                                          |
 | **Lines Removed** (➖) | 6                                        |
-| **Net Change** (↕)    | 437                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Net Change** (↕)    | 1027                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,9 @@
 - **VolumeSlider.tsx** (+34, -0)
 - **$livro.tsx** (+201, -6)
 - **$jornada.tsx** (+199, -0)
+- **ContentCard.tsx** (+185, -0)
+- **$livro-$slug.tsx** (+226, -0)
+- **CarouselBooks.tsx** (+179, -0)
 
 ## Visualizations
 
@@ -24,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 9
-".tsx" : 440
+".tsx" : 1030
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +35,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 10
+"17h" : 13
 ```
 
 
-> **Last Updated:** 28/02/2025, 17:46:26
+> **Last Updated:** 28/02/2025, 17:51:26
