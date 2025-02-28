@@ -187,9 +187,9 @@
       "averageChangeSize": 242.8
     },
     "chatgpt-blog": {
-      "totalLinesAdded": 89,
+      "totalLinesAdded": 202,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalActiveTime": 10,
       "files": {
         "/Users/admin/Development/RobertLabs/chatgpt-blog/index.jsx": [
           {
@@ -233,6 +233,50 @@
             },
             "duration": 2,
             "language": "jsx"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/chatgpt-blog/index.html": [
+          {
+            "timestamp": "2025-02-28T18:35:41.926Z",
+            "fileName": "/Users/admin/Development/RobertLabs/chatgpt-blog/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chatgpt-blog",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-02-28T18:35:42.380Z",
+            "fileName": "/Users/admin/Development/RobertLabs/chatgpt-blog/index.html",
+            "fileType": ".html",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "chatgpt-blog",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-02-28T18:37:35.487Z",
+            "fileName": "/Users/admin/Development/RobertLabs/chatgpt-blog/index.html",
+            "fileType": ".html",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "chatgpt-blog",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
           }
         ]
       },
