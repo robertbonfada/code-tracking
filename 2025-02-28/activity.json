@@ -2,9 +2,9 @@
   "date": "2025-02-28",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 1214,
+      "totalLinesAdded": 1338,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 12,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/app/suporte/page.tsx": [
           {
@@ -82,6 +82,92 @@
             },
             "duration": 1,
             "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-28T10:24:33.539Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/UnitConfigModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-28T10:25:04.047Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/UnitConfigModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-28T10:25:35.168Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/UnitConfigModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-02-28T10:26:56.712Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/UnitConfigModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "jsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/globals.css": [
+          {
+            "timestamp": "2025-02-28T10:28:18.911Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-02-28T10:28:19.426Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/globals.css",
+            "fileType": ".css",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
