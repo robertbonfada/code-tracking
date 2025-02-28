@@ -322,9 +322,9 @@
       "averageChangeSize": 29.666666666666668
     },
     "retro-futuristic-blog": {
-      "totalLinesAdded": 111,
+      "totalLinesAdded": 136,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 10,
       "files": {
         "/Users/admin/Development/RobertLabs/chatgpt-blog/retro-futuristic-blog/src/views/partials/footer.ejs": [
           {
@@ -430,6 +430,36 @@
             },
             "duration": 1,
             "language": "html"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/chatgpt-blog/retro-futuristic-blog/package.json": [
+          {
+            "timestamp": "2025-02-28T19:09:06.352Z",
+            "fileName": "/Users/admin/Development/RobertLabs/chatgpt-blog/retro-futuristic-blog/package.json",
+            "fileType": ".json",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "retro-futuristic-blog",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-28T19:10:33.887Z",
+            "fileName": "/Users/admin/Development/RobertLabs/chatgpt-blog/retro-futuristic-blog/package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "retro-futuristic-blog",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
           }
         ]
       },
