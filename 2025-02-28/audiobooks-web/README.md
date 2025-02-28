@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1072                                          |
+| **Lines Added** (➕)   | 1085                                          |
 | **Lines Removed** (➖) | 7                                        |
-| **Net Change** (↕)    | 1065                |
-| **Active Time** (⌚)   | 23 minutes |
+| **Net Change** (↕)    | 1078                |
+| **Active Time** (⌚)   | 30 minutes |
 
 
 ## Modified Files
@@ -17,7 +17,8 @@
 - **$jornada.tsx** (+199, -0)
 - **ContentCard.tsx** (+185, -0)
 - **$livro-$slug.tsx** (+227, -0)
-- **CarouselBooks.tsx** (+179, -0)
+- **CarouselBooks.tsx** (+180, -0)
+- **slug.ts** (+12, -0)
 
 ## Visualizations
 
@@ -27,7 +28,8 @@
 pie showData
 title Lines changed by file type
 ".css" : 9
-".tsx" : 1070
+".tsx" : 1071
+".ts" : 12
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 16
-"18h" : 2
+"18h" : 7
 ```
 
 
-> **Last Updated:** 28/02/2025, 18:01:26
+> **Last Updated:** 28/02/2025, 18:06:26
