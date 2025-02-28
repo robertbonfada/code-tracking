@@ -187,9 +187,9 @@
       "averageChangeSize": 242.8
     },
     "chatgpt-blog": {
-      "totalLinesAdded": 271,
+      "totalLinesAdded": 336,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 11,
+      "totalActiveTime": 12,
       "files": {
         "/Users/admin/Development/RobertLabs/chatgpt-blog/index.jsx": [
           {
@@ -299,6 +299,36 @@
             "fileName": "/Users/admin/Development/RobertLabs/chatgpt-blog/retro-futuristic-blog/src/pages/index.html",
             "fileType": ".html",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chatgpt-blog",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/chatgpt-blog/test.html": [
+          {
+            "timestamp": "2025-02-28T19:18:34.077Z",
+            "fileName": "/Users/admin/Development/RobertLabs/chatgpt-blog/test.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "chatgpt-blog",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-02-28T19:18:34.817Z",
+            "fileName": "/Users/admin/Development/RobertLabs/chatgpt-blog/test.html",
+            "fileType": ".html",
+            "linesAdded": 64,
             "linesRemoved": 0,
             "projectName": "chatgpt-blog",
             "content": {
