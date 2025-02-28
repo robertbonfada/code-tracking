@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1085                                          |
+| **Lines Added** (➕)   | 1780                                          |
 | **Lines Removed** (➖) | 7                                        |
-| **Net Change** (↕)    | 1078                |
-| **Active Time** (⌚)   | 30 minutes |
+| **Net Change** (↕)    | 1773                |
+| **Active Time** (⌚)   | 34 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,8 @@
 - **$livro-$slug.tsx** (+227, -0)
 - **CarouselBooks.tsx** (+180, -0)
 - **slug.ts** (+12, -0)
+- **index.tsx** (+688, -0)
+- **Playlist.tsx** (+7, -0)
 
 ## Visualizations
 
@@ -28,7 +30,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 9
-".tsx" : 1071
+".tsx" : 1766
 ".ts" : 12
 ```
 
@@ -38,8 +40,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 16
-"18h" : 7
+"18h" : 12
 ```
 
 
-> **Last Updated:** 28/02/2025, 18:06:26
+> **Last Updated:** 28/02/2025, 18:11:26
