@@ -4,15 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 43                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 43                |
-| **Active Time** (⌚)   | 0 minute |
+| **Lines Added** (➕)   | 443                                          |
+| **Lines Removed** (➖) | 6                                        |
+| **Net Change** (↕)    | 437                |
+| **Active Time** (⌚)   | 10 minutes |
 
 
 ## Modified Files
 - **VolumeSlider.module.css** (+9, -0)
 - **VolumeSlider.tsx** (+34, -0)
+- **$livro.tsx** (+201, -6)
+- **$jornada.tsx** (+199, -0)
 
 ## Visualizations
 
@@ -22,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".css" : 9
-".tsx" : 34
+".tsx" : 440
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"17h" : 2
+"17h" : 10
 ```
 
 
-> **Last Updated:** 28/02/2025, 17:41:26
+> **Last Updated:** 28/02/2025, 17:46:26

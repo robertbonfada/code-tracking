@@ -510,9 +510,9 @@
       "averageChangeSize": 15.857142857142858
     },
     "audiobooks-web": {
-      "totalLinesAdded": 43,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 443,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 10,
       "files": {
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/components/VolumeSlider.module.css": [
           {
@@ -543,6 +543,122 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/livro/$livro.tsx": [
+          {
+            "timestamp": "2025-02-28T20:42:49.185Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/livro/$livro.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 186,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-28T20:43:18.888Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/livro/$livro.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-28T20:44:09.565Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/livro/$livro.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/jornada/$jornada.tsx": [
+          {
+            "timestamp": "2025-02-28T20:44:35.074Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/jornada/$jornada.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-28T20:44:54.655Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/jornada/$jornada.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-28T20:45:12.803Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/jornada/$jornada.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-28T20:45:20.241Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/jornada/$jornada.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-02-28T20:45:31.331Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/routes/(app)/_app/jornada/$jornada.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
