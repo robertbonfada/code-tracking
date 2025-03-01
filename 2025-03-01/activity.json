@@ -236,7 +236,7 @@
       "averageChangeSize": 49
     },
     "termonied_testador": {
-      "totalLinesAdded": 985,
+      "totalLinesAdded": 1091,
       "totalLinesRemoved": 82,
       "totalActiveTime": 76,
       "files": {
@@ -809,6 +809,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-01T19:12:50.712Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
