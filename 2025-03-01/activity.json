@@ -35,7 +35,7 @@
       "averageChangeSize": 1896
     },
     "test-digital-placa": {
-      "totalLinesAdded": 49,
+      "totalLinesAdded": 62,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -45,6 +45,20 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/test-digital-placa/main.go",
             "fileType": ".go",
             "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "test-digital-placa",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-01T14:16:17.310Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/test-digital-placa/main.go",
+            "fileType": ".go",
+            "linesAdded": 13,
             "linesRemoved": 0,
             "projectName": "test-digital-placa",
             "content": {
