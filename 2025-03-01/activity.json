@@ -33,6 +33,39 @@
         "/Users/admin/Downloads/NBRtec/termoa-central/termometria.c"
       ],
       "averageChangeSize": 1896
+    },
+    "test-digital-placa": {
+      "totalLinesAdded": 49,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/test-digital-placa/main.go": [
+          {
+            "timestamp": "2025-03-01T14:10:02.280Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/test-digital-placa/main.go",
+            "fileType": ".go",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "test-digital-placa",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/test-digital-placa/main.go"
+      ],
+      "averageChangeSize": 49
     }
   },
   "totalActiveTime": 0,
