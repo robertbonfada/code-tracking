@@ -236,9 +236,9 @@
       "averageChangeSize": 49
     },
     "termonied_testador": {
-      "totalLinesAdded": 855,
-      "totalLinesRemoved": 42,
-      "totalActiveTime": 33,
+      "totalLinesAdded": 893,
+      "totalLinesRemoved": 55,
+      "totalActiveTime": 38,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
           {
@@ -296,6 +296,20 @@
             },
             "duration": 1,
             "language": "go"
+          },
+          {
+            "timestamp": "2025-03-01T17:51:52.956Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "go"
           }
         ],
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/queue/command.go": [
@@ -348,6 +362,20 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/queue/queue.go",
             "fileType": ".go",
             "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-01T17:51:59.203Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/queue/queue.go",
+            "fileType": ".go",
+            "linesAdded": 28,
             "linesRemoved": 0,
             "projectName": "termonied_testador",
             "content": {
@@ -515,6 +543,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-01T17:52:50.595Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ],
