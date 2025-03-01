@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 939                                          |
-| **Lines Removed** (➖) | 63                                        |
-| **Net Change** (↕)    | 876                |
-| **Active Time** (⌚)   | 50 minutes |
+| **Lines Added** (➕)   | 943                                          |
+| **Lines Removed** (➖) | 80                                        |
+| **Net Change** (↕)    | 863                |
+| **Active Time** (⌚)   | 54 minutes |
 
 
 ## Modified Files
-- **serial.go** (+110, -23)
+- **serial.go** (+114, -23)
 - **command.go** (+30, -0)
-- **queue.go** (+184, -0)
+- **queue.go** (+184, -17)
 - **app.go** (+59, -0)
 - **service.go** (+42, -40)
 - **App.tsx** (+305, -0)
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".go" : 697
+".go" : 718
 ".tsx" : 305
 ```
 
@@ -38,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "14h" : 28
-"15h" : 6
+"15h" : 9
 ```
 
 
-> **Last Updated:** 01/03/2025, 15:11:19
+> **Last Updated:** 01/03/2025, 15:36:19
