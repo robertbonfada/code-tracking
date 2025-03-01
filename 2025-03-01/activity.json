@@ -236,9 +236,9 @@
       "averageChangeSize": 49
     },
     "termonied_testador": {
-      "totalLinesAdded": 943,
+      "totalLinesAdded": 963,
       "totalLinesRemoved": 80,
-      "totalActiveTime": 54,
+      "totalActiveTime": 55,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
           {
@@ -482,6 +482,20 @@
             },
             "duration": 0,
             "language": "go"
+          },
+          {
+            "timestamp": "2025-03-01T18:45:38.099Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/queue/queue.go",
+            "fileType": ".go",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
           }
         ],
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go": [
@@ -532,6 +546,20 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go",
             "fileType": ".go",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-01T18:45:43.697Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go",
+            "fileType": ".go",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "termonied_testador",
             "content": {
