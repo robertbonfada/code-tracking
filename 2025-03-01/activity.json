@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-01",
+  "projects": {
+    "termoa-central": {
+      "totalLinesAdded": 1896,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Downloads/NBRtec/termoa-central/termometria.c": [
+          {
+            "timestamp": "2025-03-01T13:14:17.086Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/termometria.c",
+            "fileType": ".c",
+            "linesAdded": 1896,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "/Users/admin/Downloads/NBRtec/termoa-central/termometria.c"
+      ],
+      "averageChangeSize": 1896
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "c"
+  ]
+}
