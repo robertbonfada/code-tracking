@@ -35,9 +35,9 @@
       "averageChangeSize": 1896
     },
     "test-digital-placa": {
-      "totalLinesAdded": 125,
+      "totalLinesAdded": 127,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 8,
+      "totalActiveTime": 12,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/test-digital-placa/main.go": [
           {
@@ -150,6 +150,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-01T14:41:21.304Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/test-digital-placa/main.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test-digital-placa",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-01T14:41:55.778Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/test-digital-placa/main.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test-digital-placa",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "go"
           }
         ]
