@@ -1168,9 +1168,9 @@
       "averageChangeSize": 217.31578947368422
     },
     "snake-game": {
-      "totalLinesAdded": 718,
+      "totalLinesAdded": 837,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 14,
+      "totalActiveTime": 18,
       "files": {
         "/Users/admin/Development/RobertLabs/snake-game/index.html": [
           {
@@ -1227,6 +1227,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-03-03T18:46:50.867Z",
+            "fileName": "/Users/admin/Development/RobertLabs/snake-game/index.html",
+            "fileType": ".html",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "snake-game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "html"
           }
         ],
@@ -1358,6 +1372,20 @@
             },
             "duration": 5,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T18:46:55.854Z",
+            "fileName": "/Users/admin/Development/RobertLabs/snake-game/script.js",
+            "fileType": ".js",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "snake-game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ],
         "/Users/admin/Development/RobertLabs/snake-game/debugHelper.js": [
@@ -1373,6 +1401,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T18:46:52.216Z",
+            "fileName": "/Users/admin/Development/RobertLabs/snake-game/debugHelper.js",
+            "fileType": ".js",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "snake-game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ]
