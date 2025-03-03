@@ -1168,9 +1168,9 @@
       "averageChangeSize": 217.31578947368422
     },
     "snake-game": {
-      "totalLinesAdded": 219,
+      "totalLinesAdded": 717,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 7,
+      "totalActiveTime": 14,
       "files": {
         "/Users/admin/Development/RobertLabs/snake-game/index.html": [
           {
@@ -1214,6 +1214,20 @@
             },
             "duration": 0,
             "language": "html"
+          },
+          {
+            "timestamp": "2025-03-03T18:31:06.061Z",
+            "fileName": "/Users/admin/Development/RobertLabs/snake-game/index.html",
+            "fileType": ".html",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "snake-game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ],
         "/Users/admin/Development/RobertLabs/snake-game/styles.css": [
@@ -1250,6 +1264,20 @@
             "fileName": "/Users/admin/Development/RobertLabs/snake-game/styles.css",
             "fileType": ".css",
             "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "snake-game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-03-03T18:31:09.969Z",
+            "fileName": "/Users/admin/Development/RobertLabs/snake-game/styles.css",
+            "fileType": ".css",
+            "linesAdded": 72,
             "linesRemoved": 0,
             "projectName": "snake-game",
             "content": {
@@ -1315,6 +1343,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T18:30:58.854Z",
+            "fileName": "/Users/admin/Development/RobertLabs/snake-game/script.js",
+            "fileType": ".js",
+            "linesAdded": 396,
+            "linesRemoved": 0,
+            "projectName": "snake-game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "js"
           }
         ]
