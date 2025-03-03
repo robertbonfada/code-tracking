@@ -1169,8 +1169,8 @@
     },
     "snake-game": {
       "totalLinesAdded": 936,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 34,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 37,
       "files": {
         "/Users/admin/Development/RobertLabs/snake-game/index.html": [
           {
@@ -1349,6 +1349,20 @@
             "fileType": ".css",
             "linesAdded": 13,
             "linesRemoved": 0,
+            "projectName": "snake-game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-03-03T19:01:09.165Z",
+            "fileName": "/Users/admin/Development/RobertLabs/snake-game/styles.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "snake-game",
             "content": {
               "added": [],
