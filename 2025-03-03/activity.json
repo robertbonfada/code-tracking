@@ -108,8 +108,8 @@
     },
     "kart-online": {
       "totalLinesAdded": 10439,
-      "totalLinesRemoved": 2398,
-      "totalActiveTime": 60,
+      "totalLinesRemoved": 2399,
+      "totalActiveTime": 64,
       "files": {
         "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js": [
           {
@@ -324,6 +324,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T17:37:33.910Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/assetLoader.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ],
