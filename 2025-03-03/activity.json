@@ -3,8 +3,8 @@
   "projects": {
     "lumine-web": {
       "totalLinesAdded": 653,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 1,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/router/index.ts": [
           {
@@ -19,6 +19,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-03T13:53:54.421Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/router/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-03T13:53:59.588Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/router/index.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
