@@ -107,9 +107,9 @@
       "averageChangeSize": 653
     },
     "kart-online": {
-      "totalLinesAdded": 6498,
+      "totalLinesAdded": 7042,
       "totalLinesRemoved": 1374,
-      "totalActiveTime": 40,
+      "totalActiveTime": 47,
       "files": {
         "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js": [
           {
@@ -659,6 +659,126 @@
             },
             "duration": 4,
             "language": "go"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/audioGeneratorv2.js": [
+          {
+            "timestamp": "2025-03-03T17:16:18.602Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/audioGeneratorv2.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T17:16:18.980Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/audioGeneratorv2.js",
+            "fileType": ".js",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/textureGeneratorv2.js": [
+          {
+            "timestamp": "2025-03-03T17:16:49.274Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/textureGeneratorv2.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T17:16:49.697Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/textureGeneratorv2.js",
+            "fileType": ".js",
+            "linesAdded": 102,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/palceholdersv2.js": [
+          {
+            "timestamp": "2025-03-03T17:17:22.354Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/palceholdersv2.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T17:17:22.708Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/palceholdersv2.js",
+            "fileType": ".js",
+            "linesAdded": 99,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/assetLoaderv2.js": [
+          {
+            "timestamp": "2025-03-03T17:17:49.825Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/assetLoaderv2.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T17:17:50.166Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/assetLoaderv2.js",
+            "fileType": ".js",
+            "linesAdded": 274,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
