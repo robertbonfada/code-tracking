@@ -4,18 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 10593                                          |
+| **Lines Added** (➕)   | 10962                                          |
 | **Lines Removed** (➖) | 2665                                        |
-| **Net Change** (↕)    | 7928                |
-| **Active Time** (⌚)   | 76 minutes |
+| **Net Change** (↕)    | 8297                |
+| **Active Time** (⌚)   | 84 minutes |
 
 
 ## Modified Files
 - **game-js.js** (+1377, -1374)
 - **game.js** (+1377, -1023)
 - **assetLoader.js** (+275, -2)
-- **kart.js** (+341, -235)
-- **physics.js** (+305, -31)
+- **kart.js** (+586, -235)
+- **physics.js** (+429, -31)
 - **audio.js** (+86, -0)
 - **track.js** (+360, -0)
 - **ai.js** (+220, -0)
@@ -42,7 +42,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 11577
+".js" : 11946
 ".html" : 469
 ".txt" : 723
 ".go" : 489
@@ -54,8 +54,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 19
-"14h" : 47
+"14h" : 52
 ```
 
 
-> **Last Updated:** 03/03/2025, 14:50:03
+> **Last Updated:** 03/03/2025, 14:55:03
