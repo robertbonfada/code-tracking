@@ -1168,7 +1168,7 @@
       "averageChangeSize": 217.31578947368422
     },
     "snake-game": {
-      "totalLinesAdded": 1906,
+      "totalLinesAdded": 1910,
       "totalLinesRemoved": 5,
       "totalActiveTime": 48,
       "files": {
@@ -1609,6 +1609,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T23:16:57.943Z",
+            "fileName": "/Users/admin/Development/RobertLabs/snake-game/script.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "snake-game",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ],
