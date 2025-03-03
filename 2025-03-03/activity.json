@@ -105,6 +105,307 @@
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/router/index.ts"
       ],
       "averageChangeSize": 653
+    },
+    "kart-online": {
+      "totalLinesAdded": 2755,
+      "totalLinesRemoved": 1374,
+      "totalActiveTime": 18,
+      "files": {
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js": [
+          {
+            "timestamp": "2025-03-03T16:48:05.932Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js",
+            "fileType": ".js",
+            "linesAdded": 1377,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:10.759Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 350,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:18.251Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 90,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:26.221Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 340,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:38.686Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 241,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:50.940Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 85,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:49:06.616Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 268,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/game.js": [
+          {
+            "timestamp": "2025-03-03T16:48:08.346Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:08.955Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/game.js",
+            "fileType": ".js",
+            "linesAdded": 350,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/assetLoader.js": [
+          {
+            "timestamp": "2025-03-03T16:48:19.855Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/assetLoader.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:20.206Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/assetLoader.js",
+            "fileType": ".js",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/kart.js": [
+          {
+            "timestamp": "2025-03-03T16:48:28.125Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/kart.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:28.499Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/kart.js",
+            "fileType": ".js",
+            "linesAdded": 340,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/physics.js": [
+          {
+            "timestamp": "2025-03-03T16:48:36.713Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/physics.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:37.354Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/physics.js",
+            "fileType": ".js",
+            "linesAdded": 241,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/audio.js": [
+          {
+            "timestamp": "2025-03-03T16:48:49.500Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/audio.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:48:49.968Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/audio.js",
+            "fileType": ".js",
+            "linesAdded": 85,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/track.js": [
+          {
+            "timestamp": "2025-03-03T16:49:07.369Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/track.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-03T16:49:07.914Z",
+            "fileName": "/Users/admin/Development/RobertLabs/kart-online/static/js/track.js",
+            "fileType": ".js",
+            "linesAdded": 268,
+            "linesRemoved": 0,
+            "projectName": "kart-online",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 18
+      },
+      "changeFrequency": {
+        "13": 18
+      },
+      "topFiles": [
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/game-js.js",
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/game.js",
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/assetLoader.js",
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/kart.js",
+        "/Users/admin/Development/RobertLabs/kart-online/static/js/physics.js"
+      ],
+      "averageChangeSize": 217.31578947368422
     }
   },
   "totalActiveTime": 0,
