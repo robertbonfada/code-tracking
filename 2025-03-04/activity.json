@@ -111,9 +111,9 @@
       "averageChangeSize": 44.8
     },
     "termonied_testador": {
-      "totalLinesAdded": 273,
-      "totalLinesRemoved": 113,
-      "totalActiveTime": 31,
+      "totalLinesAdded": 309,
+      "totalLinesRemoved": 114,
+      "totalActiveTime": 38,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx": [
           {
@@ -434,6 +434,50 @@
             "fileType": ".go",
             "linesAdded": 6,
             "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-04T13:17:01.457Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/estacao/estacao.go",
+            "fileType": ".go",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
+          {
+            "timestamp": "2025-03-04T13:20:56.195Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-04T13:20:59.380Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "termonied_testador",
             "content": {
               "added": [],
