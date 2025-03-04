@@ -4,19 +4,19 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 504                                          |
-| **Lines Removed** (➖) | 183                                        |
-| **Net Change** (↕)    | 321                |
-| **Active Time** (⌚)   | 85 minutes |
+| **Lines Added** (➕)   | 520                                          |
+| **Lines Removed** (➖) | 197                                        |
+| **Net Change** (↕)    | 323                |
+| **Active Time** (⌚)   | 91 minutes |
 
 
 ## Modified Files
-- **App.tsx** (+29, -170)
+- **App.tsx** (+29, -184)
 - **History.tsx** (+180, -8)
 - **estacao.go** (+163, -4)
 - **serial.go** (+37, -1)
 - **Service.js** (+16, -0)
-- **Aeracao.tsx** (+79, -0)
+- **Aeracao.tsx** (+95, -0)
 
 ## Visualizations
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 466
+".tsx" : 496
 ".go" : 205
 ".js" : 16
 ```
@@ -36,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
-"10h" : 48
+"10h" : 51
 ```
 
 
-> **Last Updated:** 04/03/2025, 10:51:53
+> **Last Updated:** 04/03/2025, 10:56:53
