@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2009                                          |
-| **Lines Removed** (➖) | 298                                        |
-| **Net Change** (↕)    | 1711                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Lines Added** (➕)   | 2084                                          |
+| **Lines Removed** (➖) | 343                                        |
+| **Net Change** (↕)    | 1741                |
+| **Active Time** (⌚)   | 52 minutes |
 
 
 ## Modified Files
@@ -16,9 +16,9 @@
 - **diagnose_serial.js** (+132, -0)
 - **simulador.go** (+526, -264)
 - **settings.json** (+28, -0)
-- **simulador.go** (+300, -16)
+- **simulador.go** (+375, -16)
 - **client.go** (+132, -0)
-- **client.go** (+187, -0)
+- **client.go** (+187, -45)
 
 ## Visualizations
 
@@ -28,7 +28,7 @@
 pie showData
 title Lines changed by file type
 ".js" : 351
-".go" : 1928
+".go" : 2048
 ".json" : 28
 ```
 
@@ -41,8 +41,8 @@ title Coding activity by hour (count of changes)
 "13h" : 3
 "15h" : 5
 "16h" : 4
-"17h" : 5
+"17h" : 8
 ```
 
 
-> **Last Updated:** 04/03/2025, 17:07:22
+> **Last Updated:** 04/03/2025, 17:12:22
