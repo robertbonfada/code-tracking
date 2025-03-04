@@ -1179,9 +1179,9 @@
       "averageChangeSize": 25.75
     },
     "simulador-serial": {
-      "totalLinesAdded": 836,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 837,
+      "totalLinesRemoved": 18,
+      "totalActiveTime": 21,
       "files": {
         "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js": [
           {
@@ -1267,6 +1267,20 @@
             },
             "duration": 0,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-04T15:55:38.896Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "js"
           }
         ],
         "/Users/admin/Development/RobertLabs/simulador-serial/serial.go": [
@@ -1313,6 +1327,22 @@
             },
             "duration": 1,
             "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/simulador-serial/simulador.go": [
+          {
+            "timestamp": "2025-03-04T16:00:07.271Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "go"
           }
         ]
       },
