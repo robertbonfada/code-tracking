@@ -1333,7 +1333,7 @@
       "averageChangeSize": 25.75
     },
     "simulador-serial": {
-      "totalLinesAdded": 2193,
+      "totalLinesAdded": 2194,
       "totalLinesRemoved": 343,
       "totalActiveTime": 64,
       "files": {
@@ -1752,6 +1752,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-04T21:52:57.172Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "go"
           }
         ],
