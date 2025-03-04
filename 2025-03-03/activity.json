@@ -1703,7 +1703,7 @@
       "averageChangeSize": 24.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 536,
+      "totalLinesAdded": 562,
       "totalLinesRemoved": 0,
       "totalActiveTime": 5,
       "files": {
@@ -1765,6 +1765,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-03-04T01:17:34.464Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
