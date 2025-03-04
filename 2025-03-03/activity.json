@@ -1994,6 +1994,39 @@
         "/Users/admin/Library/Application Support/Code/User/settings.json"
       ],
       "averageChangeSize": 26
+    },
+    "termoa-central": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-03-04T01:22:58.889Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "/Users/admin/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 28
     }
   },
   "totalActiveTime": 0,
