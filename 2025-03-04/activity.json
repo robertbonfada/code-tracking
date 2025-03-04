@@ -111,7 +111,7 @@
       "averageChangeSize": 44.8
     },
     "termonied_testador": {
-      "totalLinesAdded": 564,
+      "totalLinesAdded": 650,
       "totalLinesRemoved": 205,
       "totalActiveTime": 98,
       "files": {
@@ -1021,6 +1021,22 @@
             },
             "duration": 1,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/wailsjs/go/models.ts": [
+          {
+            "timestamp": "2025-03-04T14:11:51.171Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/wailsjs/go/models.ts",
+            "fileType": ".ts",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
