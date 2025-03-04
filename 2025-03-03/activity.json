@@ -1963,7 +1963,7 @@
       "averageChangeSize": 51
     },
     "test-digital-placa": {
-      "totalLinesAdded": 26,
+      "totalLinesAdded": 28,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -1973,6 +1973,20 @@
             "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
             "fileType": ".json",
             "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "test-digital-placa",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-04T01:22:58.961Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "test-digital-placa",
             "content": {
