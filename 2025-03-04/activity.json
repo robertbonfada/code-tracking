@@ -1179,9 +1179,9 @@
       "averageChangeSize": 25.75
     },
     "simulador-serial": {
-      "totalLinesAdded": 176,
+      "totalLinesAdded": 679,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 2,
+      "totalActiveTime": 6,
       "files": {
         "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js": [
           {
@@ -1239,6 +1239,22 @@
             },
             "duration": 0,
             "language": "js"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/simulador-serial/serial.go": [
+          {
+            "timestamp": "2025-03-04T15:41:08.715Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 503,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "go"
           }
         ]
       },
