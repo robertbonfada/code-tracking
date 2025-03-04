@@ -112,8 +112,8 @@
     },
     "termonied_testador": {
       "totalLinesAdded": 650,
-      "totalLinesRemoved": 205,
-      "totalActiveTime": 98,
+      "totalLinesRemoved": 206,
+      "totalActiveTime": 101,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx": [
           {
@@ -776,6 +776,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-04T14:13:56.391Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/estacao/estacao.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "go"
           }
         ],
