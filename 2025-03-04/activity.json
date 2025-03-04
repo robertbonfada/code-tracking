@@ -1291,9 +1291,9 @@
       "averageChangeSize": 25.75
     },
     "simulador-serial": {
-      "totalLinesAdded": 1669,
+      "totalLinesAdded": 1933,
       "totalLinesRemoved": 282,
-      "totalActiveTime": 31,
+      "totalActiveTime": 33,
       "files": {
         "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js": [
           {
@@ -1570,6 +1570,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/simulador-serial/simulador/client.go": [
+          {
+            "timestamp": "2025-03-04T19:57:38.490Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador/client.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-04T19:58:10.970Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador/client.go",
+            "fileType": ".go",
+            "linesAdded": 131,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/simulador-serial/cliente/client.go": [
+          {
+            "timestamp": "2025-03-04T19:58:34.628Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/cliente/client.go",
+            "fileType": ".go",
+            "linesAdded": 132,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "go"
           }
         ]
