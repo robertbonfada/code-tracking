@@ -1177,6 +1177,67 @@
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/components/History.tsx"
       ],
       "averageChangeSize": 25.75
+    },
+    "simulador-serial": {
+      "totalLinesAdded": 170,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js": [
+          {
+            "timestamp": "2025-03-04T15:03:30.695Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js",
+            "fileType": ".js",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-04T15:03:49.633Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js",
+            "fileType": ".js",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-04T15:04:15.262Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          }
+        ]
+      },
+      "languageStats": {
+        "js": 2
+      },
+      "changeFrequency": {
+        "12": 2
+      },
+      "topFiles": [
+        "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js"
+      ],
+      "averageChangeSize": 57
     }
   },
   "totalActiveTime": 7,
