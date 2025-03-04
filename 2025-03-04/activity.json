@@ -1291,9 +1291,9 @@
       "averageChangeSize": 25.75
     },
     "simulador-serial": {
-      "totalLinesAdded": 2103,
+      "totalLinesAdded": 2174,
       "totalLinesRemoved": 343,
-      "totalActiveTime": 56,
+      "totalActiveTime": 62,
       "files": {
         "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js": [
           {
@@ -1406,6 +1406,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-04T20:18:36.564Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js",
+            "fileType": ".js",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "js"
           }
         ],
@@ -1655,6 +1669,20 @@
             },
             "duration": 4,
             "language": "go"
+          },
+          {
+            "timestamp": "2025-03-04T20:18:33.954Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go",
+            "fileType": ".go",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "go"
           }
         ],
         "/Users/admin/Development/RobertLabs/simulador-serial/simulador/client.go": [
@@ -1736,6 +1764,20 @@
             "fileType": ".go",
             "linesAdded": 0,
             "linesRemoved": 45,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-04T20:18:40.139Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/cliente/client.go",
+            "fileType": ".go",
+            "linesAdded": 45,
+            "linesRemoved": 0,
             "projectName": "simulador-serial",
             "content": {
               "added": [],
