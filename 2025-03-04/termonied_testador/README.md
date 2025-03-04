@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 650                                          |
+| **Lines Added** (➕)   | 673                                          |
 | **Lines Removed** (➖) | 206                                        |
-| **Net Change** (↕)    | 444                |
-| **Active Time** (⌚)   | 101 minutes |
+| **Net Change** (↕)    | 467                |
+| **Active Time** (⌚)   | 104 minutes |
 
 
 ## Modified Files
 - **App.tsx** (+29, -184)
 - **History.tsx** (+180, -8)
 - **estacao.go** (+163, -5)
-- **serial.go** (+81, -9)
+- **serial.go** (+104, -9)
 - **Service.js** (+16, -0)
 - **Aeracao.tsx** (+95, -0)
 - **models.ts** (+86, -0)
@@ -27,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".tsx" : 496
-".go" : 258
+".go" : 281
 ".js" : 16
 ".ts" : 86
 ```
@@ -39,8 +39,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
 "10h" : 55
-"11h" : 2
+"11h" : 4
 ```
 
 
-> **Last Updated:** 04/03/2025, 11:16:53
+> **Last Updated:** 04/03/2025, 11:21:53
