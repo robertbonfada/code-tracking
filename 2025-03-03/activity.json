@@ -1947,6 +1947,39 @@
         "/Users/admin/Development/RobertLabs/tetris/script.js"
       ],
       "averageChangeSize": 51
+    },
+    "test-digital-placa": {
+      "totalLinesAdded": 26,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-03-04T01:17:34.498Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "test-digital-placa",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "/Users/admin/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 26
     }
   },
   "totalActiveTime": 0,
