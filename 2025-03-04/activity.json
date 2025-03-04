@@ -1179,9 +1179,9 @@
       "averageChangeSize": 25.75
     },
     "simulador-serial": {
-      "totalLinesAdded": 1101,
+      "totalLinesAdded": 1655,
       "totalLinesRemoved": 282,
-      "totalActiveTime": 24,
+      "totalActiveTime": 28,
       "files": {
         "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js": [
           {
@@ -1370,6 +1370,66 @@
               "removed": []
             },
             "duration": 2,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-04T18:42:54.520Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.go",
+            "fileType": ".go",
+            "linesAdded": 261,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-03-04T18:44:04.618Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-04T18:44:04.862Z",
+            "fileName": "/Users/admin/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go": [
+          {
+            "timestamp": "2025-03-04T18:44:36.000Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go",
+            "fileType": ".go",
+            "linesAdded": 265,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "go"
           }
         ]
