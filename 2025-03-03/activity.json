@@ -2038,7 +2038,7 @@
       "averageChangeSize": 26
     },
     "termoa-central": {
-      "totalLinesAdded": 28,
+      "totalLinesAdded": 414,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -2056,6 +2056,22 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/admin/Downloads/NBRtec/termoa-central/estacao.c": [
+          {
+            "timestamp": "2025-03-04T01:34:16.721Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/estacao.c",
+            "fileType": ".c",
+            "linesAdded": 386,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
           }
         ]
       },
