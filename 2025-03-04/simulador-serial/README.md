@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 704                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 703                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Lines Added** (➕)   | 836                                          |
+| **Lines Removed** (➖) | 5                                        |
+| **Net Change** (↕)    | 831                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
-- **simulador.js** (+201, -1)
+- **simulador.js** (+201, -5)
 - **serial.go** (+503, -0)
+- **diagnose_serial.js** (+132, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".js" : 202
+".js" : 338
 ".go" : 503
 ```
 
@@ -30,8 +31,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"12h" : 6
+"12h" : 9
 ```
 
 
-> **Last Updated:** 04/03/2025, 12:50:30
+> **Last Updated:** 04/03/2025, 12:55:30

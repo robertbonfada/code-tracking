@@ -1179,9 +1179,9 @@
       "averageChangeSize": 25.75
     },
     "simulador-serial": {
-      "totalLinesAdded": 704,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 836,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 13,
       "files": {
         "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js": [
           {
@@ -1253,6 +1253,20 @@
             },
             "duration": 5,
             "language": "js"
+          },
+          {
+            "timestamp": "2025-03-04T15:52:39.196Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
           }
         ],
         "/Users/admin/Development/RobertLabs/simulador-serial/serial.go": [
@@ -1269,6 +1283,36 @@
             },
             "duration": 4,
             "language": "go"
+          }
+        ],
+        "/Users/admin/Development/RobertLabs/simulador-serial/diagnose_serial.js": [
+          {
+            "timestamp": "2025-03-04T15:52:39.696Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/diagnose_serial.js",
+            "fileType": ".js",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-04T15:53:21.024Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/diagnose_serial.js",
+            "fileType": ".js",
+            "linesAdded": 131,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "js"
           }
         ]
       },
