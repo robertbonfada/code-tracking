@@ -1179,7 +1179,7 @@
       "averageChangeSize": 25.75
     },
     "simulador-serial": {
-      "totalLinesAdded": 170,
+      "totalLinesAdded": 176,
       "totalLinesRemoved": 1,
       "totalActiveTime": 2,
       "files": {
@@ -1224,6 +1224,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-04T15:37:54.049Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador.js",
+            "fileType": ".js",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "simulador-serial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "js"
           }
         ]
