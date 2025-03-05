@@ -419,9 +419,9 @@
       "averageChangeSize": 22.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 1213,
+      "totalLinesAdded": 1285,
       "totalLinesRemoved": 128,
-      "totalActiveTime": 59,
+      "totalActiveTime": 60,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -520,6 +520,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T13:18:45.988Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T13:19:19.746Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "go"
           }
         ],
