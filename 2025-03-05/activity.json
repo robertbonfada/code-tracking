@@ -419,9 +419,9 @@
       "averageChangeSize": 22.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 1302,
-      "totalLinesRemoved": 128,
-      "totalActiveTime": 60,
+      "totalLinesAdded": 1333,
+      "totalLinesRemoved": 129,
+      "totalActiveTime": 63,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -562,6 +562,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T13:36:36.711Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T13:38:28.354Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T13:38:31.147Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "go"
           }
         ],
