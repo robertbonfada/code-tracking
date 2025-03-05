@@ -420,8 +420,8 @@
     },
     "termonied_testador": {
       "totalLinesAdded": 2651,
-      "totalLinesRemoved": 294,
-      "totalActiveTime": 138,
+      "totalLinesRemoved": 295,
+      "totalActiveTime": 140,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -1394,6 +1394,20 @@
             "fileType": ".go",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T20:31:37.080Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "termonied_testador",
             "content": {
               "added": [],
