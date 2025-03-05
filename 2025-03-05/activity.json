@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-05",
+  "projects": {
+    "frontend": {
+      "totalLinesAdded": 45,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/components/Station.tsx": [
+          {
+            "timestamp": "2025-03-05T11:30:01.064Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/components/Station.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-05T11:31:22.961Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/components/Station.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 2
+      },
+      "changeFrequency": {
+        "8": 2
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/components/Station.tsx"
+      ],
+      "averageChangeSize": 22.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
