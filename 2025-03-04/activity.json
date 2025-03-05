@@ -111,7 +111,7 @@
       "averageChangeSize": 44.8
     },
     "termonied_testador": {
-      "totalLinesAdded": 1987,
+      "totalLinesAdded": 1988,
       "totalLinesRemoved": 207,
       "totalActiveTime": 177,
       "files": {
@@ -1492,6 +1492,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-03-05T01:19:53.524Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/style.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "css"
           }
         ],
