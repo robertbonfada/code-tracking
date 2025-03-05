@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1333                                          |
+| **Lines Added** (➕)   | 1947                                          |
 | **Lines Removed** (➖) | 129                                        |
-| **Net Change** (↕)    | 1204                |
+| **Net Change** (↕)    | 1818                |
 | **Active Time** (⌚)   | 63 minutes |
 
 
@@ -17,6 +17,7 @@
 - **Mav.tsx** (+84, -0)
 - **History.tsx** (+174, -0)
 - **Motor.tsx** (+46, -3)
+- **serial.go** (+614, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".go" : 273
+".go" : 887
 ".tsx" : 1189
 ```
 
@@ -35,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 31
-"10h" : 13
+"10h" : 14
 ```
 
 
-> **Last Updated:** 05/03/2025, 10:39:57
+> **Last Updated:** 05/03/2025, 10:44:57

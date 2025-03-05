@@ -419,7 +419,7 @@
       "averageChangeSize": 22.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 1333,
+      "totalLinesAdded": 1947,
       "totalLinesRemoved": 129,
       "totalActiveTime": 63,
       "files": {
@@ -1049,6 +1049,22 @@
             },
             "duration": 3,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
+          {
+            "timestamp": "2025-03-05T13:43:51.190Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 614,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
           }
         ]
       },
