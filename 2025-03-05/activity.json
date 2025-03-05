@@ -420,8 +420,8 @@
     },
     "termonied_testador": {
       "totalLinesAdded": 1978,
-      "totalLinesRemoved": 129,
-      "totalActiveTime": 67,
+      "totalLinesRemoved": 131,
+      "totalActiveTime": 71,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -1002,6 +1002,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-05T14:10:23.451Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/components/Mav.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ],
