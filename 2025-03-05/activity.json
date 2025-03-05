@@ -1168,9 +1168,9 @@
       "averageChangeSize": 111.5
     },
     "termoa-central": {
-      "totalLinesAdded": 388,
+      "totalLinesAdded": 773,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 3,
       "files": {
         "/Users/admin/Downloads/NBRtec/termoa-central/estacao.c": [
           {
@@ -1202,6 +1202,20 @@
             },
             "duration": 0,
             "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T16:54:43.424Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/serial.go",
+            "fileType": ".go",
+            "linesAdded": 366,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
           }
         ],
         "/Users/admin/Downloads/NBRtec/termoa-central/serial_test.go": [
@@ -1217,6 +1231,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T16:53:08.007Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/serial_test.go",
+            "fileType": ".go",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "go"
           }
         ]
