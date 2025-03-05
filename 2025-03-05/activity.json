@@ -878,6 +878,39 @@
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/EquipmentTester.tsx"
       ],
       "averageChangeSize": 111.5
+    },
+    "termoa-central": {
+      "totalLinesAdded": 386,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Downloads/NBRtec/termoa-central/estacao.c": [
+          {
+            "timestamp": "2025-03-05T12:53:52.686Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/estacao.c",
+            "fileType": ".c",
+            "linesAdded": 386,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "c"
+          }
+        ]
+      },
+      "languageStats": {
+        "c": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "/Users/admin/Downloads/NBRtec/termoa-central/estacao.c"
+      ],
+      "averageChangeSize": 386
     }
   },
   "totalActiveTime": 2,
