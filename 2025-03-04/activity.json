@@ -112,7 +112,7 @@
     },
     "termonied_testador": {
       "totalLinesAdded": 1988,
-      "totalLinesRemoved": 207,
+      "totalLinesRemoved": 212,
       "totalActiveTime": 177,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx": [
@@ -1500,6 +1500,20 @@
             "fileType": ".css",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-03-05T01:25:15.270Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/style.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "termonied_testador",
             "content": {
               "added": [],
