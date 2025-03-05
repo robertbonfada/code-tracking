@@ -4,14 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 386                                          |
+| **Lines Added** (➕)   | 388                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 386                |
-| **Active Time** (⌚)   | 0 minute |
+| **Net Change** (↕)    | 388                |
+| **Active Time** (⌚)   | 1 minute |
 
 
 ## Modified Files
 - **estacao.c** (+386, -0)
+- **serial.go** (+1, -0)
+- **serial_test.go** (+1, -0)
 
 ## Visualizations
 
@@ -21,6 +23,7 @@
 pie showData
 title Lines changed by file type
 ".c" : 386
+".go" : 2
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 1
+"13h" : 2
 ```
 
 
-> **Last Updated:** 05/03/2025, 09:59:51
+> **Last Updated:** 05/03/2025, 13:43:18
