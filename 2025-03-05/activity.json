@@ -419,9 +419,9 @@
       "averageChangeSize": 22.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 2274,
-      "totalLinesRemoved": 262,
-      "totalActiveTime": 89,
+      "totalLinesAdded": 2544,
+      "totalLinesRemoved": 274,
+      "totalActiveTime": 104,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -1285,6 +1285,164 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
             "fileType": ".go",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:19:27.475Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:20:13.567Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:20:49.410Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go": [
+          {
+            "timestamp": "2025-03-05T17:20:58.600Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go",
+            "fileType": ".go",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:21:05.431Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:21:11.311Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go",
+            "fileType": ".go",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:21:39.694Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:22:38.671Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/app.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/queue/queue.go": [
+          {
+            "timestamp": "2025-03-05T17:21:58.123Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/queue/queue.go",
+            "fileType": ".go",
+            "linesAdded": 196,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:22:03.970Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/queue/queue.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:22:22.209Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/queue/queue.go",
+            "fileType": ".go",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "termonied_testador",
             "content": {
