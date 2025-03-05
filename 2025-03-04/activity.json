@@ -111,9 +111,9 @@
       "averageChangeSize": 44.8
     },
     "termonied_testador": {
-      "totalLinesAdded": 1203,
+      "totalLinesAdded": 1372,
       "totalLinesRemoved": 207,
-      "totalActiveTime": 143,
+      "totalActiveTime": 149,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx": [
           {
@@ -1487,6 +1487,52 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/TestLayout.tsx",
             "fileType": ".tsx",
             "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/main.tsx": [
+          {
+            "timestamp": "2025-03-05T00:44:16.369Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/main.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/GrokLayout.tsx": [
+          {
+            "timestamp": "2025-03-05T00:47:55.847Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/GrokLayout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-05T00:48:02.878Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/GrokLayout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 153,
             "linesRemoved": 0,
             "projectName": "termonied_testador",
             "content": {
