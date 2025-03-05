@@ -419,9 +419,9 @@
       "averageChangeSize": 22.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 2262,
-      "totalLinesRemoved": 242,
-      "totalActiveTime": 81,
+      "totalLinesAdded": 2274,
+      "totalLinesRemoved": 262,
+      "totalActiveTime": 89,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -1243,6 +1243,48 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
             "fileType": ".go",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:13:00.936Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:14:03.933Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:14:33.659Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "termonied_testador",
             "content": {
