@@ -419,9 +419,9 @@
       "averageChangeSize": 22.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 1964,
+      "totalLinesAdded": 1978,
       "totalLinesRemoved": 129,
-      "totalActiveTime": 66,
+      "totalActiveTime": 67,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -1107,6 +1107,36 @@
             },
             "duration": 0,
             "language": "go"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/vite.config.ts": [
+          {
+            "timestamp": "2025-03-05T14:06:03.858Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-05T14:06:26.923Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
