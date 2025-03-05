@@ -3,7 +3,7 @@
   "projects": {
     "frontend": {
       "totalLinesAdded": 81,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 1,
       "totalActiveTime": 7,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/components/Station.tsx": [
@@ -89,6 +89,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/EquipmentTester.tsx": [
+          {
+            "timestamp": "2025-03-05T11:45:04.843Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/EquipmentTester.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "frontend",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
