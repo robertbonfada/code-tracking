@@ -111,9 +111,9 @@
       "averageChangeSize": 44.8
     },
     "termonied_testador": {
-      "totalLinesAdded": 1031,
+      "totalLinesAdded": 1064,
       "totalLinesRemoved": 206,
-      "totalActiveTime": 126,
+      "totalActiveTime": 132,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx": [
           {
@@ -1316,6 +1316,52 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/package.json": [
+          {
+            "timestamp": "2025-03-05T00:34:12.710Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/package.json",
+            "fileType": ".json",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/vite.config.ts": [
+          {
+            "timestamp": "2025-03-05T00:38:52.202Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-05T00:38:59.174Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/vite.config.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
