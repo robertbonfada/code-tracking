@@ -419,9 +419,9 @@
       "averageChangeSize": 22.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 2642,
+      "totalLinesAdded": 2649,
       "totalLinesRemoved": 288,
-      "totalActiveTime": 130,
+      "totalActiveTime": 132,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -1572,6 +1572,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T20:13:45.699Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T20:15:20.441Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "go"
           }
         ],
