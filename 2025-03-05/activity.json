@@ -419,9 +419,9 @@
       "averageChangeSize": 22.5
     },
     "termonied_testador": {
-      "totalLinesAdded": 1978,
-      "totalLinesRemoved": 131,
-      "totalActiveTime": 71,
+      "totalLinesAdded": 2249,
+      "totalLinesRemoved": 140,
+      "totalActiveTime": 72,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -1152,6 +1152,36 @@
             "duration": 1,
             "language": "ts"
           }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go": [
+          {
+            "timestamp": "2025-03-05T17:02:04.717Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 271,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:02:51.416Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
         ]
       },
       "languageStats": {
@@ -1168,9 +1198,9 @@
       "averageChangeSize": 111.5
     },
     "termoa-central": {
-      "totalLinesAdded": 773,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesAdded": 791,
+      "totalLinesRemoved": 41,
+      "totalActiveTime": 12,
       "files": {
         "/Users/admin/Downloads/NBRtec/termoa-central/estacao.c": [
           {
@@ -1216,6 +1246,20 @@
             },
             "duration": 2,
             "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T16:59:56.350Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/serial.go",
+            "fileType": ".go",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "go"
           }
         ],
         "/Users/admin/Downloads/NBRtec/termoa-central/serial_test.go": [
@@ -1246,6 +1290,50 @@
             },
             "duration": 0,
             "language": "go"
+          },
+          {
+            "timestamp": "2025-03-05T17:01:44.130Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/serial_test.go",
+            "fileType": ".go",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ],
+        "/Users/admin/Downloads/NBRtec/termoa-central/go.mod": [
+          {
+            "timestamp": "2025-03-05T16:58:35.888Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/go.mod",
+            "fileType": ".mod",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "mod"
+          },
+          {
+            "timestamp": "2025-03-05T17:01:40.636Z",
+            "fileName": "/Users/admin/Downloads/NBRtec/termoa-central/go.mod",
+            "fileType": ".mod",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "termoa-central",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "mod"
           }
         ]
       },
