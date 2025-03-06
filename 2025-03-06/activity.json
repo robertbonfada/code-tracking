@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-06",
+  "projects": {
+    "termonied_testador": {
+      "totalLinesAdded": 172,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
+          {
+            "timestamp": "2025-03-06T17:02:34.642Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 172,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go"
+      ],
+      "averageChangeSize": 172
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "go"
+  ]
+}
