@@ -2,7 +2,7 @@
   "date": "2025-03-06",
   "projects": {
     "termonied_testador": {
-      "totalLinesAdded": 183,
+      "totalLinesAdded": 184,
       "totalLinesRemoved": 1,
       "totalActiveTime": 3,
       "files": {
@@ -75,6 +75,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-06T18:37:36.313Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "go"
           }
         ]
