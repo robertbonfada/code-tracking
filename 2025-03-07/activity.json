@@ -1,0 +1,95 @@
+{
+  "date": "2025-03-07",
+  "projects": {
+    "mbc-web": {
+      "totalLinesAdded": 884,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx": [
+          {
+            "timestamp": "2025-03-07T10:01:49.580Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 106,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-07T10:02:05.412Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/index.lazy.tsx": [
+          {
+            "timestamp": "2025-03-07T10:02:30.886Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/sidebar.tsx": [
+          {
+            "timestamp": "2025-03-07T10:06:10.600Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 762,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 6
+      },
+      "changeFrequency": {
+        "7": 6
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/index.lazy.tsx",
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/sidebar.tsx"
+      ],
+      "averageChangeSize": 221
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
