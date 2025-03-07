@@ -273,9 +273,9 @@
       "averageChangeSize": 221
     },
     "termonied-web": {
-      "totalLinesAdded": 23,
+      "totalLinesAdded": 566,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 3,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/constants/aeration.ts": [
           {
@@ -305,6 +305,36 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/UnitConfigModal/index.jsx": [
+          {
+            "timestamp": "2025-03-07T17:28:16.922Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/UnitConfigModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 537,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "jsx"
+          },
+          {
+            "timestamp": "2025-03-07T17:30:36.671Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/UnitConfigModal/index.jsx",
+            "fileType": ".jsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "jsx"
           }
         ]
       },
