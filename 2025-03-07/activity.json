@@ -273,7 +273,7 @@
       "averageChangeSize": 221
     },
     "termonied-web": {
-      "totalLinesAdded": 22,
+      "totalLinesAdded": 23,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -283,6 +283,20 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/constants/aeration.ts",
             "fileType": ".ts",
             "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-07T17:22:10.746Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/constants/aeration.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "termonied-web",
             "content": {
