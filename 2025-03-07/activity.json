@@ -2,7 +2,7 @@
   "date": "2025-03-07",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 2716,
+      "totalLinesAdded": 2817,
       "totalLinesRemoved": 917,
       "totalActiveTime": 75,
       "files": {
@@ -161,6 +161,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-07T20:45:28.629Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/index.lazy.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ],
