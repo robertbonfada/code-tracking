@@ -2,9 +2,9 @@
   "date": "2025-03-07",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 2030,
+      "totalLinesAdded": 2054,
       "totalLinesRemoved": 200,
-      "totalActiveTime": 18,
+      "totalActiveTime": 23,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx": [
           {
@@ -190,6 +190,48 @@
             "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/-info-basicas.ts",
             "fileType": ".ts",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-07T10:22:20.458Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/-info-basicas.ts",
+            "fileType": ".ts",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-07T10:23:21.332Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/-info-basicas.ts",
+            "fileType": ".ts",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-07T10:23:50.192Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/-info-basicas.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
