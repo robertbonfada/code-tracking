@@ -271,6 +271,39 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/ui/sidebar.tsx"
       ],
       "averageChangeSize": 221
+    },
+    "termonied-web": {
+      "totalLinesAdded": 22,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/constants/aeration.ts": [
+          {
+            "timestamp": "2025-03-07T17:17:00.292Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/constants/aeration.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/constants/aeration.ts"
+      ],
+      "averageChangeSize": 22
     }
   },
   "totalActiveTime": 6,
