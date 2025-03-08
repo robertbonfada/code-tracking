@@ -2,9 +2,9 @@
   "date": "2025-03-08",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 699,
+      "totalLinesAdded": 701,
       "totalLinesRemoved": 15,
-      "totalActiveTime": 33,
+      "totalActiveTime": 35,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/RenderViewField.tsx": [
           {
@@ -309,6 +309,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-08T19:53:50.082Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/PaymentInfo.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
