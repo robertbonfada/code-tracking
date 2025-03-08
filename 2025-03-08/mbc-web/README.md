@@ -4,22 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1814                                          |
-| **Lines Removed** (➖) | 110                                        |
-| **Net Change** (↕)    | 1704                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Lines Added** (➕)   | 1867                                          |
+| **Lines Removed** (➖) | 111                                        |
+| **Net Change** (↕)    | 1756                |
+| **Active Time** (⌚)   | 93 minutes |
 
 
 ## Modified Files
 - **RenderViewField.tsx** (+160, -1)
-- **index.lazy.tsx** (+36, -8)
+- **index.lazy.tsx** (+41, -8)
 - **-pagamento.tsx** (+16, -0)
 - **types.ts** (+1, -0)
 - **RenderInputField.tsx** (+386, -1)
 - **PaymentInfo.tsx** (+123, -43)
 - **OrderTimeline.tsx** (+150, -53)
-- **CrudRecordForm.tsx** (+478, -4)
+- **CrudRecordForm.tsx** (+478, -5)
 - **index.tsx** (+464, -0)
+- **SideOver.tsx** (+48, -0)
 
 ## Visualizations
 
@@ -28,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1923
+".tsx" : 1977
 ".ts" : 1
 ```
 
@@ -39,8 +40,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "15h" : 11
 "16h" : 13
-"17h" : 31
+"17h" : 35
 ```
 
 
-> **Last Updated:** 08/03/2025, 17:53:07
+> **Last Updated:** 08/03/2025, 17:58:07
