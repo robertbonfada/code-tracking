@@ -468,6 +468,124 @@
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/index.lazy.tsx"
       ],
       "averageChangeSize": 4.25
+    },
+    "audiobooks-web": {
+      "totalLinesAdded": 287,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/components/PlaylistPanel.tsx": [
+          {
+            "timestamp": "2025-03-10T11:14:08.105Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/components/PlaylistPanel.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 90,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/refreshTokenService.ts": [
+          {
+            "timestamp": "2025-03-10T11:16:35.033Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/refreshTokenService.ts",
+            "fileType": ".ts",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/authService.ts": [
+          {
+            "timestamp": "2025-03-10T11:16:51.322Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/authService.ts",
+            "fileType": ".ts",
+            "linesAdded": 82,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts": [
+          {
+            "timestamp": "2025-03-10T11:17:06.613Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 63,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/hooks/useAuthenticatedApiClient.ts": [
+          {
+            "timestamp": "2025-03-10T11:17:08.758Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/hooks/useAuthenticatedApiClient.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/utils/tokenUtils.ts": [
+          {
+            "timestamp": "2025-03-10T11:17:18.055Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/utils/tokenUtils.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0,
+        "ts": 7
+      },
+      "changeFrequency": {
+        "8": 7
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/components/PlaylistPanel.tsx",
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/refreshTokenService.ts",
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/authService.ts",
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts",
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/hooks/useAuthenticatedApiClient.ts"
+      ],
+      "averageChangeSize": 47.833333333333336
     }
   },
   "totalActiveTime": 4,
