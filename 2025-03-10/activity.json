@@ -2,9 +2,9 @@
   "date": "2025-03-10",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 347,
+      "totalLinesAdded": 378,
       "totalLinesRemoved": 76,
-      "totalActiveTime": 51,
+      "totalActiveTime": 55,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/pedidos-assinatura/index.lazy.tsx": [
           {
@@ -497,6 +497,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-10T18:56:05.607Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/AppSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "tsx"
           }
         ]
