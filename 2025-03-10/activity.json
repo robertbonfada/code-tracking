@@ -470,9 +470,9 @@
       "averageChangeSize": 4.25
     },
     "audiobooks-web": {
-      "totalLinesAdded": 424,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 426,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 14,
       "files": {
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/player/components/PlaylistPanel.tsx": [
           {
@@ -591,6 +591,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-10T12:00:54.105Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-10T12:01:19.215Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
