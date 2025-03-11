@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1313                                          |
+| **Lines Added** (➕)   | 1606                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 1313                |
-| **Active Time** (⌚)   | 27 minutes |
+| **Net Change** (↕)    | 1606                |
+| **Active Time** (⌚)   | 36 minutes |
 
 
 ## Modified Files
 - **serial.go** (+873, -0)
 - **termometria.go** (+188, -0)
 - **estacao.go** (+175, -0)
-- **Station.tsx** (+77, -0)
+- **Station.tsx** (+83, -0)
+- **aeracao.go** (+287, -0)
 
 ## Visualizations
 
@@ -23,8 +24,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".go" : 1236
-".tsx" : 77
+".go" : 1523
+".tsx" : 83
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +33,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"21h" : 21
+"21h" : 27
 ```
 
 
-> **Last Updated:** 10/03/2025, 21:46:32
+> **Last Updated:** 10/03/2025, 21:51:32

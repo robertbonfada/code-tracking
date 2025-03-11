@@ -1518,9 +1518,9 @@
       "averageChangeSize": 47.833333333333336
     },
     "termonied_testador": {
-      "totalLinesAdded": 1313,
+      "totalLinesAdded": 1606,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 27,
+      "totalActiveTime": 36,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
           {
@@ -1822,6 +1822,92 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T00:47:35.718Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/components/Station.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
+          {
+            "timestamp": "2025-03-11T00:48:28.942Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 277,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-11T00:48:34.638Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-11T00:48:45.618Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-11T00:48:57.097Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-11T00:51:01.724Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go",
+            "fileType": ".go",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "go"
           }
         ]
       },
