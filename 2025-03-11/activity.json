@@ -669,7 +669,7 @@
       "averageChangeSize": 88
     },
     "mbc-web": {
-      "totalLinesAdded": 1482,
+      "totalLinesAdded": 2640,
       "totalLinesRemoved": 30,
       "totalActiveTime": 91,
       "files": {
@@ -1581,6 +1581,22 @@
             },
             "duration": 4,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routeTree.gen.ts": [
+          {
+            "timestamp": "2025-03-11T21:21:47.981Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routeTree.gen.ts",
+            "fileType": ".ts",
+            "linesAdded": 1158,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
