@@ -1633,6 +1633,53 @@
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go"
       ],
       "averageChangeSize": 286.3333333333333
+    },
+    "simulador": {
+      "totalLinesAdded": 436,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go": [
+          {
+            "timestamp": "2025-03-11T00:26:31.417Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go",
+            "fileType": ".go",
+            "linesAdded": 435,
+            "linesRemoved": 0,
+            "projectName": "simulador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-11T00:26:43.186Z",
+            "fileName": "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "simulador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 1
+      },
+      "changeFrequency": {
+        "21": 1
+      },
+      "topFiles": [
+        "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go"
+      ],
+      "averageChangeSize": 218
     }
   },
   "totalActiveTime": 4,
