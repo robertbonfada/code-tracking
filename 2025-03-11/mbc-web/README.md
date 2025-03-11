@@ -4,17 +4,18 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 985                                          |
-| **Lines Removed** (➖) | 10                                        |
-| **Net Change** (↕)    | 975                |
-| **Active Time** (⌚)   | 40 minutes |
+| **Lines Added** (➕)   | 1058                                          |
+| **Lines Removed** (➖) | 12                                        |
+| **Net Change** (↕)    | 1046                |
+| **Active Time** (⌚)   | 47 minutes |
 
 
 ## Modified Files
 - **-config.tsx** (+867, -0)
 - **index.tsx** (+14, -0)
-- **index.lazy.tsx** (+24, -0)
+- **index.lazy.tsx** (+27, -0)
 - **CriarRemessaModal.tsx** (+80, -10)
+- **AddRemessaModal.tsx** (+70, -2)
 
 ## Visualizations
 
@@ -23,7 +24,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 995
+".tsx" : 1070
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"16h" : 27
+"16h" : 32
 ```
 
 
-> **Last Updated:** 11/03/2025, 16:40:31
+> **Last Updated:** 11/03/2025, 16:45:31
