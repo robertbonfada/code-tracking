@@ -518,7 +518,7 @@
       "averageChangeSize": 436
     },
     "audiobooks-web": {
-      "totalLinesAdded": 467,
+      "totalLinesAdded": 468,
       "totalLinesRemoved": 1,
       "totalActiveTime": 3,
       "files": {
@@ -632,6 +632,20 @@
             "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/refreshTokenService.ts",
             "fileType": ".ts",
             "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-11T18:56:14.082Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/refreshTokenService.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "audiobooks-web",
             "content": {
