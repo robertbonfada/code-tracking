@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2393                                          |
+| **Lines Added** (➕)   | 2427                                          |
 | **Lines Removed** (➖) | 4                                        |
-| **Net Change** (↕)    | 2389                |
-| **Active Time** (⌚)   | 73 minutes |
+| **Net Change** (↕)    | 2423                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
-- **serial.go** (+873, -0)
+- **serial.go** (+874, -0)
 - **termometria.go** (+202, -0)
 - **estacao.go** (+175, -0)
 - **Station.tsx** (+83, -0)
@@ -19,6 +19,7 @@
 - **Aeracao.tsx** (+95, -0)
 - **Mav.tsx** (+93, -0)
 - **EquipmentTester.tsx** (+547, -1)
+- **command.go** (+33, -0)
 
 ## Visualizations
 
@@ -27,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".go" : 1578
+".go" : 1612
 ".tsx" : 819
 ```
 
@@ -37,8 +38,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "21h" : 36
-"22h" : 17
+"22h" : 20
 ```
 
 
-> **Last Updated:** 10/03/2025, 22:21:32
+> **Last Updated:** 10/03/2025, 22:26:32
