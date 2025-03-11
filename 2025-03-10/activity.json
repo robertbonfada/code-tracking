@@ -1516,6 +1516,67 @@
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/hooks/useAuthenticatedApiClient.ts"
       ],
       "averageChangeSize": 47.833333333333336
+    },
+    "termonied_testador": {
+      "totalLinesAdded": 859,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
+          {
+            "timestamp": "2025-03-11T00:17:28.016Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 854,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-11T00:17:38.732Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-11T00:18:32.434Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go",
+            "fileType": ".go",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          }
+        ]
+      },
+      "languageStats": {
+        "go": 2
+      },
+      "changeFrequency": {
+        "21": 2
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go"
+      ],
+      "averageChangeSize": 286.3333333333333
     }
   },
   "totalActiveTime": 4,
