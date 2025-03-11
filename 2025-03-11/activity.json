@@ -516,6 +516,39 @@
         "/Users/admin/Development/RobertLabs/simulador-serial/simulador/simulador.go"
       ],
       "averageChangeSize": 436
+    },
+    "audiobooks-web": {
+      "totalLinesAdded": 88,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts": [
+          {
+            "timestamp": "2025-03-11T17:31:08.181Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 88,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts"
+      ],
+      "averageChangeSize": 88
     }
   },
   "totalActiveTime": 1,
