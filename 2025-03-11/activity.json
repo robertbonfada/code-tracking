@@ -669,7 +669,7 @@
       "averageChangeSize": 88
     },
     "mbc-web": {
-      "totalLinesAdded": 1307,
+      "totalLinesAdded": 1387,
       "totalLinesRemoved": 25,
       "totalActiveTime": 77,
       "files": {
@@ -1464,6 +1464,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/CodigoRastreioModal.tsx": [
+          {
+            "timestamp": "2025-03-11T20:39:19.603Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/CodigoRastreioModal.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
