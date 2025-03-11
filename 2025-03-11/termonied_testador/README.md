@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 257                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 257                |
-| **Active Time** (⌚)   | 15 minutes |
+| **Lines Added** (➕)   | 585                                          |
+| **Lines Removed** (➖) | 299                                        |
+| **Net Change** (↕)    | 286                |
+| **Active Time** (⌚)   | 24 minutes |
 
 
 ## Modified Files
@@ -15,6 +15,9 @@
 - **EquipmentTester.tsx** (+58, -0)
 - **termometria.go** (+15, -0)
 - **app.go** (+74, -0)
+- **App.tsx** (+309, -299)
+- **main.tsx** (+18, -0)
+- **EquipmentTester.tsx** (+1, -0)
 
 ## Visualizations
 
@@ -24,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".go" : 199
-".tsx" : 58
+".tsx" : 685
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "07h" : 2
-"08h" : 10
+"08h" : 15
 ```
 
 
-> **Last Updated:** 11/03/2025, 08:31:20
+> **Last Updated:** 11/03/2025, 08:36:20
