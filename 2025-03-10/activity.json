@@ -1518,9 +1518,9 @@
       "averageChangeSize": 47.833333333333336
     },
     "termonied_testador": {
-      "totalLinesAdded": 2471,
+      "totalLinesAdded": 2473,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 106,
+      "totalActiveTime": 107,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/serial/serial.go": [
           {
@@ -1852,6 +1852,20 @@
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
             "fileType": ".go",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "go"
+          },
+          {
+            "timestamp": "2025-03-11T01:41:50.301Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/termometria/termometria.go",
+            "fileType": ".go",
+            "linesAdded": 2,
             "linesRemoved": 0,
             "projectName": "termonied_testador",
             "content": {
