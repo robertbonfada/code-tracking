@@ -667,6 +667,39 @@
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts"
       ],
       "averageChangeSize": 88
+    },
+    "mbc-web": {
+      "totalLinesAdded": 867,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/-config.tsx": [
+          {
+            "timestamp": "2025-03-11T19:17:25.883Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/-config.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 867,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/mbc-web/src/routes/backoffice/_backoffice/clientes/-config.tsx"
+      ],
+      "averageChangeSize": 867
     }
   },
   "totalActiveTime": 1,
