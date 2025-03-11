@@ -2,9 +2,9 @@
   "date": "2025-03-11",
   "projects": {
     "termonied_testador": {
-      "totalLinesAdded": 585,
+      "totalLinesAdded": 684,
       "totalLinesRemoved": 299,
-      "totalActiveTime": 24,
+      "totalActiveTime": 31,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/internal/aeracao/aeracao.go": [
           {
@@ -224,6 +224,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-11T11:41:02.971Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/main.tsx": [
@@ -256,6 +270,22 @@
             },
             "duration": 3,
             "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.css": [
+          {
+            "timestamp": "2025-03-11T11:38:58.274Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied_testador/frontend/src/App.css",
+            "fileType": ".css",
+            "linesAdded": 59,
+            "linesRemoved": 0,
+            "projectName": "termonied_testador",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "css"
           }
         ]
       },
