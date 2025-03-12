@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-12",
+  "projects": {
+    "termonied-web": {
+      "totalLinesAdded": 451,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/admin/plantas/[id]/_components/cabos/index.tsx": [
+          {
+            "timestamp": "2025-03-12T19:39:10.187Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/app/admin/plantas/[id]/_components/cabos/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 451,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/app/admin/plantas/[id]/_components/cabos/index.tsx"
+      ],
+      "averageChangeSize": 451
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
