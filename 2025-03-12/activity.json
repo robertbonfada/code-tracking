@@ -2,9 +2,9 @@
   "date": "2025-03-12",
   "projects": {
     "termonied-web": {
-      "totalLinesAdded": 496,
+      "totalLinesAdded": 498,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 18,
+      "totalActiveTime": 24,
       "files": {
         "/Users/admin/Development/Clients/TermoNied/termonied-web/app/admin/plantas/[id]/_components/cabos/index.tsx": [
           {
@@ -165,6 +165,34 @@
           },
           {
             "timestamp": "2025-03-12T19:59:11.707Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/DataTable/SelectCell.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-12T20:03:21.456Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/DataTable/SelectCell.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-12T20:03:38.453Z",
             "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/DataTable/SelectCell.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
