@@ -75,6 +75,39 @@
         "/Users/admin/Library/Application Support/Code/User/settings.json"
       ],
       "averageChangeSize": 9.5
+    },
+    "termonied-web": {
+      "totalLinesAdded": 54,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/DataTable/SelectCell.tsx": [
+          {
+            "timestamp": "2025-03-13T15:27:29.010Z",
+            "fileName": "/Users/admin/Development/Clients/TermoNied/termonied-web/components/DataTable/SelectCell.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "termonied-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/TermoNied/termonied-web/components/DataTable/SelectCell.tsx"
+      ],
+      "averageChangeSize": 54
     }
   },
   "totalActiveTime": 3,
