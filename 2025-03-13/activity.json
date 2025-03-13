@@ -157,9 +157,9 @@
       "averageChangeSize": 44
     },
     "lumine-web": {
-      "totalLinesAdded": 673,
+      "totalLinesAdded": 697,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 9,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/eventTracking.ts": [
           {
@@ -190,6 +190,36 @@
               "removed": []
             },
             "duration": 5,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts": [
+          {
+            "timestamp": "2025-03-13T19:52:46.486Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-13T19:56:04.386Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "ts"
           }
         ]
