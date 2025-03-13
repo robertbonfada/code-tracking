@@ -157,7 +157,7 @@
       "averageChangeSize": 44
     },
     "lumine-web": {
-      "totalLinesAdded": 697,
+      "totalLinesAdded": 804,
       "totalLinesRemoved": 0,
       "totalActiveTime": 9,
       "files": {
@@ -220,6 +220,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-13T20:03:07.288Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
