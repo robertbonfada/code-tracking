@@ -157,9 +157,9 @@
       "averageChangeSize": 44
     },
     "lumine-web": {
-      "totalLinesAdded": 1057,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 1060,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 28,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/eventTracking.ts": [
           {
@@ -249,6 +249,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-13T20:13:42.483Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-13T20:16:11.093Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ],
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/App.vue": [
@@ -299,6 +327,34 @@
             "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/App.vue",
             "fileType": ".vue",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-13T20:16:34.830Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/App.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-13T20:17:26.057Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/App.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "lumine-web",
             "content": {
