@@ -2,9 +2,9 @@
   "date": "2025-03-14",
   "projects": {
     "lumine-web": {
-      "totalLinesAdded": 3198,
+      "totalLinesAdded": 3199,
       "totalLinesRemoved": 143,
-      "totalActiveTime": 53,
+      "totalActiveTime": 55,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue": [
           {
@@ -189,6 +189,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-14T20:32:57.906Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CarouselContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "vue"
           }
         ],
