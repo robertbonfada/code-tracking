@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-14",
+  "projects": {
+    "lumine-web": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue": [
+          {
+            "timestamp": "2025-03-14T11:51:46.447Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          }
+        ]
+      },
+      "languageStats": {
+        "vue": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue"
+      ],
+      "averageChangeSize": 14
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "vue"
+  ]
+}
