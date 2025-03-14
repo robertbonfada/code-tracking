@@ -2,9 +2,9 @@
   "date": "2025-03-14",
   "projects": {
     "lumine-web": {
-      "totalLinesAdded": 1738,
+      "totalLinesAdded": 1933,
       "totalLinesRemoved": 79,
-      "totalActiveTime": 16,
+      "totalActiveTime": 24,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue": [
           {
@@ -217,6 +217,50 @@
             "fileType": ".vue",
             "linesAdded": 0,
             "linesRemoved": 47,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-14T20:00:32.789Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/CarouselContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/Content/Page.vue": [
+          {
+            "timestamp": "2025-03-14T20:02:34.853Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/Content/Page.vue",
+            "fileType": ".vue",
+            "linesAdded": 190,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-14T20:02:41.139Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/Content/Page.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
             "projectName": "lumine-web",
             "content": {
               "added": [],
