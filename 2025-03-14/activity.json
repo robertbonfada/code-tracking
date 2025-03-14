@@ -2,9 +2,9 @@
   "date": "2025-03-14",
   "projects": {
     "lumine-web": {
-      "totalLinesAdded": 3230,
+      "totalLinesAdded": 3391,
       "totalLinesRemoved": 145,
-      "totalActiveTime": 67,
+      "totalActiveTime": 72,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue": [
           {
@@ -187,6 +187,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-14T20:52:04.753Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "vue"
           }
         ],
@@ -662,6 +676,64 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/WatchButton.vue": [
+          {
+            "timestamp": "2025-03-14T20:48:55.217Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/WatchButton.vue",
+            "fileType": ".vue",
+            "linesAdded": 143,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-14T20:49:11.614Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/WatchButton.vue",
+            "fileType": ".vue",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-14T20:49:22.711Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/WatchButton.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-14T20:50:17.443Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/WatchButton.vue",
+            "fileType": ".vue",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
           }
         ]
       },
