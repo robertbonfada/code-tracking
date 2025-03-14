@@ -3,8 +3,8 @@
   "projects": {
     "lumine-web": {
       "totalLinesAdded": 531,
-      "totalLinesRemoved": 30,
-      "totalActiveTime": 6,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 7,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue": [
           {
@@ -115,6 +115,20 @@
             "fileType": ".vue",
             "linesAdded": 0,
             "linesRemoved": 16,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-14T19:28:03.704Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/BannerDetailContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "lumine-web",
             "content": {
               "added": [],
