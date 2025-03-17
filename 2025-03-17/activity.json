@@ -2,9 +2,9 @@
   "date": "2025-03-17",
   "projects": {
     "lumine-web": {
-      "totalLinesAdded": 1184,
+      "totalLinesAdded": 1383,
       "totalLinesRemoved": 156,
-      "totalActiveTime": 40,
+      "totalActiveTime": 47,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/Banner.vue": [
           {
@@ -454,6 +454,54 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/HomeKids/Page.vue": [
+          {
+            "timestamp": "2025-03-17T12:20:37.615Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/HomeKids/Page.vue",
+            "fileType": ".vue",
+            "linesAdded": 65,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/HomeSeries/Page.vue": [
+          {
+            "timestamp": "2025-03-17T12:20:52.260Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/HomeSeries/Page.vue",
+            "fileType": ".vue",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/HomeFilms/Page.vue": [
+          {
+            "timestamp": "2025-03-17T12:21:04.278Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/HomeFilms/Page.vue",
+            "fileType": ".vue",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
           }
         ]
       },
