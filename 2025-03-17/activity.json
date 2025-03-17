@@ -1147,9 +1147,9 @@
       "averageChangeSize": 45.5
     },
     "audiobooks-web": {
-      "totalLinesAdded": 925,
-      "totalLinesRemoved": 62,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 938,
+      "totalLinesRemoved": 63,
+      "totalActiveTime": 78,
       "files": {
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/global/ContentBlockedPopup.tsx": [
           {
@@ -1461,6 +1461,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T15:15:50.092Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/refreshTokenService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts": [
@@ -1616,6 +1630,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T15:12:39.766Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T15:15:24.420Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/services/axiosConfig.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
