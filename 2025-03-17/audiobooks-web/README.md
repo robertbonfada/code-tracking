@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 917                                          |
-| **Lines Removed** (➖) | 57                                        |
-| **Net Change** (↕)    | 860                |
-| **Active Time** (⌚)   | 68 minutes |
+| **Lines Added** (➕)   | 919                                          |
+| **Lines Removed** (➖) | 62                                        |
+| **Net Change** (↕)    | 857                |
+| **Active Time** (⌚)   | 72 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **refreshTokenService.ts** (+69, -5)
 - **axiosConfig.ts** (+159, -39)
 - **MainContent.tsx** (+53, -6)
-- **AudioList.tsx** (+275, -0)
+- **AudioList.tsx** (+277, -5)
 - **contents.ts** (+49, -0)
 - **journey.ts** (+41, -0)
 - **PlayerContext.tsx** (+228, -0)
@@ -27,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 612
+".tsx" : 619
 ".ts" : 362
 ```
 
@@ -37,8 +37,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "11h" : 54
-"12h" : 3
+"12h" : 7
 ```
 
 
-> **Last Updated:** 17/03/2025, 12:02:17
+> **Last Updated:** 17/03/2025, 12:07:17
