@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 29                                          |
-| **Lines Removed** (➖) | 1                                        |
-| **Net Change** (↕)    | 28                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Lines Added** (➕)   | 97                                          |
+| **Lines Removed** (➖) | 2                                        |
+| **Net Change** (↕)    | 95                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
-- **ContentBlockedPopup.tsx** (+29, -1)
+- **ContentBlockedPopup.tsx** (+29, -2)
+- **refreshTokenService.ts** (+68, -0)
 
 ## Visualizations
 
@@ -20,7 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 30
+".tsx" : 31
+".ts" : 68
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 3
+"11h" : 8
 ```
 
 
-> **Last Updated:** 17/03/2025, 11:17:17
+> **Last Updated:** 17/03/2025, 11:27:17
