@@ -1147,7 +1147,7 @@
       "averageChangeSize": 45.5
     },
     "audiobooks-web": {
-      "totalLinesAdded": 2745,
+      "totalLinesAdded": 2746,
       "totalLinesRemoved": 137,
       "totalActiveTime": 129,
       "files": {
@@ -2786,6 +2786,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-17T17:51:38.467Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/bookplayer/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
