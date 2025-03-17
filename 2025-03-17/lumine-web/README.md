@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1059                                          |
-| **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 1054                |
-| **Active Time** (⌚)   | 20 minutes |
+| **Lines Added** (➕)   | 1122                                          |
+| **Lines Removed** (➖) | 58                                        |
+| **Net Change** (↕)    | 1064                |
+| **Active Time** (⌚)   | 26 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,8 @@
 - **Page.vue** (+67, -0)
 - **ListButton.vue** (+116, -5)
 - **customEvents.ts** (+2, -0)
-- **DetailContent.vue** (+662, -0)
+- **DetailContent.vue** (+662, -53)
+- **TopBar.vue** (+63, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 1062
+".vue" : 1178
 ".ts" : 2
 ```
 
@@ -35,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 8
-"09h" : 8
+"09h" : 13
 ```
 
 
-> **Last Updated:** 17/03/2025, 09:03:41
+> **Last Updated:** 17/03/2025, 09:08:41
