@@ -2,9 +2,9 @@
   "date": "2025-03-17",
   "projects": {
     "lumine-web": {
-      "totalLinesAdded": 1383,
-      "totalLinesRemoved": 156,
-      "totalActiveTime": 47,
+      "totalLinesAdded": 1715,
+      "totalLinesRemoved": 489,
+      "totalActiveTime": 82,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/Banner.vue": [
           {
@@ -62,6 +62,34 @@
             },
             "duration": 1,
             "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:22.292Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/Banner.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 22,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.316Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/Banner.vue",
+            "fileType": ".vue",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
           }
         ],
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CarouselBanner.vue": [
@@ -81,6 +109,34 @@
           },
           {
             "timestamp": "2025-03-17T11:58:14.905Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CarouselBanner.vue",
+            "fileType": ".vue",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:22.301Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CarouselBanner.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.313Z",
             "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CarouselBanner.vue",
             "fileType": ".vue",
             "linesAdded": 2,
@@ -200,6 +256,34 @@
             "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ListButton.vue",
             "fileType": ".vue",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:22.284Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ListButton.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.304Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ListButton.vue",
+            "fileType": ".vue",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "lumine-web",
             "content": {
@@ -338,6 +422,34 @@
             },
             "duration": 1,
             "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:22.210Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/DetailContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.302Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/DetailContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 53,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
           }
         ],
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/navigation/TopBar.vue": [
@@ -424,6 +536,48 @@
             },
             "duration": 1,
             "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:22.302Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/navigation/TopBar.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 29,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.314Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/navigation/TopBar.vue",
+            "fileType": ".vue",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:47:45.027Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/navigation/TopBar.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "vue"
           }
         ],
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/types.ts": [
@@ -495,6 +649,396 @@
             "fileType": ".vue",
             "linesAdded": 67,
             "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/App.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.207Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/App.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.300Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/App.vue",
+            "fileType": ".vue",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ImmersionCarousel.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.214Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ImmersionCarousel.vue",
+            "fileType": ".vue",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.303Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ImmersionCarousel.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/CardContent.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.287Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/CardContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.308Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/CardContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CarouselContent.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.286Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CarouselContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.330Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CarouselContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/WatchButton.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.290Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/WatchButton.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.306Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/WatchButton.vue",
+            "fileType": ".vue",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/CarouselContent.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.294Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/CarouselContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.305Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/content/CarouselContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 43,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/BannerDetailContent.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.298Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/BannerDetailContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.309Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/BannerDetailContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.299Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 48,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.310Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/CardContent.vue",
+            "fileType": ".vue",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/MyArea.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.314Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/MyArea.vue",
+            "fileType": ".vue",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.322Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/MyArea.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/Content/Page.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.308Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/Content/Page.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.315Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/pages/Content/Page.vue",
+            "fileType": ".vue",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/Catalog.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.311Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/Catalog.vue",
+            "fileType": ".vue",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.327Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/Catalog.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/Tags.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.317Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/Tags.vue",
+            "fileType": ".vue",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.326Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/Tags.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 17,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/List.vue": [
+          {
+            "timestamp": "2025-03-17T12:46:22.312Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/List.vue",
+            "fileType": ".vue",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:46:25.321Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/views/List.vue",
+            "fileType": ".vue",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "lumine-web",
             "content": {
               "added": [],

@@ -4,24 +4,37 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1383                                          |
-| **Lines Removed** (➖) | 156                                        |
-| **Net Change** (↕)    | 1227                |
-| **Active Time** (⌚)   | 47 minutes |
+| **Lines Added** (➕)   | 1715                                          |
+| **Lines Removed** (➖) | 489                                        |
+| **Net Change** (↕)    | 1226                |
+| **Active Time** (⌚)   | 82 minutes |
 
 
 ## Modified Files
-- **Banner.vue** (+101, -0)
-- **CarouselBanner.vue** (+111, -0)
+- **Banner.vue** (+123, -22)
+- **CarouselBanner.vue** (+113, -2)
 - **Page.vue** (+67, -0)
-- **ListButton.vue** (+116, -5)
+- **ListButton.vue** (+127, -16)
 - **customEvents.ts** (+3, -98)
-- **DetailContent.vue** (+662, -53)
-- **TopBar.vue** (+80, -0)
+- **DetailContent.vue** (+715, -106)
+- **TopBar.vue** (+109, -30)
 - **types.ts** (+44, -0)
 - **Page.vue** (+65, -0)
 - **Page.vue** (+67, -0)
 - **Page.vue** (+67, -0)
+- **App.vue** (+20, -20)
+- **ImmersionCarousel.vue** (+4, -4)
+- **CardContent.vue** (+6, -6)
+- **CarouselContent.vue** (+12, -12)
+- **WatchButton.vue** (+17, -17)
+- **CarouselContent.vue** (+43, -43)
+- **BannerDetailContent.vue** (+6, -6)
+- **CardContent.vue** (+48, -48)
+- **MyArea.vue** (+15, -15)
+- **Page.vue** (+1, -1)
+- **Catalog.vue** (+12, -12)
+- **Tags.vue** (+17, -17)
+- **List.vue** (+14, -14)
 
 ## Visualizations
 
@@ -30,7 +43,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".vue" : 1394
+".vue" : 2059
 ".ts" : 145
 ```
 
@@ -40,8 +53,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 8
-"09h" : 26
+"09h" : 63
 ```
 
 
-> **Last Updated:** 17/03/2025, 09:23:41
+> **Last Updated:** 17/03/2025, 09:48:41
