@@ -2,9 +2,9 @@
   "date": "2025-03-17",
   "projects": {
     "lumine-web": {
-      "totalLinesAdded": 1139,
-      "totalLinesRemoved": 65,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 1184,
+      "totalLinesRemoved": 156,
+      "totalActiveTime": 40,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/Banner.vue": [
           {
@@ -238,6 +238,76 @@
             },
             "duration": 3,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T12:14:17.007Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T12:15:14.057Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 13,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T12:15:21.358Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T12:16:05.469Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 41,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T12:16:28.988Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/DetailContent.vue": [
@@ -354,6 +424,36 @@
             },
             "duration": 1,
             "language": "vue"
+          }
+        ],
+        "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/types.ts": [
+          {
+            "timestamp": "2025-03-17T12:15:39.391Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T12:16:04.036Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/types.ts",
+            "fileType": ".ts",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
