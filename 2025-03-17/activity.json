@@ -2,9 +2,9 @@
   "date": "2025-03-17",
   "projects": {
     "lumine-web": {
-      "totalLinesAdded": 1122,
-      "totalLinesRemoved": 58,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 1139,
+      "totalLinesRemoved": 65,
+      "totalActiveTime": 32,
       "files": {
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/Banner.vue": [
           {
@@ -224,6 +224,20 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-17T12:12:35.535Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/functions/customEvents.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
           }
         ],
         "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/DetailContent.vue": [
@@ -304,6 +318,34 @@
             "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/navigation/TopBar.vue",
             "fileType": ".vue",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:09:30.705Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/navigation/TopBar.vue",
+            "fileType": ".vue",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "lumine-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "vue"
+          },
+          {
+            "timestamp": "2025-03-17T12:10:10.187Z",
+            "fileName": "/Users/admin/Development/Clients/Lumine/lumine-web/src/components/ui/navigation/TopBar.vue",
+            "fileType": ".vue",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "lumine-web",
             "content": {
