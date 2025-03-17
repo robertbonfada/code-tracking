@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1596                                          |
+| **Lines Added** (➕)   | 2595                                          |
 | **Lines Removed** (➖) | 128                                        |
-| **Net Change** (↕)    | 1468                |
-| **Active Time** (⌚)   | 110 minutes |
+| **Net Change** (↕)    | 2467                |
+| **Active Time** (⌚)   | 118 minutes |
 
 
 ## Modified Files
@@ -21,7 +21,9 @@
 - **PlayerContext.tsx** (+236, -10)
 - **index.tsx** (+155, -1)
 - **CollectionsTab.tsx** (+259, -0)
-- **$jornada.tsx** (+201, -0)
+- **$jornada.tsx** (+202, -0)
+- **$livro.tsx** (+235, -0)
+- **index.tsx** (+763, -0)
 
 ## Visualizations
 
@@ -30,7 +32,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1312
+".tsx" : 2311
 ".ts" : 412
 ```
 
@@ -42,8 +44,8 @@ title Coding activity by hour (count of changes)
 "11h" : 54
 "12h" : 11
 "13h" : 13
-"14h" : 20
+"14h" : 28
 ```
 
 
-> **Last Updated:** 17/03/2025, 14:12:17
+> **Last Updated:** 17/03/2025, 14:17:17
