@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-18",
+  "projects": {
+    "peregrino-web": {
+      "totalLinesAdded": 43,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Library/Application Support/Trae/User/settings.json": [
+          {
+            "timestamp": "2025-03-18T19:51:12.726Z",
+            "fileName": "/Users/admin/Library/Application Support/Trae/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 43,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "16": 0
+      },
+      "topFiles": [
+        "/Users/admin/Library/Application Support/Trae/User/settings.json"
+      ],
+      "averageChangeSize": 43
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
