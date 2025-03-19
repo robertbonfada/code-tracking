@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 926                                          |
+| **Lines Added** (➕)   | 940                                          |
 | **Lines Removed** (➖) | 54                                        |
-| **Net Change** (↕)    | 872                |
-| **Active Time** (⌚)   | 117 minutes |
+| **Net Change** (↕)    | 886                |
+| **Active Time** (⌚)   | 119 minutes |
 
 
 ## Modified Files
@@ -26,7 +26,8 @@
 - **user.ts** (+21, -0)
 - **useAuth.ts** (+39, -0)
 - **Footer.tsx** (+83, -1)
-- **CarouselBooks.tsx** (+180, -0)
+- **CarouselBooks.tsx** (+182, -0)
+- **slug.ts** (+12, -0)
 
 ## Visualizations
 
@@ -35,8 +36,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 895
-".ts" : 85
+".tsx" : 897
+".ts" : 97
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -46,8 +47,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
 "10h" : 48
-"11h" : 19
+"11h" : 22
 ```
 
 
-> **Last Updated:** 19/03/2025, 11:13:54
+> **Last Updated:** 19/03/2025, 11:18:54
