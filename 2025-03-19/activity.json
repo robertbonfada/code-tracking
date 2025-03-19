@@ -2,9 +2,9 @@
   "date": "2025-03-19",
   "projects": {
     "peregrino-web": {
-      "totalLinesAdded": 940,
-      "totalLinesRemoved": 54,
-      "totalActiveTime": 119,
+      "totalLinesAdded": 1033,
+      "totalLinesRemoved": 91,
+      "totalActiveTime": 132,
       "files": {
         "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/login/page.tsx": [
           {
@@ -1268,6 +1268,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T14:19:08.676Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/global/CarouselBooks.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T14:19:40.520Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/global/CarouselBooks.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/peregrino-web/lib/utils/slug.ts": [
@@ -1290,6 +1318,148 @@
             "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/utils/slug.ts",
             "fileType": ".ts",
             "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts": [
+          {
+            "timestamp": "2025-03-19T14:20:33.075Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:20:33.850Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:21:02.716Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:21:27.031Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:22:31.572Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:22:34.696Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 56,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:22:47.226Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:23:01.305Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:23:20.568Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-03-19T14:23:30.036Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/lib/services/homeService.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "peregrino-web",
             "content": {
