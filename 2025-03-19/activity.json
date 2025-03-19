@@ -2,9 +2,9 @@
   "date": "2025-03-19",
   "projects": {
     "peregrino-web": {
-      "totalLinesAdded": 171,
+      "totalLinesAdded": 239,
       "totalLinesRemoved": 25,
-      "totalActiveTime": 38,
+      "totalActiveTime": 49,
       "files": {
         "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/login/page.tsx": [
           {
@@ -421,6 +421,118 @@
               "removed": []
             },
             "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:24:02.519Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/recuperacao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:26:05.841Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/recuperacao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:26:12.467Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/recuperacao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:27:13.342Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/recuperacao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:27:23.462Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/recuperacao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:28:19.283Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/recuperacao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:28:35.250Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/recuperacao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:28:52.897Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/recuperacao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "tsx"
           }
         ]
