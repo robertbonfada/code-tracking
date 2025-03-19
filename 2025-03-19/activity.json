@@ -2,9 +2,9 @@
   "date": "2025-03-19",
   "projects": {
     "peregrino-web": {
-      "totalLinesAdded": 464,
-      "totalLinesRemoved": 42,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 477,
+      "totalLinesRemoved": 43,
+      "totalActiveTime": 84,
       "files": {
         "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/login/page.tsx": [
           {
@@ -664,6 +664,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:49:16.299Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(app)/layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/peregrino-web/components/layout/Sidebar.tsx": [
@@ -736,6 +750,34 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:50:38.892Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/layout/Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:51:04.950Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/layout/Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/peregrino-web/components/layout/SidebarMenuItem.tsx": [
@@ -772,6 +814,22 @@
             "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/layout/SidebarMenuItem.tsx",
             "fileType": ".tsx",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/peregrino-web/app/(app)/page.tsx": [
+          {
+            "timestamp": "2025-03-19T13:50:02.937Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(app)/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 11,
             "linesRemoved": 0,
             "projectName": "peregrino-web",
             "content": {
