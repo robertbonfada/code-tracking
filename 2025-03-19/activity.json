@@ -3,7 +3,7 @@
   "projects": {
     "peregrino-web": {
       "totalLinesAdded": 147,
-      "totalLinesRemoved": 3,
+      "totalLinesRemoved": 9,
       "totalActiveTime": 26,
       "files": {
         "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/login/page.tsx": [
@@ -305,6 +305,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:07:27.055Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/ui/input.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
