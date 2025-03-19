@@ -1565,6 +1565,39 @@
         "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/login/page.tsx"
       ],
       "averageChangeSize": 1.5
+    },
+    "audiobooks-web": {
+      "totalLinesAdded": 47,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/home/MainContent.tsx": [
+          {
+            "timestamp": "2025-03-19T14:26:30.179Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/home/MainContent.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 47,
+            "linesRemoved": 0,
+            "projectName": "audiobooks-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "/Users/admin/Development/Clients/MBC/audiobooks-web/src/components/home/MainContent.tsx"
+      ],
+      "averageChangeSize": 47
     }
   },
   "totalActiveTime": 1,
