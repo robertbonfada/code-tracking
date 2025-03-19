@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1033                                          |
-| **Lines Removed** (➖) | 91                                        |
-| **Net Change** (↕)    | 942                |
-| **Active Time** (⌚)   | 132 minutes |
+| **Lines Added** (➕)   | 1085                                          |
+| **Lines Removed** (➖) | 100                                        |
+| **Net Change** (↕)    | 985                |
+| **Active Time** (⌚)   | 140 minutes |
 
 
 ## Modified Files
@@ -21,12 +21,12 @@
 - **layout.tsx** (+25, -8)
 - **Sidebar.tsx** (+78, -2)
 - **SidebarMenuItem.tsx** (+44, -0)
-- **page.tsx** (+11, -0)
+- **page.tsx** (+61, -9)
 - **Header.tsx** (+121, -10)
 - **user.ts** (+21, -0)
 - **useAuth.ts** (+39, -0)
 - **Footer.tsx** (+83, -1)
-- **CarouselBooks.tsx** (+182, -5)
+- **CarouselBooks.tsx** (+184, -5)
 - **slug.ts** (+12, -0)
 - **homeService.ts** (+93, -32)
 
@@ -37,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 902
+".tsx" : 963
 ".ts" : 222
 ```
 
@@ -48,8 +48,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 20
 "10h" : 48
-"11h" : 34
+"11h" : 40
 ```
 
 
-> **Last Updated:** 19/03/2025, 11:23:54
+> **Last Updated:** 19/03/2025, 11:28:54

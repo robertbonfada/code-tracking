@@ -2,9 +2,9 @@
   "date": "2025-03-19",
   "projects": {
     "peregrino-web": {
-      "totalLinesAdded": 1033,
-      "totalLinesRemoved": 91,
-      "totalActiveTime": 132,
+      "totalLinesAdded": 1085,
+      "totalLinesRemoved": 100,
+      "totalActiveTime": 140,
       "files": {
         "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/login/page.tsx": [
           {
@@ -894,6 +894,76 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T14:25:14.833Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(app)/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T14:25:31.132Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(app)/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T14:25:59.630Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(app)/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T14:26:06.759Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(app)/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T14:26:54.578Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(app)/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/peregrino-web/components/layout/Header.tsx": [
@@ -1295,6 +1365,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T14:27:54.850Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/global/CarouselBooks.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ],
