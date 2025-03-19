@@ -2,9 +2,9 @@
   "date": "2025-03-19",
   "projects": {
     "peregrino-web": {
-      "totalLinesAdded": 147,
-      "totalLinesRemoved": 9,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 166,
+      "totalLinesRemoved": 21,
+      "totalActiveTime": 33,
       "files": {
         "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/login/page.tsx": [
           {
@@ -319,6 +319,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:09:39.367Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/ui/input.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:11:34.184Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/ui/input.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:13:09.815Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/components/ui/input.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 7,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "tsx"
           }
         ]
