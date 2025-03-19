@@ -2,9 +2,9 @@
   "date": "2025-03-19",
   "projects": {
     "peregrino-web": {
-      "totalLinesAdded": 239,
-      "totalLinesRemoved": 25,
-      "totalActiveTime": 49,
+      "totalLinesAdded": 319,
+      "totalLinesRemoved": 33,
+      "totalActiveTime": 56,
       "files": {
         "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/login/page.tsx": [
           {
@@ -527,6 +527,64 @@
             "fileType": ".tsx",
             "linesAdded": 3,
             "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/redefinicao-senha/page.tsx": [
+          {
+            "timestamp": "2025-03-19T13:32:00.128Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/redefinicao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:32:50.013Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/redefinicao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:33:31.432Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/redefinicao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "peregrino-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-03-19T13:33:36.426Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/peregrino-web/app/(auth)/redefinicao-senha/page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 8,
             "projectName": "peregrino-web",
             "content": {
               "added": [],
