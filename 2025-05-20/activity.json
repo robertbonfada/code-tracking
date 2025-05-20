@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 526,
+      "totalLinesAdded": 528,
       "totalLinesRemoved": 16,
-      "totalActiveTime": 10,
+      "totalActiveTime": 11,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudFilter.tsx": [
           {
@@ -137,6 +137,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-05-20T19:59:39.644Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/hooks/cms/useClientes.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
