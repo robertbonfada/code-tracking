@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2041                                          |
+| **Lines Added** (➕)   | 2059                                          |
 | **Lines Removed** (➖) | 145                                        |
-| **Net Change** (↕)    | 1896                |
-| **Active Time** (⌚)   | 70 minutes |
+| **Net Change** (↕)    | 1914                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
@@ -18,8 +18,8 @@
 - **__root.tsx** (+44, -1)
 - **ClientesAPI.ts** (+37, -3)
 - **AbstractApiClient.ts** (+149, -4)
-- **index.tsx** (+760, -88)
-- **CrudAppliedFilters.tsx** (+74, -1)
+- **index.tsx** (+763, -88)
+- **CrudAppliedFilters.tsx** (+89, -1)
 
 ## Visualizations
 
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1685
+".tsx" : 1703
 ".ts" : 501
 ```
 
@@ -40,8 +40,8 @@ title Coding activity by hour (count of changes)
 "16h" : 13
 "17h" : 17
 "18h" : 7
-"20h" : 23
+"20h" : 27
 ```
 
 
-> **Last Updated:** 20/05/2025, 20:42:21
+> **Last Updated:** 20/05/2025, 20:57:21

@@ -2,9 +2,9 @@
   "date": "2025-05-20",
   "projects": {
     "mbc-web": {
-      "totalLinesAdded": 2041,
+      "totalLinesAdded": 2059,
       "totalLinesRemoved": 145,
-      "totalActiveTime": 70,
+      "totalActiveTime": 73,
       "files": {
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudFilter.tsx": [
           {
@@ -832,6 +832,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T23:54:02.713Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudAppliedFilters.tsx": [
@@ -855,6 +869,48 @@
             "fileType": ".tsx",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T23:52:49.346Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudAppliedFilters.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T23:53:38.763Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudAppliedFilters.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-05-20T23:54:12.597Z",
+            "fileName": "/Users/admin/Development/Clients/MBC/mbc-web/src/components/backoffice/Crud/CrudAppliedFilters.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
             "projectName": "mbc-web",
             "content": {
               "added": [],
