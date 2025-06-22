@@ -2,7 +2,7 @@
   "date": "2025-06-22",
   "projects": {
     "mosaico-test-3": {
-      "totalLinesAdded": 816,
+      "totalLinesAdded": 1131,
       "totalLinesRemoved": 312,
       "totalActiveTime": 18,
       "files": {
@@ -159,6 +159,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-22T21:38:52.130Z",
+            "fileName": "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html",
+            "fileType": ".html",
+            "linesAdded": 315,
+            "linesRemoved": 0,
+            "projectName": "mosaico-test-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
