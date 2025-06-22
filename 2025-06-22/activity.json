@@ -1,0 +1,103 @@
+{
+  "date": "2025-06-22",
+  "projects": {
+    "mosaico-test-3": {
+      "totalLinesAdded": 641,
+      "totalLinesRemoved": 119,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html": [
+          {
+            "timestamp": "2025-06-22T21:16:04.632Z",
+            "fileName": "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html",
+            "fileType": ".html",
+            "linesAdded": 245,
+            "linesRemoved": 0,
+            "projectName": "mosaico-test-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-22T21:17:03.741Z",
+            "fileName": "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html",
+            "fileType": ".html",
+            "linesAdded": 231,
+            "linesRemoved": 0,
+            "projectName": "mosaico-test-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-22T21:17:55.554Z",
+            "fileName": "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 33,
+            "projectName": "mosaico-test-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-22T21:18:43.859Z",
+            "fileName": "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 86,
+            "projectName": "mosaico-test-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-22T21:19:50.668Z",
+            "fileName": "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html",
+            "fileType": ".html",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "mosaico-test-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 5
+      },
+      "changeFrequency": {
+        "18": 5
+      },
+      "topFiles": [
+        "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html"
+      ],
+      "averageChangeSize": 152
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
