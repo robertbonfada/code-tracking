@@ -3,8 +3,8 @@
   "projects": {
     "mosaico-test-3": {
       "totalLinesAdded": 816,
-      "totalLinesRemoved": 250,
-      "totalActiveTime": 12,
+      "totalLinesRemoved": 312,
+      "totalActiveTime": 18,
       "files": {
         "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html": [
           {
@@ -131,6 +131,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-22T21:26:18.552Z",
+            "fileName": "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 54,
+            "projectName": "mosaico-test-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-22T21:28:31.661Z",
+            "fileName": "/Users/admin/Development/RobertLabs/mosaico-test-3/index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "mosaico-test-3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ]
