@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1333                                          |
+| **Lines Added** (➕)   | 1531                                          |
 | **Lines Removed** (➖) | 27                                        |
-| **Net Change** (↕)    | 1306                |
-| **Active Time** (⌚)   | 10 minutes |
+| **Net Change** (↕)    | 1504                |
+| **Active Time** (⌚)   | 15 minutes |
 
 
 ## Modified Files
 - **CrudFilter.tsx** (+372, -27)
 - **index.tsx** (+918, -0)
 - **settings.json** (+43, -0)
+- **CrudAppliedFilters.tsx** (+198, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".tsx" : 1317
+".tsx" : 1515
 ".json" : 43
 ```
 
@@ -31,8 +32,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"19h" : 9
+"19h" : 10
 ```
 
 
-> **Last Updated:** 11/11/2025, 19:52:15
+> **Last Updated:** 11/11/2025, 19:57:15
