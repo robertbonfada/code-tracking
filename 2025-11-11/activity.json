@@ -1,0 +1,64 @@
+{
+  "date": "2025-11-11",
+  "projects": {
+    "mbc-web": {
+      "totalLinesAdded": 1246,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/admin/dev/clients/MBC/mbc-web/src/components/backoffice/Crud/CrudFilter.tsx": [
+          {
+            "timestamp": "2025-11-11T22:24:08.197Z",
+            "fileName": "/Users/admin/dev/clients/MBC/mbc-web/src/components/backoffice/Crud/CrudFilter.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 350,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ],
+        "/Users/admin/dev/clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx": [
+          {
+            "timestamp": "2025-11-11T22:26:59.551Z",
+            "fileName": "/Users/admin/dev/clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 896,
+            "linesRemoved": 0,
+            "projectName": "mbc-web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 3
+      },
+      "changeFrequency": {
+        "19": 3
+      },
+      "topFiles": [
+        "/Users/admin/dev/clients/MBC/mbc-web/src/components/backoffice/Crud/CrudFilter.tsx",
+        "/Users/admin/dev/clients/MBC/mbc-web/src/components/backoffice/Crud/index.tsx"
+      ],
+      "averageChangeSize": 623
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    19
+  ],
+  "mostUsedLanguages": [
+    "tsx"
+  ]
+}
